@@ -5,8 +5,8 @@ package Evaluation_Order
   */
 object problem05 {
   def main(args: Array[String]): Unit = {
-    val C:Double = 40
-    val term:Double = (5.toDouble/9.toDouble) * C
+    val C:Double = 35.7777786
+    val term:Double = (180.toDouble/100.toDouble) * C
     val F:Double = term + 32
     println(F)
   }
