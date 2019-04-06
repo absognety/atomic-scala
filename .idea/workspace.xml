@@ -31,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="problem06.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/ForLoops/problem06.scala">
+      <file leaf-file-name="problem12.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem12.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="56">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -51,18 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/compound_Expressions/problem01.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/compound_Expressions/problem02.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/compound_Expressions/problem03.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/compound_Expressions/problem04.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Summary_I/problem01.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/problem02.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Summary_I/problem02.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Summary_I/problem03.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Summary_I/problem04.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Summary_I/problem05.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Summary_I/problem06.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/Summary_I/problem07.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Summary_I/problem08.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Summary_I/problem09.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/Summary_I/problem0910.scala" />
@@ -102,6 +90,18 @@
         <option value="$PROJECT_DIR$/src/main/scala/ForLoops/problem04.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/ForLoops/problem05.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/ForLoops/problem06.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem01.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem02.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem03.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem04.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem05.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem06.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem07.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem08.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem09.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem10.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem11.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Vectors/problem12.scala" />
       </list>
     </option>
   </component>
@@ -177,6 +177,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_scala_programs_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_scala_programs_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vectors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -201,15 +227,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.problem06">
-    <configuration default="false" name="problem02" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.problem12">
+    <configuration default="false" name="problem08" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ForLoops.*" />
+          <option name="PATTERN" value="Vectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ForLoops.problem02" />
+      <option name="MAIN_CLASS_NAME" value="Vectors.problem08" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -222,14 +248,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="problem03" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="problem09" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ForLoops.*" />
+          <option name="PATTERN" value="Vectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ForLoops.problem03" />
+      <option name="MAIN_CLASS_NAME" value="Vectors.problem09" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -242,14 +268,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="problem04" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="problem10" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ForLoops.*" />
+          <option name="PATTERN" value="Vectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ForLoops.problem04" />
+      <option name="MAIN_CLASS_NAME" value="Vectors.problem10" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -262,14 +288,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="problem05" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="problem11" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ForLoops.*" />
+          <option name="PATTERN" value="Vectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ForLoops.problem05" />
+      <option name="MAIN_CLASS_NAME" value="Vectors.problem11" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -282,14 +308,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="problem06" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="problem12" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ForLoops.*" />
+          <option name="PATTERN" value="Vectors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ForLoops.problem06" />
+      <option name="MAIN_CLASS_NAME" value="Vectors.problem12" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -595,19 +621,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.problem02" />
-      <item index="1" class="java.lang.String" itemvalue="Application.problem03" />
-      <item index="2" class="java.lang.String" itemvalue="Application.problem04" />
-      <item index="3" class="java.lang.String" itemvalue="Application.problem05" />
-      <item index="4" class="java.lang.String" itemvalue="Application.problem06" />
+      <item index="0" class="java.lang.String" itemvalue="Application.problem08" />
+      <item index="1" class="java.lang.String" itemvalue="Application.problem09" />
+      <item index="2" class="java.lang.String" itemvalue="Application.problem10" />
+      <item index="3" class="java.lang.String" itemvalue="Application.problem11" />
+      <item index="4" class="java.lang.String" itemvalue="Application.problem12" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.problem06" />
-        <item index="1" class="java.lang.String" itemvalue="Application.problem05" />
-        <item index="2" class="java.lang.String" itemvalue="Application.problem04" />
-        <item index="3" class="java.lang.String" itemvalue="Application.problem03" />
-        <item index="4" class="java.lang.String" itemvalue="Application.problem02" />
+        <item index="0" class="java.lang.String" itemvalue="Application.problem12" />
+        <item index="1" class="java.lang.String" itemvalue="Application.problem11" />
+        <item index="2" class="java.lang.String" itemvalue="Application.problem10" />
+        <item index="3" class="java.lang.String" itemvalue="Application.problem09" />
+        <item index="4" class="java.lang.String" itemvalue="Application.problem08" />
       </list>
     </recent_temporary>
   </component>
@@ -710,90 +736,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/compound_Expressions/problem02.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="469">
-          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/compound_Expressions/problem03.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/compound_Expressions/problem04.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Summary_I/problem03.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Summary_I/problem02.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Summary_I/problem01.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Summary_I/problem04.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="48" lean-forward="true" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Summary_I/problem05.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Summary_I/problem06.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Summary_I/problem07.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Summary_I/problem08.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Methods/problem01.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Methods/problem05.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1081,8 +1023,104 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/ForLoops/problem06.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="392">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem01.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem02.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem03.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem04.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem05.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem06.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem07.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem08.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem09.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem10.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem11.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Vectors/problem12.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
           <folding />
         </state>
       </provider>
