@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="default"
+		module="testscalaconfig-build"
+		revision="0.1.0-SNAPSHOT"
+		extra-scalaVersion="2.12"
+		extra-sbtVersion="1.0"
+		conf="runtime-internal"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20190612123632"/>
+	<dependencies>
+		<module organisation="org.scala-sbt" name="global-plugins">
+			<revision name="0.0" status="integration" pubdate="20190612123615" resolver="inter-project" artresolver="inter-project" extra-scalaVersion="2.12" extra-sbtVersion="1.0" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="0">
+				<metadata-artifact status="failed" details="" size="0" time="0" searched="false"/>
+				<caller organisation="default" name="testscalaconfig-build" conf="compile, runtime-internal, runtime, optional" rev="0.0" rev-constraint-default="0.0" rev-constraint-dynamic="0.0" callerrev="0.1.0-SNAPSHOT" extra-scalaVersion="2.12" extra-sbtVersion="1.0"/>
+				<artifacts>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jetbrains" name="sbt-idea-compiler-indices">
+			<revision name="0.1.3" status="release" pubdate="20190326151934" resolver="sbt-chain" artresolver="sbt-chain" extra-scalaVersion="2.12" extra-sbtVersion="1.0" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="3">
+				<metadata-artifact status="no" details="" size="2546" time="0" location="/home/padma/.ivy2/cache/scala_2.12/sbt_1.0/org.jetbrains/sbt-idea-compiler-indices/ivy-0.1.3.xml" searched="false" origin-is-local="false" origin-location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-idea-compiler-indices/scala_2.12/sbt_1.0/0.1.3/ivys/ivy.xml"/>
+				<caller organisation="org.scala-sbt" name="global-plugins" conf="compile" rev="0.1.3" rev-constraint-default="0.1.3" rev-constraint-dynamic="0.1.3" callerrev="0.0" extra-scalaVersion="2.12" extra-sbtVersion="1.0"/>
+				<artifacts>
+					<artifact name="sbt-idea-compiler-indices" type="jar" ext="jar" status="no" details="" size="45530" time="0" location="/home/padma/.ivy2/cache/scala_2.12/sbt_1.0/org.jetbrains/sbt-idea-compiler-indices/jars/sbt-idea-compiler-indices-0.1.3.jar">
+						<origin-location is-local="false" location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-idea-compiler-indices/scala_2.12/sbt_1.0/0.1.3/jars/sbt-idea-compiler-indices.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="io.github.sugakandrey" name="scala-compiler-indices-protocol_2.12">
+			<revision name="0.1.1" status="release" pubdate="20190313184148" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/JetBrains/intellij-scala-indices-protocol" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
+				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="2892" time="0" location="/home/padma/.ivy2/cache/io.github.sugakandrey/scala-compiler-indices-protocol_2.12/ivy-0.1.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/github/sugakandrey/scala-compiler-indices-protocol_2.12/0.1.1/scala-compiler-indices-protocol_2.12-0.1.1.pom"/>
+				<caller organisation="org.jetbrains" name="sbt-idea-compiler-indices" conf="compile" rev="0.1.1" rev-constraint-default="0.1.1" rev-constraint-dynamic="0.1.1" callerrev="0.1.3"/>
+				<artifacts>
+					<artifact name="scala-compiler-indices-protocol_2.12" type="jar" ext="jar" status="no" details="" size="116564" time="0" location="/home/padma/.ivy2/cache/io.github.sugakandrey/scala-compiler-indices-protocol_2.12/jars/scala-compiler-indices-protocol_2.12-0.1.1.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/github/sugakandrey/scala-compiler-indices-protocol_2.12/0.1.1/scala-compiler-indices-protocol_2.12-0.1.1.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="io.spray" name="spray-json_2.12">
+			<revision name="1.3.4" status="release" pubdate="20171024122349" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/spray/spray-json" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="6">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3081" time="0" location="/home/padma/.ivy2/cache/io.spray/spray-json_2.12/ivy-1.3.4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/spray/spray-json_2.12/1.3.4/spray-json_2.12-1.3.4.pom"/>
+				<caller organisation="io.github.sugakandrey" name="scala-compiler-indices-protocol_2.12" conf="default, compile, runtime, master" rev="1.3.4" rev-constraint-default="1.3.4" rev-constraint-dynamic="1.3.4" callerrev="0.1.1"/>
+				<artifacts>
+					<artifact name="spray-json_2.12" type="bundle" ext="jar" status="no" details="" size="285867" time="0" location="/home/padma/.ivy2/cache/io.spray/spray-json_2.12/bundles/spray-json_2.12-1.3.4.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/spray/spray-json_2.12/1.3.4/spray-json_2.12-1.3.4.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jetbrains" name="sbt-idea-shell">
+			<revision name="2018.3" status="release" pubdate="20181105210000" resolver="sbt-chain" artresolver="sbt-chain" extra-scalaVersion="2.12" extra-sbtVersion="1.0" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="2">
+				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
+				<metadata-artifact status="no" details="" size="2421" time="0" location="/home/padma/.ivy2/cache/scala_2.12/sbt_1.0/org.jetbrains/sbt-idea-shell/ivy-2018.3.xml" searched="false" origin-is-local="false" origin-location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-idea-shell/scala_2.12/sbt_1.0/2018.3/ivys/ivy.xml"/>
+				<caller organisation="org.scala-sbt" name="global-plugins" conf="compile" rev="2018.3" rev-constraint-default="2018.3" rev-constraint-dynamic="2018.3" callerrev="0.0" extra-scalaVersion="2.12" extra-sbtVersion="1.0"/>
+				<artifacts>
+					<artifact name="sbt-idea-shell" type="jar" ext="jar" status="no" details="" size="10705" time="0" location="/home/padma/.ivy2/cache/scala_2.12/sbt_1.0/org.jetbrains/sbt-idea-shell/jars/sbt-idea-shell-2018.3.jar">
+						<origin-location is-local="false" location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-idea-shell/scala_2.12/sbt_1.0/2018.3/jars/sbt-idea-shell.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jetbrains" name="sbt-structure-extractor">
+			<revision name="2018.2.1+4-88400d3f" status="integration" pubdate="20180919230826" resolver="sbt-chain" artresolver="sbt-chain" extra-scalaVersion="2.12" extra-sbtVersion="1.0" downloaded="false" searched="false" default="false" conf="compile, default(compile)" position="1">
+				<license name="Apache-2.0" url="http://www.apache.org/licenses/LICENSE-2.0.html"/>
+				<metadata-artifact status="no" details="" size="2067" time="0" location="/home/padma/.ivy2/cache/scala_2.12/sbt_1.0/org.jetbrains/sbt-structure-extractor/ivy-2018.2.1+4-88400d3f.xml" searched="false" origin-is-local="false" origin-location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/ivys/ivy.xml"/>
+				<caller organisation="org.scala-sbt" name="global-plugins" conf="compile" rev="2018.2.1+4-88400d3f" rev-constraint-default="2018.2.1+4-88400d3f" rev-constraint-dynamic="2018.2.1+4-88400d3f" callerrev="0.0" extra-scalaVersion="2.12" extra-sbtVersion="1.0"/>
+				<artifacts>
+					<artifact name="sbt-structure-extractor" type="jar" ext="jar" status="no" details="" size="367489" time="0" location="/home/padma/.ivy2/cache/scala_2.12/sbt_1.0/org.jetbrains/sbt-structure-extractor/jars/sbt-structure-extractor-2018.2.1+4-88400d3f.jar">
+						<origin-location is-local="false" location="https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.jetbrains/sbt-structure-extractor/scala_2.12/sbt_1.0/2018.2.1+4-88400d3f/jars/sbt-structure-extractor.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.12.7" status="release" pubdate="20180927140542" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.7/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2471" time="0" location="/home/padma/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.7.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.7/scala-library-2.12.7.pom"/>
+				<caller organisation="io.spray" name="spray-json_2.12" conf="compile, runtime" rev="2.12.7" rev-constraint-default="2.12.7" rev-constraint-dynamic="2.12.7" callerrev="1.3.4"/>
+				<caller organisation="io.github.sugakandrey" name="scala-compiler-indices-protocol_2.12" conf="default, compile, runtime, master" rev="2.12.7" rev-constraint-default="2.12.7" rev-constraint-dynamic="2.12.7" callerrev="0.1.1"/>
+				<artifacts>
+					<artifact name="scala-library" type="jar" ext="jar" status="no" details="" size="5277511" time="0" location="/home/padma/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.7.jar">
+						<origin-location is-local="false" location="UNKNOWN"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>
