@@ -13,7 +13,7 @@ object Solution4 {
             new simpleTime(hours = (time-t2)/60,0)
           }
           else {
-            new simpleTime(0,(time-t2)%60)
+            new simpleTime((time-t2)/60,(time-t2)%60)
           }
         }
         else {
