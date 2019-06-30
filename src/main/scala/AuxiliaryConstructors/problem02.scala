@@ -26,5 +26,7 @@ object problem02 {
     y.show()
     val z = new ClothesWasher4("6772772",90.11)
     z.show()
+    val w = new ClothesWasher2("G191SH78",12.04)
+    w.show()
   }
 }
