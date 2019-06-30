@@ -36,3 +36,12 @@ object Solution4 {
     println(st3.Minutes)
   }
 }
+
+/* OUTPUT_SHOULD_BE
+1
+0
+0
+45
+0
+0
+*/
