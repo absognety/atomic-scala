@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 2 - return Set from Vector scala">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ParametrizedTypes/Solution4.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 4 - (collections.Counter,scala hashmap)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -316,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573976919700</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="solution 4 - (collections.Counter,scala hashmap)">
+      <created>1573984075671</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573984075671</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -346,7 +352,8 @@
     <MESSAGE value="solution 1 - casting types for parameters" />
     <MESSAGE value="solution 2 - return List from Vector scala" />
     <MESSAGE value="solution 2 - return Set from Vector scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution 2 - return Set from Vector scala" />
+    <MESSAGE value="solution 4 - (collections.Counter,scala hashmap)" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution 4 - (collections.Counter,scala hashmap)" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
