@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="Vector to string with sep - solution 2">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/FunctionsAsObjects/Solution3.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="anonymous functions in scala">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/FunctionsAsObjects/Solution4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution3">
+  <component name="RunManager" selected="Application.Solution4 (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -91,13 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution3 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ParametrizedTypes.Solution3" />
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsAsObjects.Solution3" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ParametrizedTypes.*" />
+          <option name="PATTERN" value="FunctionsAsObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsAsObjects.Solution3" />
+    <configuration name="Solution4 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsAsObjects.Solution4" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -214,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution3 (1)" />
       <item itemvalue="Application.Solution4" />
       <item itemvalue="Application.Solution1" />
       <item itemvalue="Application.Solution2" />
       <item itemvalue="Application.Solution3" />
+      <item itemvalue="Application.Solution4 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution4 (1)" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.Solution4" />
-        <item itemvalue="Application.Solution3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574005566611</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="anonymous functions in scala">
+      <created>1574005902171</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574005902171</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -376,7 +384,8 @@
     <MESSAGE value="solution 4 - (collections.Counter,scala hashmap)" />
     <MESSAGE value="Vector to string - solution 1" />
     <MESSAGE value="Vector to string with sep - solution 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vector to string with sep - solution 2" />
+    <MESSAGE value="anonymous functions in scala" />
+    <option name="LAST_COMMIT_MESSAGE" value="anonymous functions in scala" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
