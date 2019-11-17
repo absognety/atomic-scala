@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 3 - show dependent on control flow">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ParametrizedTypes/Solution1.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 1 - casting types for parameters">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ParametrizedTypes/Solution2.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution1 (1)">
+  <component name="RunManager" selected="Application.Solution2 (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -85,6 +85,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="StringInterpolation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ParametrizedTypes.Solution2" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ParametrizedTypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,20 +136,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem01 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="AuxiliaryConstructors.problem01" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AuxiliaryConstructors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.problem01 (1)" />
       <item itemvalue="Application.Solution1" />
       <item itemvalue="Application.Solution2" />
       <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.Solution1 (1)" />
+      <item itemvalue="Application.Solution2 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.Solution1 (1)" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
-        <item itemvalue="Application.problem01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573969036405</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="solution 1 - casting types for parameters">
+      <created>1573975869537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573975869537</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -322,7 +329,8 @@
     <MESSAGE value="solution 1 scala - string interpolation" />
     <MESSAGE value="solution 2 scala - string interpolation" />
     <MESSAGE value="solution 3 - show dependent on control flow" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution 3 - show dependent on control flow" />
+    <MESSAGE value="solution 1 - casting types for parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution 1 - casting types for parameters" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
