@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="filter, map, case classes - scala Vector of vectors">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Comprehensions/Solution6.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +38,7 @@
   <component name="ProjectId" id="1Tj4zuQeyQ7U6snQXts9pS82e2P" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../IdeaProjects/javaprogramming" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -56,23 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution5">
+  <component name="RunManager" selected="Application.Solution6">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Comprehensions.Solution1" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Comprehensions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -121,6 +108,20 @@
     </configuration>
     <configuration name="Solution5" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Comprehensions.Solution5" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Comprehensions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Comprehensions.Solution6" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -214,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution1" />
       <item itemvalue="Application.Solution2" />
       <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.Solution4" />
       <item itemvalue="Application.Solution5" />
+      <item itemvalue="Application.Solution6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution6" />
         <item itemvalue="Application.Solution5" />
         <item itemvalue="Application.Solution4" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -477,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574335393426</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="filter, map, case classes - scala Vector of vectors">
+      <created>1574335485951</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1574335485951</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
