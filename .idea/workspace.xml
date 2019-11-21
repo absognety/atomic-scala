@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="implement a scala method using reduce for sum of vector entries">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Map_Reduce/problem06.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Comprehensions/Solution1.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,29 +57,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.problem06">
+  <component name="RunManager" selected="Application.Solution1">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Map_Reduce.problem02" />
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Comprehensions.Solution1" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Map_Reduce.*" />
+          <option name="PATTERN" value="Comprehensions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.problem02" />
       <item itemvalue="Application.problem03" />
       <item itemvalue="Application.problem04" />
       <item itemvalue="Application.problem05" />
       <item itemvalue="Application.problem06" />
+      <item itemvalue="Application.Solution1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.problem06" />
         <item itemvalue="Application.problem05" />
         <item itemvalue="Application.problem04" />
         <item itemvalue="Application.problem03" />
-        <item itemvalue="Application.problem02" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574318733091</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="implement a scala method using reduce for sum of vector entries">
+      <created>1574319746032</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1574319746032</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView">
