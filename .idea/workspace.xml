@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 4 fill function in foreach">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/FunctionsAsObjects/Solution5.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 4,5 fixed up with correct implementations">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/FunctionsAsObjects/Solution6.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/FunctionsAsObjects/Solution4.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/FunctionsAsObjects/Solution4.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,23 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution5">
+  <component name="RunManager" selected="Application.Solution6">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsAsObjects.Solution1" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FunctionsAsObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,6 +108,20 @@
     </configuration>
     <configuration name="Solution5" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="FunctionsAsObjects.Solution5" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FunctionsAsObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsAsObjects.Solution6" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -216,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution1" />
       <item itemvalue="Application.Solution2" />
       <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.Solution4 (1)" />
       <item itemvalue="Application.Solution5" />
+      <item itemvalue="Application.Solution6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution6" />
         <item itemvalue="Application.Solution5" />
         <item itemvalue="Application.Solution4 (1)" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -259,6 +258,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3147920661730" />
         <entry key="$PROJECT_DIR$/build.sbt" value="689000671" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
       </map>
@@ -359,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574007742079</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="solution 4,5 fixed up with correct implementations">
+      <created>1574008197231</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1574008197231</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -376,7 +383,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -394,7 +403,8 @@
     <MESSAGE value="Vector to string with sep - solution 2" />
     <MESSAGE value="anonymous functions in scala" />
     <MESSAGE value="solution 4 fill function in foreach" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution 4 fill function in foreach" />
+    <MESSAGE value="solution 4,5 fixed up with correct implementations" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution 4,5 fixed up with correct implementations" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
