@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="replacement to yield in yielding3.scala">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Comprehensions/Solution4.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="check the altered declaration of variables in comprehension">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Comprehensions/Solution5.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution4">
+  <component name="RunManager" selected="Application.Solution5">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -120,22 +120,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem06" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Map_Reduce.problem06" />
+    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Comprehensions.Solution5" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Map_Reduce.*" />
+          <option name="PATTERN" value="Comprehensions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.problem06" />
       <item itemvalue="Application.Solution1" />
       <item itemvalue="Application.Solution2" />
       <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.Solution4" />
+      <item itemvalue="Application.Solution5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution5" />
         <item itemvalue="Application.Solution4" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
-        <item itemvalue="Application.problem06" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574330431940</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="check the altered declaration of variables in comprehension">
+      <created>1574332237153</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1574332237153</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -481,7 +488,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solution 1 scala - string interpolation" />
     <MESSAGE value="solution 2 scala - string interpolation" />
     <MESSAGE value="solution 3 - show dependent on control flow" />
     <MESSAGE value="solution 1 - casting types for parameters" />
@@ -506,7 +512,8 @@
     <MESSAGE value="change name: yielding to name: generator" />
     <MESSAGE value="Vector[int] =&gt; List[Int]" />
     <MESSAGE value="replacement to yield in yielding3.scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="replacement to yield in yielding3.scala" />
+    <MESSAGE value="check the altered declaration of variables in comprehension" />
+    <option name="LAST_COMMIT_MESSAGE" value="check the altered declaration of variables in comprehension" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
