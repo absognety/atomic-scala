@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="using map to transform prob 01">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Map_Reduce/problem02.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="using foreach in place of map">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Map_Reduce/problem03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,23 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.problem02">
+  <component name="RunManager" selected="Application.problem03">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution7" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsAsObjects.Solution7" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FunctionsAsObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,6 +114,20 @@
     </configuration>
     <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Map_Reduce.problem02" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Map_Reduce.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Map_Reduce.problem03" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution7" />
       <item itemvalue="Application.Solution8" />
       <item itemvalue="Application.Solution9" />
       <item itemvalue="Application.problem01" />
       <item itemvalue="Application.problem02" />
+      <item itemvalue="Application.problem03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem03" />
         <item itemvalue="Application.problem02" />
         <item itemvalue="Application.problem01" />
         <item itemvalue="Application.Solution9" />
         <item itemvalue="Application.Solution8" />
-        <item itemvalue="Application.Solution7" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +401,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574316837821</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="using foreach in place of map">
+      <created>1574317564778</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1574317564778</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -444,7 +451,8 @@
     <MESSAGE value="pluralize singular to plural by appending 's' at the end." />
     <MESSAGE value="pluralize every value in vector scala" />
     <MESSAGE value="using map to transform prob 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="using map to transform prob 01" />
+    <MESSAGE value="using foreach in place of map" />
+    <option name="LAST_COMMIT_MESSAGE" value="using foreach in place of map" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
