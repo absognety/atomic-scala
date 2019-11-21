@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="using foreach in place of map">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Map_Reduce/problem03.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="writing using for instead of map or foreach">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Map_Reduce/problem04.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -408,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574317564778</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="writing using for instead of map or foreach">
+      <created>1574317745293</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1574317745293</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -452,7 +459,8 @@
     <MESSAGE value="pluralize every value in vector scala" />
     <MESSAGE value="using map to transform prob 01" />
     <MESSAGE value="using foreach in place of map" />
-    <option name="LAST_COMMIT_MESSAGE" value="using foreach in place of map" />
+    <MESSAGE value="writing using for instead of map or foreach" />
+    <option name="LAST_COMMIT_MESSAGE" value="writing using for instead of map or foreach" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
