@@ -274,44 +274,44 @@
 [debug] == resolving dependencies testscalaconfig#testscalaconfig$sources;0.1->org.scala-lang#scala-library;2.13.0 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
-[debug] 		tried /home/vikas/.ivy2/local/org.scala-lang/scala-compiler/2.13.0/srcs/scala-compiler-sources.jar
+[debug] 		tried /home/adminpc/.ivy2/local/org.scala-lang/scala-compiler/2.13.0/srcs/scala-compiler-sources.jar
+[debug] 		tried /home/adminpc/.ivy2/local/org.scala-lang/scala-library/2.13.0/srcs/scala-library-sources.jar
 [debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0-sources.jar
-[debug] 		tried /home/vikas/.ivy2/local/org.scala-lang/scala-library/2.13.0/srcs/scala-library-sources.jar
 [debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0-sources.jar
-[debug] 		tried /home/vikas/.ivy2/local/org.scala-lang/scala-reflect/2.13.0/srcs/scala-reflect-sources.jar
-[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0-sources.jar
-[debug] 		tried /home/vikas/.ivy2/local/jline/jline/2.14.6/srcs/jline-sources.jar
+[debug] 		tried /home/adminpc/.ivy2/local/jline/jline/2.14.6/srcs/jline-sources.jar
+[debug] 		tried /home/adminpc/.ivy2/local/org.scala-lang/scala-reflect/2.13.0/srcs/scala-reflect-sources.jar
 [debug] 		tried https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0-sources.jar
-[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0-sources.jar ...
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0-sources.jar
+[debug] 		tried https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0-sources.jar
 [info] downloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar ...
 [debug] 	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0-sources.jar.sha1
-[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-library;2.13.0!scala-library.jar(src) (1523ms)
+[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0-sources.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0-sources.jar
+[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0-sources.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0-sources.jar
 [debug] 	public: downloading https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar.sha1
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0-sources.jar.sha1
+[info] downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0-sources.jar ...
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0-sources.jar
 [debug] sha1 OK for https://repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6-sources.jar
-[info] 	[SUCCESSFUL ] jline#jline;2.14.6!jline.jar(src) (1847ms)
-[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0-sources.jar.sha1
+[info] 	[SUCCESSFUL ] jline#jline;2.14.6!jline.jar(src) (1345ms)
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0-sources.jar.sha1
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0-sources.jar.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.0/scala-compiler-2.13.0-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.13.0!scala-compiler.jar(src) (2091ms)
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-compiler;2.13.0!scala-compiler.jar(src) (1792ms)
+[debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.0/scala-library-2.13.0-sources.jar
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-library;2.13.0!scala-library.jar(src) (1974ms)
+[debug] 	public: downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0-sources.jar.sha1
 [debug] sha1 OK for https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.0/scala-reflect-2.13.0-sources.jar
-[info] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.13.0!scala-reflect.jar(src) (2298ms)
-[debug] :: resolution report :: resolve 49ms :: artifacts dl 2304ms
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 compile produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-compile.xml
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 runtime produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-runtime.xml
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 test produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-test.xml
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 provided produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-provided.xml
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 optional produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-optional.xml
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 compile-internal produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-compile-internal.xml
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 runtime-internal produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-runtime-internal.xml
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 test-internal produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-test-internal.xml
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 plugin produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-plugin.xml
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 pom produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-pom.xml
-[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 scala-tool produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-scala-tool.xml
-[debug] 	resolve done (49ms resolve - 2304ms download)
+[info] 	[SUCCESSFUL ] org.scala-lang#scala-reflect;2.13.0!scala-reflect.jar(src) (2861ms)
+[debug] :: resolution report :: resolve 31ms :: artifacts dl 2866ms
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 compile produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-compile.xml
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 runtime produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-runtime.xml
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 test produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-test.xml
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 provided produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-provided.xml
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 optional produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-optional.xml
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 compile-internal produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-compile-internal.xml
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 runtime-internal produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-runtime-internal.xml
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 test-internal produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-test-internal.xml
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 plugin produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-plugin.xml
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 pom produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-pom.xml
+[debug] 	report for testscalaconfig#testscalaconfig$sources;0.1 scala-tool produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-scala-tool.xml
+[debug] 	resolve done (31ms resolve - 2866ms download)
