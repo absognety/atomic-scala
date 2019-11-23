@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="pattern match using match keyword - solution 2">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatchingWithTypes/Solution3.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="pattern match using match keyword - solution 3">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatchingWithTypes/Solution4.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution3">
+  <component name="RunManager" selected="Application.Solution4">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -106,13 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Comprehensions.Solution5" />
+    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PatternMatchingWithTypes.Solution4" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Comprehensions.*" />
+          <option name="PATTERN" value="PatternMatchingWithTypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution6" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Comprehensions.Solution6" />
+    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Comprehensions.Solution5" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -216,18 +216,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution5" />
-      <item itemvalue="Application.Solution6" />
       <item itemvalue="Application.Solution1" />
       <item itemvalue="Application.Solution2" />
       <item itemvalue="Application.Solution3" />
+      <item itemvalue="Application.Solution4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution4" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.Solution5" />
-        <item itemvalue="Application.Solution6" />
       </list>
     </recent_temporary>
   </component>
@@ -498,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574439728103</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="pattern match using match keyword - solution 3">
+      <created>1574440832163</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1574440832163</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -515,7 +522,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solution 2 - return List from Vector scala" />
     <MESSAGE value="solution 2 - return Set from Vector scala" />
     <MESSAGE value="solution 4 - (collections.Counter,scala hashmap)" />
     <MESSAGE value="Vector to string - solution 1" />
@@ -540,7 +546,8 @@
     <MESSAGE value="filter, map, case classes - scala Vector of vectors" />
     <MESSAGE value="pattern match using match keyword - solution 1" />
     <MESSAGE value="pattern match using match keyword - solution 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="pattern match using match keyword - solution 2" />
+    <MESSAGE value="pattern match using match keyword - solution 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="pattern match using match keyword - solution 3" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
