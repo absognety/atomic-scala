@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="02. Test the brevity by removing curly braces">
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="04. make the coffee.scala concise using scala brevity">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Brevity/problem04.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Brevity/problem03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Brevity/problem03.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,23 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.problem03">
+  <component name="RunManager" selected="Application.problem04">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution2 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="PatternMatchingWithCaseClasses.Solution2" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PatternMatchingWithCaseClasses.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,6 +114,20 @@
     </configuration>
     <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Brevity.problem03" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Brevity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem04" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Brevity.problem04" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -218,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution2 (1)" />
       <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.problem01" />
       <item itemvalue="Application.problem02" />
       <item itemvalue="Application.problem03" />
+      <item itemvalue="Application.problem04" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem04" />
         <item itemvalue="Application.problem03" />
         <item itemvalue="Application.problem02" />
         <item itemvalue="Application.problem01" />
         <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.Solution2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -550,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575441068727</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="03. remove return type for brevity">
+      <created>1575451718656</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1575451718656</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -567,8 +571,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solution 4,5 fixed up with correct implementations" />
-    <MESSAGE value="solution 6 anonymous function with if-else" />
     <MESSAGE value="solution 7 scala - anonymous f() for n =&gt; n*n" />
     <MESSAGE value="pluralize singular to plural by appending 's' at the end." />
     <MESSAGE value="pluralize every value in vector scala" />
@@ -592,7 +594,9 @@
     <MESSAGE value="test the functionality of travel for default response." />
     <MESSAGE value="01. test the brevity by removing intermediate storage" />
     <MESSAGE value="02. Test the brevity by removing curly braces" />
-    <option name="LAST_COMMIT_MESSAGE" value="02. Test the brevity by removing curly braces" />
+    <MESSAGE value="03. remove return type for brevity" />
+    <MESSAGE value="04. make the coffee.scala concise using scala brevity" />
+    <option name="LAST_COMMIT_MESSAGE" value="04. make the coffee.scala concise using scala brevity" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
