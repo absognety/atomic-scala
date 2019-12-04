@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="test the functionality of travel for default response.">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Brevity/problem01.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="01. test the brevity by removing intermediate storage">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Brevity/problem02.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.problem01">
+  <component name="RunManager" selected="Application.problem02">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -106,20 +106,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution5 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="PatternMatchingWithTypes.Solution5" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PatternMatchingWithTypes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -128,6 +114,20 @@
     </configuration>
     <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Brevity.problem01" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Brevity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Brevity.problem02" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution5 (1)" />
       <item itemvalue="Application.Solution1 (1)" />
       <item itemvalue="Application.Solution2 (1)" />
       <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.problem01" />
+      <item itemvalue="Application.problem02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem02" />
         <item itemvalue="Application.problem01" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.Solution1 (1)" />
-        <item itemvalue="Application.Solution5 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -534,7 +534,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575438149576</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="01. test the brevity by removing intermediate storage">
+      <created>1575440898459</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1575440898459</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -551,7 +558,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="anonymous functions in scala" />
     <MESSAGE value="solution 4 fill function in foreach" />
     <MESSAGE value="solution 4,5 fixed up with correct implementations" />
     <MESSAGE value="solution 6 anonymous function with if-else" />
@@ -576,7 +582,8 @@
     <MESSAGE value="solution 1 - pattern matching with case classes" />
     <MESSAGE value="extract object from inputs - solution 2" />
     <MESSAGE value="test the functionality of travel for default response." />
-    <option name="LAST_COMMIT_MESSAGE" value="test the functionality of travel for default response." />
+    <MESSAGE value="01. test the brevity by removing intermediate storage" />
+    <option name="LAST_COMMIT_MESSAGE" value="01. test the brevity by removing intermediate storage" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
