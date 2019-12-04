@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 1 - pattern matching with case classes">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatchingWithCaseClasses/Solution2.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="extract object from inputs - solution 2">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/PatternMatchingWithCaseClasses/Solution3.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution2 (1)">
+  <component name="RunManager" selected="Application.Solution3">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -106,13 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="PatternMatchingWithTypes.Solution4" />
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="PatternMatchingWithCaseClasses.Solution3" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PatternMatchingWithTypes.*" />
+          <option name="PATTERN" value="PatternMatchingWithCaseClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,18 +216,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Solution2" />
-      <item itemvalue="Application.Solution4" />
       <item itemvalue="Application.Solution5 (1)" />
       <item itemvalue="Application.Solution1 (1)" />
       <item itemvalue="Application.Solution2 (1)" />
+      <item itemvalue="Application.Solution3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.Solution1 (1)" />
         <item itemvalue="Application.Solution5 (1)" />
         <item itemvalue="Application.Solution2" />
-        <item itemvalue="Application.Solution4" />
       </list>
     </recent_temporary>
   </component>
@@ -520,7 +520,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575437379018</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="extract object from inputs - solution 2">
+      <created>1575437839342</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1575437839342</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -537,7 +544,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Vector to string - solution 1" />
     <MESSAGE value="Vector to string with sep - solution 2" />
     <MESSAGE value="anonymous functions in scala" />
     <MESSAGE value="solution 4 fill function in foreach" />
@@ -562,7 +568,8 @@
     <MESSAGE value="pattern match using match keyword - solution 3" />
     <MESSAGE value="multiple data types in scala" />
     <MESSAGE value="solution 1 - pattern matching with case classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution 1 - pattern matching with case classes" />
+    <MESSAGE value="extract object from inputs - solution 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="extract object from inputs - solution 2" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
