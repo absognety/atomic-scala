@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="04. make the coffee.scala concise using scala brevity">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ABitOfStyle/Solution1.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="parenthesis and no parenthesis in scala style">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ABitOfStyle/Solution2.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e55ab1b9cfb249d9cf7.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b8b55785e7089c3102.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b891e2574457a8071ea4.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution1">
+  <component name="RunManager" selected="Application.Solution2">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -91,22 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Brevity.problem01" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ABitOfStyle.Solution2" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Brevity.*" />
+          <option name="PATTERN" value="ABitOfStyle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -228,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.problem01" />
       <item itemvalue="Application.problem02" />
       <item itemvalue="Application.problem03" />
       <item itemvalue="Application.problem04" />
       <item itemvalue="Application.Solution1" />
+      <item itemvalue="Application.Solution2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.problem04" />
         <item itemvalue="Application.problem03" />
         <item itemvalue="Application.problem02" />
-        <item itemvalue="Application.problem01" />
       </list>
     </recent_temporary>
   </component>
@@ -574,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575462160206</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="parenthesis and no parenthesis in scala style">
+      <created>1575525866049</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1575525866049</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -591,7 +585,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solution 7 scala - anonymous f() for n =&gt; n*n" />
     <MESSAGE value="pluralize singular to plural by appending 's' at the end." />
     <MESSAGE value="pluralize every value in vector scala" />
     <MESSAGE value="using map to transform prob 01" />
@@ -616,7 +609,8 @@
     <MESSAGE value="02. Test the brevity by removing curly braces" />
     <MESSAGE value="03. remove return type for brevity" />
     <MESSAGE value="04. make the coffee.scala concise using scala brevity" />
-    <option name="LAST_COMMIT_MESSAGE" value="04. make the coffee.scala concise using scala brevity" />
+    <MESSAGE value="parenthesis and no parenthesis in scala style" />
+    <option name="LAST_COMMIT_MESSAGE" value="parenthesis and no parenthesis in scala style" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
