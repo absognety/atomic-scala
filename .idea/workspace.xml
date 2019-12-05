@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="method noParens to val - change scala style" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="Add count variable for exclamation method">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ABitOfStyle/Solution4.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution2">
+  <component name="RunManager" selected="Application.Solution4">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -89,22 +92,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Brevity.problem02" />
+    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ABitOfStyle.Solution4" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Brevity.*" />
+          <option name="PATTERN" value="ABitOfStyle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -212,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.problem02" />
       <item itemvalue="Application.problem03" />
       <item itemvalue="Application.problem04" />
       <item itemvalue="Application.Solution1" />
       <item itemvalue="Application.Solution2" />
+      <item itemvalue="Application.Solution4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution4" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.problem04" />
         <item itemvalue="Application.problem03" />
-        <item itemvalue="Application.problem02" />
       </list>
     </recent_temporary>
   </component>
@@ -572,7 +575,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575526221430</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="method noParens to val - change scala style">
+      <created>1575526273012</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1575526273012</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -589,8 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pluralize singular to plural by appending 's' at the end." />
-    <MESSAGE value="pluralize every value in vector scala" />
     <MESSAGE value="using map to transform prob 01" />
     <MESSAGE value="using foreach in place of map" />
     <MESSAGE value="writing using for instead of map or foreach" />
@@ -614,7 +622,9 @@
     <MESSAGE value="03. remove return type for brevity" />
     <MESSAGE value="04. make the coffee.scala concise using scala brevity" />
     <MESSAGE value="parenthesis and no parenthesis in scala style" />
-    <option name="LAST_COMMIT_MESSAGE" value="parenthesis and no parenthesis in scala style" />
+    <MESSAGE value="method noParens to val - change scala style" />
+    <MESSAGE value="Add count variable for exclamation method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add count variable for exclamation method" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
