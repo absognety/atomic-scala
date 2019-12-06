@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="compound expression in scala">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/IdiomaticScala/Solution4.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="remove the return type from method">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/IdiomaticScala/Solution5.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution4 (1)">
+  <component name="RunManager" selected="Application.Solution5">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -120,13 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ABitOfStyle.Solution4" />
+    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="IdiomaticScala.Solution5" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ABitOfStyle.*" />
+          <option name="PATTERN" value="IdiomaticScala.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution4" />
       <item itemvalue="Application.Solution1 (1)" />
       <item itemvalue="Application.Solution2 (1)" />
       <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.Solution4 (1)" />
+      <item itemvalue="Application.Solution5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution5" />
         <item itemvalue="Application.Solution4 (1)" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.Solution1 (1)" />
-        <item itemvalue="Application.Solution4" />
       </list>
     </recent_temporary>
   </component>
@@ -611,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575604359398</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="remove the return type from method">
+      <created>1575605130349</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1575605130349</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -628,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="for loop instead of map for SimpleMap.scala" />
     <MESSAGE value="sum of vector using for" />
     <MESSAGE value="implement a scala method using reduce for sum of vector entries" />
     <MESSAGE value="change name: yielding to name: generator" />
@@ -653,7 +659,8 @@
     <MESSAGE value="force brevity on if4.scala and if5.scala from conditional expressions" />
     <MESSAGE value="Handle for.scala with style" />
     <MESSAGE value="compound expression in scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="compound expression in scala" />
+    <MESSAGE value="remove the return type from method" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove the return type from method" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
