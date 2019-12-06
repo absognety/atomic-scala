@@ -26,8 +26,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ClassExercises/Solution2$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Vectors/problem11$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Vectors/problem11$.html[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Hello$.html[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Hello$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	compound_Expressions/problem03$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/compound_Expressions/problem03$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Testing/problem05$.html[0m
@@ -100,6 +98,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/lib/tools.tooltip.js[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ForLoops[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ForLoops[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution2$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ABitOfStyle/Solution2$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Methods/problem07$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Methods/problem07$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	NamedandDefaultArguments/index.html[0m
@@ -122,8 +122,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/CreatingClasses[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/lib[0m
-[0m[[0m[0mdebug[0m] [0m[0m	scalaShell$.html[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/scalaShell$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/lato-v11-latin-100.ttf[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/lib/lato-v11-latin-100.ttf[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Comprehensions/Solution2$.html[0m
@@ -152,6 +150,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/AtomicScala_DataTypes_Exercises[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MethodsInsideClasses/problem01$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/MethodsInsideClasses/problem01$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution4$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ABitOfStyle/Solution4$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Vectors/problem04$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Vectors/problem04$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Comprehensions/Solution6$.html[0m
@@ -214,6 +214,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Map_Reduce/index.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	compound_Expressions/index.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/compound_Expressions/index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/IdiomaticScala/index.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/class.svg[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/lib/class.svg[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/object_comp_annotation.svg[0m
@@ -272,6 +274,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/lib/package.svg[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ClassArguments/problem01$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ClassArguments/problem01$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution1$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ABitOfStyle/Solution1$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	NamedandDefaultArguments/problem04$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/NamedandDefaultArguments/problem04$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Fields/problem01$.html[0m
@@ -402,6 +406,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Summary_I/problem04$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Testing/index.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Testing/index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ABitOfStyle[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Overloading/problem03$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Overloading/problem03$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithTypes/Solution1$.html[0m
@@ -428,6 +434,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/PatternMatchingWithTypes/index.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AuxiliaryConstructors/problem01$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/AuxiliaryConstructors/problem01$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution1$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/IdiomaticScala/Solution1$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FunctionsAsObjects/Solution8$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/FunctionsAsObjects/Solution8$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ClassArguments/problem08$.html[0m
@@ -552,6 +560,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/PatternMatchingWithCaseClasses/Solution2$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Methods/problem03$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Methods/problem03$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution2$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/IdiomaticScala/Solution2$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	lib/ref-index.css[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/lib/ref-index.css[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Classes_Objects/index.html[0m
@@ -564,6 +574,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ClassArguments/problem06$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImportsPackages[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ImportsPackages[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/index.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ABitOfStyle/index.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AtomicScala_Values_Exercises/Problem04$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/AtomicScala_Values_Exercises/Problem04$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Expressions[0m
@@ -572,6 +584,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Evaluation_Order/problem04$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Summary_I/problem05$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Summary_I/problem05$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brevity/problem04$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Brevity/problem04$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FunctionsAsObjects/Solution6$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/FunctionsAsObjects/Solution6$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Methods/problem05$.html[0m
@@ -588,6 +602,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/AtomicScala_DataTypes_Exercises/problem02$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Fields/problem03$.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/Fields/problem03$.html[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/IdiomaticScala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImportsPackages/index.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/api/ImportsPackages/index.html[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FunctionsAsObjects/Solution2$.html[0m

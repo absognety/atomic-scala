@@ -1,7 +1,7 @@
-[0m[[0m[0minfo[0m] [0m[0m:: delivering :: testscalaconfig#testscalaconfig_2.13;0.1 :: 0.1 :: release :: Wed Dec 04 12:35:52 IST 2019[0m
-[0m[[0m[0mdebug[0m] [0m[0m	options = status=release pubdate=Wed Dec 04 12:35:52 IST 2019 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: testscalaconfig#testscalaconfig_2.13;0.1 :: 0.1 :: release :: Thu Dec 05 16:49:10 IST 2019[0m
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=release pubdate=Thu Dec 05 16:49:10 IST 2019 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
 [0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /home/vikaschitturi/atomic-scala/target/scala-2.13/ivy-0.1.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	deliver done (13ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (18ms)[0m
 [0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
 [0m[[0m[0minfo[0m] [0m[0m	published testscalaconfig_2.13 to /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/poms/testscalaconfig_2.13.pom[0m
 [0m[[0m[0minfo[0m] [0m[0m	published testscalaconfig_2.13 to /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/jars/testscalaconfig_2.13.jar[0m

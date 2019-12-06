@@ -50,6 +50,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/AtomicScala_Values_Exercises/Problem01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Testing/problem03.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Testing/problem03.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ABitOfStyle/Solution1$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithCaseClasses/Solution2$Train$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatchingWithCaseClasses/Solution2$Train$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ClassArguments/problem08$cup2$1.class[0m
@@ -102,6 +104,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Fields/problem04$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MethodsInsideClasses/problem02.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/MethodsInsideClasses/problem02.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/IdiomaticScala/Solution2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	compound_Expressions[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/compound_Expressions[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Fields/problem04.class[0m
@@ -214,6 +218,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Summary_II/problem08$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithCaseClasses/Solution2$Train$2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatchingWithCaseClasses/Solution2$Train$2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ABitOfStyle/Solution2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AtomicScala_Values_Exercises/Problem04.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/AtomicScala_Values_Exercises/Problem04.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithCaseClasses/Solution1$Train$1.class[0m
@@ -260,6 +266,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/MethodsInsideClasses/problem03$Motorboat$1$Flare$2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithCaseClasses/Solution2$Passenger$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatchingWithCaseClasses/Solution2$Passenger$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brevity/problem04$Coffee$2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Brevity/problem04$Coffee$2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FunctionsAsObjects/Solution3$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/FunctionsAsObjects/Solution3$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ForLoops/problem05$.class[0m
@@ -354,8 +362,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Map_Reduce/problem06$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithCaseClasses/Solution1$Plane$2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatchingWithCaseClasses/Solution1$Plane$2$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Hello.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Hello.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatching/problem03.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatching/problem03.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Vectors/problem11$.class[0m
@@ -374,6 +380,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatchingWithCaseClasses/Solution3$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Variables_Exercises/problem02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Variables_Exercises/problem02$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ABitOfStyle/Solution2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CaseClasses/Solution5$Dimension1$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/CaseClasses/Solution5$Dimension1$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Fields/problem01.class[0m
@@ -412,6 +420,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Vectors/problem09.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Evaluation_Order/problem04.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Evaluation_Order/problem04.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution4$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ABitOfStyle/Solution4$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FunctionsAsObjects/Solution1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/FunctionsAsObjects/Solution1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CreatingClasses/problem01$Lion$1.class[0m
@@ -452,16 +462,18 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Fields/problem02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithTypes/Solution3$Person$2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatchingWithTypes/Solution3$Person$2$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	scalaShell$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/scalaShell$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	NamedandDefaultArguments/problem04$Planet$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/NamedandDefaultArguments/problem04$Planet$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Evaluation_Order/problem02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Evaluation_Order/problem02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CaseClasses/Solution1$Person$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/CaseClasses/Solution1$Person$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/IdiomaticScala/Solution2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Comprehensions/Solution5.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Comprehensions/Solution5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution1$Exclaim$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ABitOfStyle/Solution1$Exclaim$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Evaluation_Order/problem05.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Evaluation_Order/problem05.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Methods/problem07.class[0m
@@ -664,8 +676,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ForLoops/problem06$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MoreConditionals[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/MoreConditionals[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Hello$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Hello$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ParametrizedTypes/Solution3$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ParametrizedTypes/Solution3$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Comprehensions/Solution1.class[0m
@@ -684,6 +694,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ImportsPackages/pythogorean$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Conditional_Expressions/problem01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Conditional_Expressions/problem01$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brevity/problem04$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Brevity/problem04$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Methods/problem04$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Methods/problem04$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	NamedandDefaultArguments/problem02$simpleTime$1.class[0m
@@ -704,6 +716,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ParametrizedTypes/Solution4.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CaseClasses/Solution2$Person$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/CaseClasses/Solution2$Person$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ABitOfStyle[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ForLoops/problem02.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ForLoops/problem02.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	compound_Expressions/problem03$.class[0m
@@ -748,6 +762,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Summary_II/problem01.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MethodsInsideClasses/problem01.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/MethodsInsideClasses/problem01.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brevity/problem04.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Brevity/problem04.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AtomicScala_Values_Exercises/Problem04$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/AtomicScala_Values_Exercises/Problem04$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CaseClasses/Solution5.class[0m
@@ -774,6 +790,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ImportsPackages/problem02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithCaseClasses/Solution2$Bus$2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatchingWithCaseClasses/Solution2$Bus$2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution2$Exclaim$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ABitOfStyle/Solution2$Exclaim$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithCaseClasses/Solution3$Kitten$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatchingWithCaseClasses/Solution3$Kitten$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Summary_I/problem02.class[0m
@@ -846,8 +864,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ClassArguments/problem09.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Summary_II/problem02.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Summary_II/problem02.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Hello$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Hello$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Methods/problem01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Methods/problem01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Testing/problem01.class[0m
@@ -868,6 +884,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/NamedandDefaultArguments/problem03$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CaseClasses/Solution5$Dimension1$2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/CaseClasses/Solution5$Dimension1$2$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/IdiomaticScala/Solution1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Summary_I/problem05$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Summary_I/problem05$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ClassExercises/Solution3.class[0m
@@ -890,14 +908,14 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Testing/problem05$areaOfQuadrangle$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MoreConditionals/problem01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/MoreConditionals/problem01$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/IdiomaticScala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithCaseClasses/Solution1$Passenger$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatchingWithCaseClasses/Solution1$Passenger$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AtomicScala_Values_Exercises/Problem03$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/AtomicScala_Values_Exercises/Problem03$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Summary_II/problem01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Summary_II/problem01$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	scalaShell$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/scalaShell$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Summary_II/problem06.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Summary_II/problem06.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CaseClasses/Solution2$.class[0m
@@ -948,6 +966,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Comprehensions/Solution6.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	NamedandDefaultArguments/problem02.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/NamedandDefaultArguments/problem02.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Brevity/problem04$Coffee$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Brevity/problem04$Coffee$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Map_Reduce/problem04.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Map_Reduce/problem04.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Conditional_Expressions/problem03$.class[0m
@@ -962,8 +982,6 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Summary_I/problem0910$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Classes_Objects/problem02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Classes_Objects/problem02$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	scalaShell.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/scalaShell.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AuxiliaryConstructors/problem03$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/AuxiliaryConstructors/problem03$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Methods/problem02.class[0m
@@ -974,6 +992,10 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/NamedandDefaultArguments/problem05$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ClassArguments/problem02.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ClassArguments/problem02.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ABitOfStyle/Solution4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ABitOfStyle/Solution1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithTypes/Solution2$Person$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/PatternMatchingWithTypes/Solution2$Person$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ClassArguments/problem05.class[0m
@@ -1014,6 +1036,10 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ForLoops/problem04.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImportsPackages[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ImportsPackages[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution4$Exclaim4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/ABitOfStyle/Solution4$Exclaim4$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/IdiomaticScala/Solution1$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Conditional_Expressions[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/target/scala-2.13/classes/Conditional_Expressions[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Map_Reduce/problem01.class[0m
