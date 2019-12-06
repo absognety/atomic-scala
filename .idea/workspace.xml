@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="remove the return type from method">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/IdiomaticScala/Solution5.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="remove curly braces and make checkTruth.scala concise">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/IdiomaticScala/Solution6.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,23 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution5">
+  <component name="RunManager" selected="Application.Solution6">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution1 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="IdiomaticScala.Solution1" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IdiomaticScala.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,6 +108,20 @@
     </configuration>
     <configuration name="Solution5" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="IdiomaticScala.Solution5" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IdiomaticScala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution6" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="IdiomaticScala.Solution6" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution1 (1)" />
       <item itemvalue="Application.Solution2 (1)" />
       <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.Solution4 (1)" />
       <item itemvalue="Application.Solution5" />
+      <item itemvalue="Application.Solution6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution6" />
         <item itemvalue="Application.Solution5" />
         <item itemvalue="Application.Solution4 (1)" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2 (1)" />
-        <item itemvalue="Application.Solution1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00001" summary="solution 1 scala - string interpolation">
-      <created>1573963007544</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1573963007544</updated>
     </task>
     <task id="LOCAL-00002" summary="solution 2 scala - string interpolation">
       <created>1573967823693</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575605130349</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="remove curly braces and make checkTruth.scala concise">
+      <created>1575610113457</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1575610113457</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sum of vector using for" />
     <MESSAGE value="implement a scala method using reduce for sum of vector entries" />
     <MESSAGE value="change name: yielding to name: generator" />
     <MESSAGE value="Vector[int] =&gt; List[Int]" />
@@ -660,7 +659,8 @@
     <MESSAGE value="Handle for.scala with style" />
     <MESSAGE value="compound expression in scala" />
     <MESSAGE value="remove the return type from method" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove the return type from method" />
+    <MESSAGE value="remove curly braces and make checkTruth.scala concise" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove curly braces and make checkTruth.scala concise" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
