@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="last solution in idiomatic.scala">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DefiningOperators/problem01.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="rename subtract to '-' ~ defining operators">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DefiningOperators/problem02.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,23 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.problem01">
+  <component name="RunManager" selected="Application.problem02">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution4 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="IdiomaticScala.Solution4" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IdiomaticScala.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,6 +114,20 @@
     </configuration>
     <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="DefiningOperators.problem01" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DefiningOperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="DefiningOperators.problem02" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution4 (1)" />
       <item itemvalue="Application.Solution5" />
       <item itemvalue="Application.Solution6" />
       <item itemvalue="Application.Solution7" />
       <item itemvalue="Application.problem01" />
+      <item itemvalue="Application.problem02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem02" />
         <item itemvalue="Application.problem01" />
         <item itemvalue="Application.Solution7" />
         <item itemvalue="Application.Solution6" />
         <item itemvalue="Application.Solution5" />
-        <item itemvalue="Application.Solution4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00004" summary="solution 1 - casting types for parameters">
-      <created>1573975869537</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1573975869537</updated>
     </task>
     <task id="LOCAL-00005" summary="solution 2 - return List from Vector scala">
       <created>1573976770153</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575612272339</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="rename subtract to '-' ~ defining operators">
+      <created>1576046617392</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1576046617393</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Vector[int] =&gt; List[Int]" />
     <MESSAGE value="replacement to yield in yielding3.scala" />
     <MESSAGE value="check the altered declaration of variables in comprehension" />
     <MESSAGE value="filter, map, case classes - scala Vector of vectors" />
@@ -660,7 +659,8 @@
     <MESSAGE value="remove curly braces and make checkTruth.scala concise" />
     <MESSAGE value="make cat.scala, dog.scala and hamster.scala concise" />
     <MESSAGE value="last solution in idiomatic.scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="last solution in idiomatic.scala" />
+    <MESSAGE value="rename subtract to '-' ~ defining operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename subtract to '-' ~ defining operators" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
