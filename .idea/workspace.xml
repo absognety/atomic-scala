@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="make cat.scala, dog.scala and hamster.scala concise">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/IdiomaticScala/Solution7.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="last solution in idiomatic.scala">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DefiningOperators/problem01.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +38,7 @@
   <component name="ProjectId" id="1Tj4zuQeyQ7U6snQXts9pS82e2P" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bigdata/sparkprojects/SparkDemo" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -57,23 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution7">
+  <component name="RunManager" selected="Application.problem01">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="IdiomaticScala.Solution3" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="IdiomaticScala.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,6 +122,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="DefiningOperators.problem01" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DefiningOperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.Solution4 (1)" />
       <item itemvalue="Application.Solution5" />
       <item itemvalue="Application.Solution6" />
       <item itemvalue="Application.Solution7" />
+      <item itemvalue="Application.problem01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem01" />
         <item itemvalue="Application.Solution7" />
         <item itemvalue="Application.Solution6" />
         <item itemvalue="Application.Solution5" />
         <item itemvalue="Application.Solution4 (1)" />
-        <item itemvalue="Application.Solution3" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00003" summary="solution 3 - show dependent on control flow">
-      <created>1573969036404</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1573969036405</updated>
     </task>
     <task id="LOCAL-00004" summary="solution 1 - casting types for parameters">
       <created>1573975869537</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575610784095</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="last solution in idiomatic.scala">
+      <created>1575612272339</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1575612272339</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change name: yielding to name: generator" />
     <MESSAGE value="Vector[int] =&gt; List[Int]" />
     <MESSAGE value="replacement to yield in yielding3.scala" />
     <MESSAGE value="check the altered declaration of variables in comprehension" />
@@ -660,7 +659,8 @@
     <MESSAGE value="remove the return type from method" />
     <MESSAGE value="remove curly braces and make checkTruth.scala concise" />
     <MESSAGE value="make cat.scala, dog.scala and hamster.scala concise" />
-    <option name="LAST_COMMIT_MESSAGE" value="make cat.scala, dog.scala and hamster.scala concise" />
+    <MESSAGE value="last solution in idiomatic.scala" />
+    <option name="LAST_COMMIT_MESSAGE" value="last solution in idiomatic.scala" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
