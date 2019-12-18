@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="unpacking into a tuple">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Tuples/Solution2.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Tuples/Solution1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Tuples/Solution1.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="unpacking into a tuple - explain with 2 more examples">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Tuples/Solution2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Tuples/Solution2.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00012" summary="solution 4 fill function in foreach">
-      <created>1574007742079</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1574007742079</updated>
     </task>
     <task id="LOCAL-00013" summary="solution 4,5 fixed up with correct implementations">
       <created>1574008197231</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576661923216</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="unpacking into a tuple - explain with 2 more examples">
+      <created>1576662160697</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1576662160697</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solution 1 - pattern matching with case classes" />
     <MESSAGE value="extract object from inputs - solution 2" />
     <MESSAGE value="test the functionality of travel for default response." />
     <MESSAGE value="01. test the brevity by removing intermediate storage" />
@@ -660,7 +659,8 @@
     <MESSAGE value="overriding toString with pattern matching" />
     <MESSAGE value="added negative numbers condition to wheels input" />
     <MESSAGE value="unpacking into a tuple" />
-    <option name="LAST_COMMIT_MESSAGE" value="unpacking into a tuple" />
+    <MESSAGE value="unpacking into a tuple - explain with 2 more examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="unpacking into a tuple - explain with 2 more examples" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
