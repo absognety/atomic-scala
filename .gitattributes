@@ -1,1 +1,2 @@
-*.xsl linguist-language=Scala
+* linguist-vendored
+*.scala linguist-vendored=false
