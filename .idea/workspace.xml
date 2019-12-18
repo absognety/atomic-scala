@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="added negative numbers condition to wheels input">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Tuples/Solution1.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="unpacking into a tuple">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tuples/Solution2.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Tuples/Solution1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Tuples/Solution1.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00011" summary="anonymous functions in scala">
-      <created>1574005902171</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1574005902171</updated>
     </task>
     <task id="LOCAL-00012" summary="solution 4 fill function in foreach">
       <created>1574007742079</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576660743781</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="unpacking into a tuple">
+      <created>1576661923216</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1576661923216</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="multiple data types in scala" />
     <MESSAGE value="solution 1 - pattern matching with case classes" />
     <MESSAGE value="extract object from inputs - solution 2" />
     <MESSAGE value="test the functionality of travel for default response." />
@@ -660,7 +659,8 @@
     <MESSAGE value="use override for Bicycle.scala" />
     <MESSAGE value="overriding toString with pattern matching" />
     <MESSAGE value="added negative numbers condition to wheels input" />
-    <option name="LAST_COMMIT_MESSAGE" value="added negative numbers condition to wheels input" />
+    <MESSAGE value="unpacking into a tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="unpacking into a tuple" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
