@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="use override for Bicycle.scala">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/AutomaticStringConversion/problem02.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="overriding toString with pattern matching">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/AutomaticStringConversion/Solution03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,9 +57,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.problem02 (1)">
+  <component name="RunManager" selected="Application.Solution03">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="AutomaticStringConversion.Solution03" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AutomaticStringConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,20 +128,6 @@
     </configuration>
     <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="DefiningOperators.problem03" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DefiningOperators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem04" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="DefiningOperators.problem04" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -217,17 +217,17 @@
     <list>
       <item itemvalue="Application.problem02" />
       <item itemvalue="Application.problem03" />
-      <item itemvalue="Application.problem04" />
       <item itemvalue="Application.problem01 (1)" />
       <item itemvalue="Application.problem02 (1)" />
+      <item itemvalue="Application.Solution03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution03" />
         <item itemvalue="Application.problem02 (1)" />
         <item itemvalue="Application.problem01 (1)" />
         <item itemvalue="Application.problem02" />
         <item itemvalue="Application.problem03" />
-        <item itemvalue="Application.problem04" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Vector to string - solution 1">
-      <created>1574005451697</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1574005451697</updated>
     </task>
     <task id="LOCAL-00010" summary="Vector to string with sep - solution 2">
       <created>1574005566611</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576656712781</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="overriding toString with pattern matching">
+      <created>1576660166883</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1576660166883</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pattern match using match keyword - solution 2" />
     <MESSAGE value="pattern match using match keyword - solution 3" />
     <MESSAGE value="multiple data types in scala" />
     <MESSAGE value="solution 1 - pattern matching with case classes" />
@@ -660,7 +659,8 @@
     <MESSAGE value="replace power with ^ operator" />
     <MESSAGE value="replace .func with just func and make it more readable with ease" />
     <MESSAGE value="use override for Bicycle.scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="use override for Bicycle.scala" />
+    <MESSAGE value="overriding toString with pattern matching" />
+    <option name="LAST_COMMIT_MESSAGE" value="overriding toString with pattern matching" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
