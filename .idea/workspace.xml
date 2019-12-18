@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="unpacking into a tuple - explain with 2 more examples">
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="unpacking using indices">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tuples/Solution3.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Tuples/Solution2.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Tuples/Solution2.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution1">
+  <component name="RunManager" selected="Application.Solution3">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -80,6 +80,20 @@
     </configuration>
     <configuration name="Solution1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Tuples.Solution1" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tuples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Tuples.Solution3" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -119,20 +133,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AutomaticStringConversion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="DefiningOperators.problem02" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DefiningOperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.problem02" />
       <item itemvalue="Application.problem01 (1)" />
       <item itemvalue="Application.problem02 (1)" />
       <item itemvalue="Application.Solution03" />
       <item itemvalue="Application.Solution1" />
+      <item itemvalue="Application.Solution3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.Solution03" />
         <item itemvalue="Application.problem02 (1)" />
         <item itemvalue="Application.problem01 (1)" />
-        <item itemvalue="Application.problem02" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00013" summary="solution 4,5 fixed up with correct implementations">
-      <created>1574008197231</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1574008197231</updated>
     </task>
     <task id="LOCAL-00014" summary="solution 6 anonymous function with if-else">
       <created>1574309177075</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576662160697</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="unpacking using indices">
+      <created>1576662375414</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1576662375414</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="extract object from inputs - solution 2" />
     <MESSAGE value="test the functionality of travel for default response." />
     <MESSAGE value="01. test the brevity by removing intermediate storage" />
     <MESSAGE value="02. Test the brevity by removing curly braces" />
@@ -660,7 +659,8 @@
     <MESSAGE value="added negative numbers condition to wheels input" />
     <MESSAGE value="unpacking into a tuple" />
     <MESSAGE value="unpacking into a tuple - explain with 2 more examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="unpacking into a tuple - explain with 2 more examples" />
+    <MESSAGE value="unpacking using indices" />
+    <option name="LAST_COMMIT_MESSAGE" value="unpacking using indices" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
