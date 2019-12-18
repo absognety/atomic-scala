@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="testscalaconfig" module="testscalaconfig_2.13" revision="0.1" status="release" publication="20191205164910">
+	<info organisation="testscalaconfig" module="testscalaconfig_2.13" revision="0.1" status="release" publication="20191218144124">
 		<description>
 		testscalaconfig
 		</description>

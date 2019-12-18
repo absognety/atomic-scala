@@ -1,10 +1,55 @@
-[0m[[0m[0minfo[0m] [0m[0m:: delivering :: testscalaconfig#testscalaconfig_2.13;0.1 :: 0.1 :: release :: Thu Dec 05 16:49:10 IST 2019[0m
-[0m[[0m[0mdebug[0m] [0m[0m	options = status=release pubdate=Thu Dec 05 16:49:10 IST 2019 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: testscalaconfig#testscalaconfig_2.13;0.1 :: 0.1 :: release :: Wed Dec 18 14:41:24 IST 2019[0m
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=release pubdate=Wed Dec 18 14:41:24 IST 2019 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
 [0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /home/vikaschitturi/atomic-scala/target/scala-2.13/ivy-0.1.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	deliver done (18ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (862ms)[0m
 [0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/poms/testscalaconfig_2.13.pom already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/poms/testscalaconfig_2.13.pom (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/poms/testscalaconfig_2.13.pom.sha1 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/poms/testscalaconfig_2.13.pom.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/poms/testscalaconfig_2.13.pom.md5 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/poms/testscalaconfig_2.13.pom.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
 [0m[[0m[0minfo[0m] [0m[0m	published testscalaconfig_2.13 to /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/poms/testscalaconfig_2.13.pom[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/jars/testscalaconfig_2.13.jar already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/jars/testscalaconfig_2.13.jar (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/jars/testscalaconfig_2.13.jar.sha1 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/jars/testscalaconfig_2.13.jar.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/jars/testscalaconfig_2.13.jar.md5 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/jars/testscalaconfig_2.13.jar.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
 [0m[[0m[0minfo[0m] [0m[0m	published testscalaconfig_2.13 to /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/jars/testscalaconfig_2.13.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/srcs/testscalaconfig_2.13-sources.jar already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/srcs/testscalaconfig_2.13-sources.jar (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/srcs/testscalaconfig_2.13-sources.jar.sha1 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/srcs/testscalaconfig_2.13-sources.jar.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/srcs/testscalaconfig_2.13-sources.jar.md5 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/srcs/testscalaconfig_2.13-sources.jar.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
 [0m[[0m[0minfo[0m] [0m[0m	published testscalaconfig_2.13 to /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/srcs/testscalaconfig_2.13-sources.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/docs/testscalaconfig_2.13-javadoc.jar already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/docs/testscalaconfig_2.13-javadoc.jar (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/docs/testscalaconfig_2.13-javadoc.jar.sha1 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/docs/testscalaconfig_2.13-javadoc.jar.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/docs/testscalaconfig_2.13-javadoc.jar.md5 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/docs/testscalaconfig_2.13-javadoc.jar.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
 [0m[[0m[0minfo[0m] [0m[0m	published testscalaconfig_2.13 to /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/docs/testscalaconfig_2.13-javadoc.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/ivys/ivy.xml already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/ivys/ivy.xml (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/ivys/ivy.xml.sha1 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/ivys/ivy.xml.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/ivys/ivy.xml.md5 already exists, nothing done[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/ivys/ivy.xml.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
 [0m[[0m[0minfo[0m] [0m[0m	published ivy to /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/ivys/ivy.xml[0m

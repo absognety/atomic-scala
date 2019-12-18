@@ -4,6 +4,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/ClassExercises/Solution4.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Constructors/problem01.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Constructors/problem01.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DefiningOperators/problem01.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/DefiningOperators/problem01.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Map_Reduce/problem01.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Map_Reduce/problem01.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MoreConditionals/problem03.scala[0m
@@ -42,6 +44,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/IdiomaticScala/Solution1.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Classes_Objects/problem01.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Classes_Objects/problem01.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution5.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/IdiomaticScala/Solution5.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	CreatingClasses/problem03.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/CreatingClasses/problem03.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Summary_I/problem08.scala[0m
@@ -92,6 +96,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/ImportsPackages/pythogorean.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AtomicScala_DataTypes_Exercises/problem05.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/AtomicScala_DataTypes_Exercises/problem05.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DefiningOperators/problem03.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/DefiningOperators/problem03.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MethodsInsideClasses/problem03.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/MethodsInsideClasses/problem03.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ForLoops/problem06.scala[0m
@@ -100,6 +106,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/StringInterpolation/Solution3.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Vectors/problem05.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Vectors/problem05.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AutomaticStringConversion/problem02.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/AutomaticStringConversion/problem02.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Comprehensions/Solution4.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Comprehensions/Solution4.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImportsPackages/problem02.scala[0m
@@ -152,6 +160,10 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Map_Reduce/problem06.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FunctionsAsObjects/Solution2.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/FunctionsAsObjects/Solution2.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution6.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/IdiomaticScala/Solution6.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DefiningOperators/problem02.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/DefiningOperators/problem02.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AtomicScala_Values_Exercises/Problem01.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/AtomicScala_Values_Exercises/Problem01.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ClassArguments/problem03.scala[0m
@@ -172,6 +184,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Vectors/problem10.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithCaseClasses/Solution3.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/PatternMatchingWithCaseClasses/Solution3.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution4.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/IdiomaticScala/Solution4.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FunctionsAsObjects/Solution9.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/FunctionsAsObjects/Solution9.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Classes_Objects/problem04.scala[0m
@@ -230,10 +244,14 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Vectors/problem01.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AuxiliaryConstructors/problem02.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/AuxiliaryConstructors/problem02.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution3.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/IdiomaticScala/Solution3.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Variables_Exercises/problem02.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Variables_Exercises/problem02.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Map_Reduce/problem03.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Map_Reduce/problem03.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DefiningOperators/problem04.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/DefiningOperators/problem04.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FunctionsAsObjects/Solution1.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/FunctionsAsObjects/Solution1.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ClassArguments/problem06.scala[0m
@@ -286,6 +304,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/ClassArguments/problem02.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Map_Reduce/problem02.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Map_Reduce/problem02.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution7.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/IdiomaticScala/Solution7.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Brevity/problem03.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Brevity/problem03.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Methods/problem03.scala[0m
@@ -296,6 +316,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/ForLoops/problem03.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Summary_I/problem03.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/Summary_I/problem03.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AutomaticStringConversion/problem01.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/AutomaticStringConversion/problem01.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ClassArguments/problem09.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikaschitturi/atomic-scala/src/main/scala/ClassArguments/problem09.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0m	NamedandDefaultArguments/problem06.scala[0m
