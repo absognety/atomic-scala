@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="overriding toString with pattern matching">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/AutomaticStringConversion/Solution03.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="added negative numbers condition to wheels input">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Tuples/Solution1.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution03">
+  <component name="RunManager" selected="Application.Solution1">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -71,6 +71,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AutomaticStringConversion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Tuples.Solution1" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tuples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,20 +128,6 @@
     </configuration>
     <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="DefiningOperators.problem02" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DefiningOperators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="DefiningOperators.problem03" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -216,18 +216,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.problem02" />
-      <item itemvalue="Application.problem03" />
       <item itemvalue="Application.problem01 (1)" />
       <item itemvalue="Application.problem02 (1)" />
       <item itemvalue="Application.Solution03" />
+      <item itemvalue="Application.Solution1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.Solution03" />
         <item itemvalue="Application.problem02 (1)" />
         <item itemvalue="Application.problem01 (1)" />
         <item itemvalue="Application.problem02" />
-        <item itemvalue="Application.problem03" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Vector to string with sep - solution 2">
-      <created>1574005566611</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1574005566611</updated>
     </task>
     <task id="LOCAL-00011" summary="anonymous functions in scala">
       <created>1574005902171</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576660166883</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="added negative numbers condition to wheels input">
+      <created>1576660743780</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1576660743781</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="pattern match using match keyword - solution 3" />
     <MESSAGE value="multiple data types in scala" />
     <MESSAGE value="solution 1 - pattern matching with case classes" />
     <MESSAGE value="extract object from inputs - solution 2" />
@@ -660,7 +659,8 @@
     <MESSAGE value="replace .func with just func and make it more readable with ease" />
     <MESSAGE value="use override for Bicycle.scala" />
     <MESSAGE value="overriding toString with pattern matching" />
-    <option name="LAST_COMMIT_MESSAGE" value="overriding toString with pattern matching" />
+    <MESSAGE value="added negative numbers condition to wheels input" />
+    <option name="LAST_COMMIT_MESSAGE" value="added negative numbers condition to wheels input" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
