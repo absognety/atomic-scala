@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 4 with unpacking of solution 3">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CompanionObjects/Solution1.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 1 with companion objects">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -274,13 +273,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00016" summary="pluralize singular to plural by appending 's' at the end.">
-      <created>1574315110390</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1574315110390</updated>
     </task>
     <task id="LOCAL-00017" summary="pluralize every value in vector scala">
       <created>1574315878241</created>
@@ -618,7 +610,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576664984530</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="solution 1 with companion objects">
+      <created>1577354494709</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1577354494710</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +634,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="02. Test the brevity by removing curly braces" />
     <MESSAGE value="03. remove return type for brevity" />
     <MESSAGE value="04. make the coffee.scala concise using scala brevity" />
     <MESSAGE value="parenthesis and no parenthesis in scala style" />
@@ -660,7 +658,8 @@
     <MESSAGE value="unpacking using indices" />
     <MESSAGE value="define a method for weather with return types as tuples" />
     <MESSAGE value="solution 4 with unpacking of solution 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution 4 with unpacking of solution 3" />
+    <MESSAGE value="solution 1 with companion objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution 1 with companion objects" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
