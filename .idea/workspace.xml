@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 1 with companion objects">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CompanionObjects/Solution2.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 2 with variable log string">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CompanionObjects/Solution3.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution2">
+  <component name="RunManager" selected="Application.Solution3 (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -78,13 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Tuples.Solution1" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CompanionObjects.Solution2" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tuples.*" />
+          <option name="PATTERN" value="CompanionObjects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="CompanionObjects.Solution2" />
+    <configuration name="Solution3 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CompanionObjects.Solution3" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution1" />
       <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.Solution4" />
       <item itemvalue="Application.Solution1 (1)" />
       <item itemvalue="Application.Solution2" />
+      <item itemvalue="Application.Solution3 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution3 (1)" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1 (1)" />
         <item itemvalue="Application.Solution4" />
         <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.Solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00018" summary="using map to transform prob 01">
-      <created>1574316837821</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1574316837821</updated>
     </task>
     <task id="LOCAL-00019" summary="using foreach in place of map">
       <created>1574317564778</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577355433086</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="solution 2 with variable log string">
+      <created>1577360158587</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1577360158587</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="03. remove return type for brevity" />
     <MESSAGE value="04. make the coffee.scala concise using scala brevity" />
     <MESSAGE value="parenthesis and no parenthesis in scala style" />
     <MESSAGE value="method noParens to val - change scala style" />
@@ -660,7 +659,8 @@
     <MESSAGE value="define a method for weather with return types as tuples" />
     <MESSAGE value="solution 4 with unpacking of solution 3" />
     <MESSAGE value="solution 1 with companion objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="solution 1 with companion objects" />
+    <MESSAGE value="solution 2 with variable log string" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution 2 with variable log string" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
