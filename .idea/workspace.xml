@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="inheritance problem 1">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Inheritance/problem02.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="inheritance with variable vocalize">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Inheritance/problem03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,23 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.problem02">
+  <component name="RunManager" selected="Application.problem03">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="CompanionObjects.Solution2" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CompanionObjects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,6 +114,20 @@
     </configuration>
     <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Inheritance.problem02" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.problem03" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution2" />
       <item itemvalue="Application.Solution3 (1)" />
       <item itemvalue="Application.Solution4 (1)" />
       <item itemvalue="Application.problem01" />
       <item itemvalue="Application.problem02" />
+      <item itemvalue="Application.problem03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem03" />
         <item itemvalue="Application.problem02" />
         <item itemvalue="Application.problem01" />
         <item itemvalue="Application.Solution4 (1)" />
         <item itemvalue="Application.Solution3 (1)" />
-        <item itemvalue="Application.Solution2" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00022" summary="for loop instead of map for SimpleMap.scala">
-      <created>1574318497617</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1574318497617</updated>
     </task>
     <task id="LOCAL-00023" summary="sum of vector using for">
       <created>1574318733091</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577439523939</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="inheritance with variable vocalize">
+      <created>1577439994186</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1577439994186</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add count variable for exclamation method" />
     <MESSAGE value="force brevity on if4.scala and if5.scala from conditional expressions" />
     <MESSAGE value="Handle for.scala with style" />
     <MESSAGE value="compound expression in scala" />
@@ -660,7 +659,8 @@
     <MESSAGE value="solution 3 Companion Objects with MET" />
     <MESSAGE value="1. with MET changed to customizable function 2. change the calories method to class from object" />
     <MESSAGE value="inheritance problem 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="inheritance problem 1" />
+    <MESSAGE value="inheritance with variable vocalize" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance with variable vocalize" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
