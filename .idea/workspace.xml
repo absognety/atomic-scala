@@ -1,9 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="inheritance with variable vocalize">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Inheritance/problem03.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="base class cycle and derived class bicycle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AutomaticStringConversion/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/api/AutomaticStringConversion/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AutomaticStringConversion/problem01$.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/api/AutomaticStringConversion/problem01$.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AutomaticStringConversion/problem02$.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/api/AutomaticStringConversion/problem02$.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/api/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/api/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/ivy-0.1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/ivy-0.1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/publishLocal/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/publishLocal/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/scala/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/scala/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/scala/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/scala/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/out" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -274,13 +312,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00023" summary="sum of vector using for">
-      <created>1574318733091</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1574318733091</updated>
     </task>
     <task id="LOCAL-00024" summary="implement a scala method using reduce for sum of vector entries">
       <created>1574319746032</created>
@@ -618,7 +649,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577439994186</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="base class cycle and derived class bicycle">
+      <created>1577440294663</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1577440294663</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +673,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="force brevity on if4.scala and if5.scala from conditional expressions" />
     <MESSAGE value="Handle for.scala with style" />
     <MESSAGE value="compound expression in scala" />
     <MESSAGE value="remove the return type from method" />
@@ -660,7 +697,8 @@
     <MESSAGE value="1. with MET changed to customizable function 2. change the calories method to class from object" />
     <MESSAGE value="inheritance problem 1" />
     <MESSAGE value="inheritance with variable vocalize" />
-    <option name="LAST_COMMIT_MESSAGE" value="inheritance with variable vocalize" />
+    <MESSAGE value="base class cycle and derived class bicycle" />
+    <option name="LAST_COMMIT_MESSAGE" value="base class cycle and derived class bicycle" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
