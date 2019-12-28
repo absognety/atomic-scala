@@ -4,6 +4,8 @@ object solution05 {
   def main(args: Array[String]): Unit = {
     class Trip(val origin:String,val destination:String,
                val startDate:String,val endDate:String) {
+      def this(startDate:String,endDate:String) =
+          this("origin?","destination?",startDate,endDate)
       override def toString = s"From $origin to $destination" +
         s": $startDate to $endDate"
     }
@@ -13,10 +15,10 @@ object solution05 {
       override def toString = s"On a flight from $origin to $destination" +
         s", we watched ${nameMovie}"
     }
-    class CarTrip(val cities:Vector[String],startDate:String,endDate:String) {
+    class CarTrip(val cities:Vector[String],startDate:String,endDate:String)
+    extends Trip(startDate,endDate) {
       val origination = cities.head
-      val destination = cities.last
-      val startdate = startDate
+      override val destination = cities.last
       override def toString = s"from ${origination} to ${destination}" +
         s" ${startDate} to ${endDate}"
     }
@@ -38,7 +40,7 @@ object solution05 {
     println(a.toString)
     println(c.origination)
     println(c.destination)
-    println(c.startdate)
+    println(c.startDate)
     println(c.toString)
   }
 }

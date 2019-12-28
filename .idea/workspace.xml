@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="home derived from house">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/BaseClassInitialization/solution05.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="3 trip classes with class parameters">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/BaseClassInitialization/solution05.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/BaseClassInitialization/solution05.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -274,13 +273,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Vector[int] =&gt; List[Int]">
-      <created>1574329847573</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1574329847573</updated>
     </task>
     <task id="LOCAL-00027" summary="replacement to yield in yielding3.scala">
       <created>1574330431940</created>
@@ -618,7 +610,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577535699289</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="3 trip classes with class parameters">
+      <created>1577541658870</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1577541658870</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +634,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove the return type from method" />
     <MESSAGE value="remove curly braces and make checkTruth.scala concise" />
     <MESSAGE value="make cat.scala, dog.scala and hamster.scala concise" />
     <MESSAGE value="last solution in idiomatic.scala" />
@@ -660,7 +658,8 @@
     <MESSAGE value="base class cycle and derived class bicycle" />
     <MESSAGE value="demoing the derived class calling base class method" />
     <MESSAGE value="home derived from house" />
-    <option name="LAST_COMMIT_MESSAGE" value="home derived from house" />
+    <MESSAGE value="3 trip classes with class parameters" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 trip classes with class parameters" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
