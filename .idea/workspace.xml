@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="base class cycle and derived class bicycle">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/BaseClassInitialization/solution02.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="demoing the derived class calling base class method">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/BaseClassInitialization/solution03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution02">
+  <component name="RunManager" selected="Application.solution03">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -66,20 +66,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.problem01" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,6 +114,20 @@
     </configuration>
     <configuration name="solution02" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="BaseClassInitialization.solution02" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BaseClassInitialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BaseClassInitialization.solution03" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.problem01" />
       <item itemvalue="Application.problem02" />
       <item itemvalue="Application.problem03" />
       <item itemvalue="Application.solution01" />
       <item itemvalue="Application.solution02" />
+      <item itemvalue="Application.solution03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution03" />
         <item itemvalue="Application.solution02" />
         <item itemvalue="Application.solution01" />
         <item itemvalue="Application.problem03" />
         <item itemvalue="Application.problem02" />
-        <item itemvalue="Application.problem01" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00024" summary="implement a scala method using reduce for sum of vector entries">
-      <created>1574319746032</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1574319746032</updated>
     </task>
     <task id="LOCAL-00025" summary="change name: yielding to name: generator">
       <created>1574329500772</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577440294663</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="demoing the derived class calling base class method">
+      <created>1577513861375</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1577513861376</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Handle for.scala with style" />
     <MESSAGE value="compound expression in scala" />
     <MESSAGE value="remove the return type from method" />
     <MESSAGE value="remove curly braces and make checkTruth.scala concise" />
@@ -660,7 +659,8 @@
     <MESSAGE value="inheritance problem 1" />
     <MESSAGE value="inheritance with variable vocalize" />
     <MESSAGE value="base class cycle and derived class bicycle" />
-    <option name="LAST_COMMIT_MESSAGE" value="base class cycle and derived class bicycle" />
+    <MESSAGE value="demoing the derived class calling base class method" />
+    <option name="LAST_COMMIT_MESSAGE" value="demoing the derived class calling base class method" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
