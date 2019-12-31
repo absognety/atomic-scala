@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="3 trip classes with class parameters">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/OverridingMethods/Solution1.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="solution 01 ~ overriding methods">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/OverridingMethods/Solution2.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution1">
+  <component name="RunManager" selected="Application.Solution2">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -78,22 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BaseClassInitialization.solution02" />
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OverridingMethods.Solution2" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaseClassInitialization.*" />
+          <option name="PATTERN" value="OverridingMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.solution02" />
       <item itemvalue="Application.solution03" />
       <item itemvalue="Application.solution04" />
       <item itemvalue="Application.solution05" />
       <item itemvalue="Application.Solution1" />
+      <item itemvalue="Application.Solution2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.solution05" />
         <item itemvalue="Application.solution04" />
         <item itemvalue="Application.solution03" />
-        <item itemvalue="Application.solution02" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00027" summary="replacement to yield in yielding3.scala">
-      <created>1574330431940</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1574330431940</updated>
     </task>
     <task id="LOCAL-00028" summary="check the altered declaration of variables in comprehension">
       <created>1574332237153</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577541658870</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="solution 01 ~ overriding methods">
+      <created>1577784480994</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1577784480994</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="remove curly braces and make checkTruth.scala concise" />
     <MESSAGE value="make cat.scala, dog.scala and hamster.scala concise" />
     <MESSAGE value="last solution in idiomatic.scala" />
     <MESSAGE value="rename subtract to '-' ~ defining operators" />
@@ -660,7 +659,8 @@
     <MESSAGE value="demoing the derived class calling base class method" />
     <MESSAGE value="home derived from house" />
     <MESSAGE value="3 trip classes with class parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 trip classes with class parameters" />
+    <MESSAGE value="solution 01 ~ overriding methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution 01 ~ overriding methods" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
