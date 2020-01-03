@@ -23,5 +23,5 @@ object Solution2 extends Enumeration {
   }
 }
 /*explicitly setting the id after enumeration is declared is not possible. it will
-through reassignment to val exception.
+throw reassignment to val exception.
  */
