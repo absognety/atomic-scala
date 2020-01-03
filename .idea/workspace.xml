@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex2: make id of scala enum modifiable">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Enumerations/Solution3.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex3: use the import in scala enums">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Enumerations/Solution4.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution3 (1)">
+  <component name="RunManager" selected="Application.Solution4">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -120,22 +120,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution05" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BaseClassInitialization.solution05" />
+    <configuration name="Solution4" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Enumerations.Solution4" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BaseClassInitialization.*" />
+          <option name="PATTERN" value="Enumerations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.solution05" />
       <item itemvalue="Application.Solution3" />
       <item itemvalue="Application.Solution1 (1)" />
       <item itemvalue="Application.Solution2 (1)" />
       <item itemvalue="Application.Solution3 (1)" />
+      <item itemvalue="Application.Solution4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution4" />
         <item itemvalue="Application.Solution3 (1)" />
         <item itemvalue="Application.Solution2 (1)" />
         <item itemvalue="Application.Solution1 (1)" />
         <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.solution05" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00031" summary="pattern match using match keyword - solution 1">
-      <created>1574439077191</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1574439077191</updated>
     </task>
     <task id="LOCAL-00032" summary="pattern match using match keyword - solution 2">
       <created>1574439728103</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578043467991</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="ex3: use the import in scala enums">
+      <created>1578045890815</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1578045890815</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="playing with Int,Double" />
     <MESSAGE value="replace power with ^ operator" />
     <MESSAGE value="replace .func with just func and make it more readable with ease" />
     <MESSAGE value="use override for Bicycle.scala" />
@@ -660,7 +659,8 @@
     <MESSAGE value="solution 02 ~ overriding methods" />
     <MESSAGE value="ex1: create enumeration for monthName in scala" />
     <MESSAGE value="ex2: make id of scala enum modifiable" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex2: make id of scala enum modifiable" />
+    <MESSAGE value="ex3: use the import in scala enums" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex3: use the import in scala enums" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
