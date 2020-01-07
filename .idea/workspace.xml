@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex3: addition with abstract class">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/AbstractClasses/solution05.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex5: playing around with abstract classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/AbstractClasses/solution05.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/AbstractClasses/solution05.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00037" summary="test the functionality of travel for default response.">
-      <created>1575438149576</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1575438149576</updated>
     </task>
     <task id="LOCAL-00038" summary="01. test the brevity by removing intermediate storage">
       <created>1575440898459</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578329480013</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="ex5: playing around with abstract classes">
+      <created>1578367285018</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1578367285019</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="unpacking into a tuple" />
     <MESSAGE value="unpacking into a tuple - explain with 2 more examples" />
     <MESSAGE value="unpacking using indices" />
     <MESSAGE value="define a method for weather with return types as tuples" />
@@ -660,7 +659,8 @@
     <MESSAGE value="ex6: added another set of conditions to scala enum" />
     <MESSAGE value="ex2: test with other derived classes added" />
     <MESSAGE value="ex3: addition with abstract class" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex3: addition with abstract class" />
+    <MESSAGE value="ex5: playing around with abstract classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex5: playing around with abstract classes" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
