@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex1: inheritance works for abstract class in place of trait">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UniformAccessandSetters/problem02.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.problem01">
+  <component name="RunManager" selected="Application.problem02">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -71,6 +72,20 @@
     </configuration>
     <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="UniformAccessandSetters.problem01" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UniformAccessandSetters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="UniformAccessandSetters.problem02" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -118,20 +133,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Traits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution05" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClasses.solution05" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AbstractClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.solution05" />
       <item itemvalue="Application.solution01 (1)" />
       <item itemvalue="Application.solution02 (1)" />
       <item itemvalue="Application.solution03" />
       <item itemvalue="Application.problem01" />
+      <item itemvalue="Application.problem02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem02" />
         <item itemvalue="Application.problem01" />
         <item itemvalue="Application.solution03" />
         <item itemvalue="Application.solution02 (1)" />
         <item itemvalue="Application.solution01 (1)" />
-        <item itemvalue="Application.solution05" />
       </list>
     </recent_temporary>
   </component>
