@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex2: scala traits 02">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Traits/solution03.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex2 and ex3 scala traits problems">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UniformAccessandSetters/problem01.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Traits/solution02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Traits/solution02.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution03">
+  <component name="RunManager" selected="Application.problem01">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -67,6 +66,20 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="UniformAccessandSetters.problem01" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UniformAccessandSetters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,20 +105,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Traits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClasses.solution02" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="AbstractClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.solution02" />
       <item itemvalue="Application.solution05" />
       <item itemvalue="Application.solution01 (1)" />
       <item itemvalue="Application.solution02 (1)" />
       <item itemvalue="Application.solution03" />
+      <item itemvalue="Application.problem01" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem01" />
         <item itemvalue="Application.solution03" />
         <item itemvalue="Application.solution02 (1)" />
         <item itemvalue="Application.solution01 (1)" />
         <item itemvalue="Application.solution05" />
-        <item itemvalue="Application.solution02" />
       </list>
     </recent_temporary>
   </component>
@@ -275,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00041" summary="04. make the coffee.scala concise using scala brevity">
-      <created>1575462160206</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1575462160206</updated>
     </task>
     <task id="LOCAL-00042" summary="parenthesis and no parenthesis in scala style">
       <created>1575525866049</created>
@@ -619,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578382804528</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="ex2 and ex3 scala traits problems">
+      <created>1578383850511</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1578383850511</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -636,7 +635,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="define a method for weather with return types as tuples" />
     <MESSAGE value="solution 4 with unpacking of solution 3" />
     <MESSAGE value="solution 1 with companion objects" />
     <MESSAGE value="solution 2 with variable log string" />
@@ -661,7 +659,8 @@
     <MESSAGE value="ex5: playing around with abstract classes" />
     <MESSAGE value="ex1: scala trait for battery power" />
     <MESSAGE value="ex2: scala traits 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex2: scala traits 02" />
+    <MESSAGE value="ex2 and ex3 scala traits problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex2 and ex3 scala traits problems" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
