@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex1: scala trait for battery power">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Traits/solution02.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex2: scala traits 02">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Traits/solution03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Traits/solution02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Traits/solution02.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution02 (1)">
+  <component name="RunManager" selected="Application.solution03">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -112,13 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution04" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClasses.solution04" />
+    <configuration name="solution03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Traits.solution03" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbstractClasses.*" />
+          <option name="PATTERN" value="Traits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,18 +217,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.solution02" />
-      <item itemvalue="Application.solution04" />
       <item itemvalue="Application.solution05" />
       <item itemvalue="Application.solution01 (1)" />
       <item itemvalue="Application.solution02 (1)" />
+      <item itemvalue="Application.solution03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution03" />
         <item itemvalue="Application.solution02 (1)" />
         <item itemvalue="Application.solution01 (1)" />
         <item itemvalue="Application.solution05" />
         <item itemvalue="Application.solution02" />
-        <item itemvalue="Application.solution04" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +275,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00040" summary="03. remove return type for brevity">
-      <created>1575451718656</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1575451718656</updated>
     </task>
     <task id="LOCAL-00041" summary="04. make the coffee.scala concise using scala brevity">
       <created>1575462160206</created>
@@ -618,7 +612,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578382477959</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="ex2: scala traits 02">
+      <created>1578382804528</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1578382804528</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +636,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="unpacking using indices" />
     <MESSAGE value="define a method for weather with return types as tuples" />
     <MESSAGE value="solution 4 with unpacking of solution 3" />
     <MESSAGE value="solution 1 with companion objects" />
@@ -660,7 +660,8 @@
     <MESSAGE value="ex3: addition with abstract class" />
     <MESSAGE value="ex5: playing around with abstract classes" />
     <MESSAGE value="ex1: scala trait for battery power" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex1: scala trait for battery power" />
+    <MESSAGE value="ex2: scala traits 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex2: scala traits 02" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

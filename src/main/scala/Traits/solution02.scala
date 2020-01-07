@@ -2,7 +2,7 @@ package Traits
 
 import solution01.BatteryPower
 object solution02 {
-  class Toy extends BatteryPower
+  class Toy
   class BatteryPoweredToy extends Toy with BatteryPower
 
   def main(args: Array[String]): Unit = {
