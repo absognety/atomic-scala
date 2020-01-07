@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex3: addition with abstract class">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/AbstractClasses/solution04.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/AbstractClasses/solution05.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,23 +57,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution04">
+  <component name="RunManager" selected="Application.solution05">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution6" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Enumerations.Solution6" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Enumerations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,6 +114,20 @@
     </configuration>
     <configuration name="solution04" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="AbstractClasses.solution04" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AbstractClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="solution05" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="AbstractClasses.solution05" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution6" />
       <item itemvalue="Application.solution01" />
       <item itemvalue="Application.solution02" />
       <item itemvalue="Application.solution03" />
       <item itemvalue="Application.solution04" />
+      <item itemvalue="Application.solution05" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution05" />
+        <item itemvalue="Application.solution02" />
         <item itemvalue="Application.solution04" />
         <item itemvalue="Application.solution03" />
-        <item itemvalue="Application.solution02" />
         <item itemvalue="Application.solution01" />
-        <item itemvalue="Application.Solution6" />
       </list>
     </recent_temporary>
   </component>
