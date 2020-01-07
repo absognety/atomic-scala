@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex2 and ex3 scala traits problems">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/UniformAccessandSetters/problem01.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex1: inheritance works for abstract class in place of trait">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -274,13 +273,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00042" summary="parenthesis and no parenthesis in scala style">
-      <created>1575525866049</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1575525866049</updated>
     </task>
     <task id="LOCAL-00043" summary="parenthesis and no parenthesis in scala style">
       <created>1575526221430</created>
@@ -618,7 +610,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578383850511</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="ex1: inheritance works for abstract class in place of trait">
+      <created>1578395269832</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1578395269832</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -635,7 +634,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solution 4 with unpacking of solution 3" />
     <MESSAGE value="solution 1 with companion objects" />
     <MESSAGE value="solution 2 with variable log string" />
     <MESSAGE value="solution 3 Companion Objects with MET" />
@@ -660,7 +658,8 @@
     <MESSAGE value="ex1: scala trait for battery power" />
     <MESSAGE value="ex2: scala traits 02" />
     <MESSAGE value="ex2 and ex3 scala traits problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex2 and ex3 scala traits problems" />
+    <MESSAGE value="ex1: inheritance works for abstract class in place of trait" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex1: inheritance works for abstract class in place of trait" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

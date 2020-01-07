@@ -17,3 +17,6 @@ update
 exit
 update
 exit
+update
+sbt clean compile
+exit

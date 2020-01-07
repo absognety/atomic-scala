@@ -1,7 +1,7 @@
-[0m[[0m[0minfo[0m] [0m[0m:: delivering :: testscalaconfig#testscalaconfig_2.13;0.1 :: 0.1 :: release :: Fri Dec 27 15:24:46 IST 2019[0m
-[0m[[0m[0mdebug[0m] [0m[0m	options = status=release pubdate=Fri Dec 27 15:24:46 IST 2019 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: testscalaconfig#testscalaconfig_2.13;0.1 :: 0.1 :: release :: Tue Jan 07 16:45:59 IST 2020[0m
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=release pubdate=Tue Jan 07 16:45:59 IST 2020 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
 [0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /home/vikaschitturi/atomic-scala/target/scala-2.13/ivy-0.1.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	deliver done (38ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (33ms)[0m
 [0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
 [0m[[0m[0mdebug[0m] [0m[0m/home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/poms/testscalaconfig_2.13.pom already exists, nothing done[0m
 [0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/vikaschitturi/.ivy2/local/testscalaconfig/testscalaconfig_2.13/0.1/poms/testscalaconfig_2.13.pom (non-SNAPSHOT)[0m
