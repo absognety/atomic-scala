@@ -3,7 +3,7 @@ package AbstractClasses
 object solution05 {
   abstract class Animal {
     def templateMethod =
-      s"The $animalName goes $sound"
+      s"The ${animalName} goes ${sound}"
     // Abstract methods (no method body):
     def animalName:String
     def animal(b:Int):String
