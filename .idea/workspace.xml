@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex5: playing around with abstract classes">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Traits/solution01.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/AbstractClasses/solution05.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/AbstractClasses/solution05.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution05">
+  <component name="RunManager" selected="Application.solution01 (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -70,13 +70,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="AbstractClasses.solution01" />
+    <configuration name="solution01 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Traits.solution01" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AbstractClasses.*" />
+          <option name="PATTERN" value="Traits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,19 +215,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.solution01" />
       <item itemvalue="Application.solution02" />
       <item itemvalue="Application.solution03" />
       <item itemvalue="Application.solution04" />
       <item itemvalue="Application.solution05" />
+      <item itemvalue="Application.solution01 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution01 (1)" />
         <item itemvalue="Application.solution05" />
         <item itemvalue="Application.solution02" />
         <item itemvalue="Application.solution04" />
         <item itemvalue="Application.solution03" />
-        <item itemvalue="Application.solution01" />
       </list>
     </recent_temporary>
   </component>
@@ -274,13 +274,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00038" summary="01. test the brevity by removing intermediate storage">
-      <created>1575440898459</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1575440898459</updated>
     </task>
     <task id="LOCAL-00039" summary="02. Test the brevity by removing curly braces">
       <created>1575441068727</created>
@@ -618,7 +611,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578367285019</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="ex5: playing around with abstract classes">
+      <created>1578381270240</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1578381270241</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
