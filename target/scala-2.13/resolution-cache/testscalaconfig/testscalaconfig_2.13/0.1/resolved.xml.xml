@@ -4,7 +4,7 @@
 		module="testscalaconfig_2.13"
 		revision="0.1"
 		status="integration"
-		publication="20200107164430"
+		publication="20200109110931"
 	>
 		<description>
 		testscalaconfig
@@ -32,5 +32,6 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.13.0" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.13.0" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="org.apache.commons" name="commons-math3" rev="3.4.1" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
