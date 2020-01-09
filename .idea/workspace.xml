@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex5: mean, std and percentiles with math3 library dependency">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Applications/solution01.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="Applications 01 ~ WhenAmI.scala">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Applications/solution02.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution01 (1)">
+  <component name="RunManager" selected="Application.solution02 (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -102,13 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ReachingIntoJava.solution02" />
+    <configuration name="solution02 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Applications.solution02" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReachingIntoJava.*" />
+          <option name="PATTERN" value="Applications.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,19 +234,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.solution03" />
-      <item itemvalue="Application.solution02" />
       <item itemvalue="Application.solution04" />
       <item itemvalue="Application.solution05" />
       <item itemvalue="Application.WhenAmI" />
       <item itemvalue="Application.solution01 (1)" />
+      <item itemvalue="Application.solution02 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution02 (1)" />
         <item itemvalue="Application.solution01 (1)" />
         <item itemvalue="Application.WhenAmI" />
         <item itemvalue="Application.solution05" />
         <item itemvalue="Application.solution04" />
-        <item itemvalue="Application.solution02" />
       </list>
     </recent_temporary>
   </component>
@@ -292,13 +292,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00049" summary="remove the return type from method">
-      <created>1575605130349</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1575605130349</updated>
     </task>
     <task id="LOCAL-00050" summary="remove curly braces and make checkTruth.scala concise">
       <created>1575610113457</created>
@@ -636,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578554857014</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Applications 01 ~ WhenAmI.scala">
+      <created>1578556549246</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1578556549246</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -654,7 +654,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="base class cycle and derived class bicycle" />
     <MESSAGE value="demoing the derived class calling base class method" />
     <MESSAGE value="home derived from house" />
     <MESSAGE value="3 trip classes with class parameters" />
@@ -679,7 +678,8 @@
     <MESSAGE value="ex2: playing around with timezones" />
     <MESSAGE value="ex4: force implement Frequency from commons.math3.stat to Strings" />
     <MESSAGE value="ex5: mean, std and percentiles with math3 library dependency" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex5: mean, std and percentiles with math3 library dependency" />
+    <MESSAGE value="Applications 01 ~ WhenAmI.scala" />
+    <option name="LAST_COMMIT_MESSAGE" value="Applications 01 ~ WhenAmI.scala" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
