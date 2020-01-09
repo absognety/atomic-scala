@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="Applications 01 ~ WhenAmI.scala">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Applications/solution02.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="Applications 02 ~ reworking Battery.scala from traits as an App with Companion Objects">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Applications/solution03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.solution02 (1)">
+  <component name="RunManager" selected="Application.solution03 (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -116,13 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution03" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="ReachingIntoJava.solution03" />
+    <configuration name="solution03 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Applications.solution03" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReachingIntoJava.*" />
+          <option name="PATTERN" value="Applications.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution04" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ReachingIntoJava.solution04" />
+    <configuration name="solution03" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ReachingIntoJava.solution03" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -234,19 +234,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.solution03" />
-      <item itemvalue="Application.solution04" />
       <item itemvalue="Application.solution05" />
       <item itemvalue="Application.WhenAmI" />
       <item itemvalue="Application.solution01 (1)" />
       <item itemvalue="Application.solution02 (1)" />
+      <item itemvalue="Application.solution03 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution03 (1)" />
         <item itemvalue="Application.solution02 (1)" />
         <item itemvalue="Application.solution01 (1)" />
         <item itemvalue="Application.WhenAmI" />
         <item itemvalue="Application.solution05" />
-        <item itemvalue="Application.solution04" />
       </list>
     </recent_temporary>
   </component>
@@ -292,13 +292,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00050" summary="remove curly braces and make checkTruth.scala concise">
-      <created>1575610113457</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1575610113457</updated>
     </task>
     <task id="LOCAL-00051" summary="make cat.scala, dog.scala and hamster.scala concise">
       <created>1575610784095</created>
@@ -636,7 +629,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578556549246</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Applications 02 ~ reworking Battery.scala from traits as an App with Companion Objects">
+      <created>1578557679349</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1578557679349</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -654,7 +654,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="demoing the derived class calling base class method" />
     <MESSAGE value="home derived from house" />
     <MESSAGE value="3 trip classes with class parameters" />
     <MESSAGE value="solution 01 ~ overriding methods" />
@@ -679,7 +678,8 @@
     <MESSAGE value="ex4: force implement Frequency from commons.math3.stat to Strings" />
     <MESSAGE value="ex5: mean, std and percentiles with math3 library dependency" />
     <MESSAGE value="Applications 01 ~ WhenAmI.scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="Applications 01 ~ WhenAmI.scala" />
+    <MESSAGE value="Applications 02 ~ reworking Battery.scala from traits as an App with Companion Objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Applications 02 ~ reworking Battery.scala from traits as an App with Companion Objects" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
