@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="Applications 03 ~ running Battery.scala from cmd">
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Applications/solution03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Applications/solution03.scala" afterDir="false" />
-    </list>
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="output printed on console" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,13 +289,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00052" summary="last solution in idiomatic.scala">
-      <created>1575612272339</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1575612272339</updated>
     </task>
     <task id="LOCAL-00053" summary="rename subtract to '-' ~ defining operators">
       <created>1576046617392</created>
@@ -635,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578561095223</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="output printed on console">
+      <created>1578561186727</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1578561186727</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -653,7 +651,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="3 trip classes with class parameters" />
     <MESSAGE value="solution 01 ~ overriding methods" />
     <MESSAGE value="solution 02 ~ overriding methods" />
     <MESSAGE value="ex1: create enumeration for monthName in scala" />
@@ -678,7 +675,8 @@
     <MESSAGE value="Applications 01 ~ WhenAmI.scala" />
     <MESSAGE value="Applications 02 ~ reworking Battery.scala from traits as an App with Companion Objects" />
     <MESSAGE value="Applications 03 ~ running Battery.scala from cmd" />
-    <option name="LAST_COMMIT_MESSAGE" value="Applications 03 ~ running Battery.scala from cmd" />
+    <MESSAGE value="output printed on console" />
+    <option name="LAST_COMMIT_MESSAGE" value="output printed on console" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
