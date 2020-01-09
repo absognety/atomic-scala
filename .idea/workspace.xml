@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="Applications 02 ~ reworking Battery.scala from traits as an App with Companion Objects">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Applications/solution03.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="Applications 03 ~ running Battery.scala from cmd">
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Applications/solution03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Applications/solution03.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -292,13 +291,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00051" summary="make cat.scala, dog.scala and hamster.scala concise">
-      <created>1575610784095</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1575610784095</updated>
     </task>
     <task id="LOCAL-00052" summary="last solution in idiomatic.scala">
       <created>1575612272339</created>
@@ -636,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578557679349</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Applications 03 ~ running Battery.scala from cmd">
+      <created>1578561095223</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1578561095223</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -654,7 +653,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="home derived from house" />
     <MESSAGE value="3 trip classes with class parameters" />
     <MESSAGE value="solution 01 ~ overriding methods" />
     <MESSAGE value="solution 02 ~ overriding methods" />
@@ -679,7 +677,8 @@
     <MESSAGE value="ex5: mean, std and percentiles with math3 library dependency" />
     <MESSAGE value="Applications 01 ~ WhenAmI.scala" />
     <MESSAGE value="Applications 02 ~ reworking Battery.scala from traits as an App with Companion Objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Applications 02 ~ reworking Battery.scala from traits as an App with Companion Objects" />
+    <MESSAGE value="Applications 03 ~ running Battery.scala from cmd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Applications 03 ~ running Battery.scala from cmd" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

@@ -13,4 +13,7 @@ object solution03 extends App {
 /*
 1. scalac solution03.scala
 2. scala Applications.solution03 80 30 10
+green
+yellow
+red
  */
