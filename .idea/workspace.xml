@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="A little reflection ~ problem 01">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ALittleReflection/Prob02.scala" afterDir="false" />
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex1 without case keyword">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ALittleReflection/Prob03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.testProb02">
+  <component name="RunManager" selected="Application.testProb03">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -94,20 +90,6 @@
     </configuration>
     <configuration name="solution01 (1)" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Applications.solution01" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Applications.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution03 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Applications.solution03" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -150,6 +132,20 @@
     </configuration>
     <configuration name="testProb02" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ALittleReflection.testProb02" />
+      <module name="testscalaconfig" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ALittleReflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testProb03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ALittleReflection.testProb03" />
       <module name="testscalaconfig" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -239,18 +235,18 @@
     <list>
       <item itemvalue="Application.solution03" />
       <item itemvalue="Application.solution01 (1)" />
-      <item itemvalue="Application.solution03 (1)" />
       <item itemvalue="Application.Prob01" />
       <item itemvalue="Application.testProb01" />
       <item itemvalue="Application.testProb02" />
+      <item itemvalue="Application.testProb03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.testProb03" />
         <item itemvalue="Application.testProb02" />
         <item itemvalue="Application.testProb01" />
         <item itemvalue="Application.Prob01" />
         <item itemvalue="Application.solution01 (1)" />
-        <item itemvalue="Application.solution03 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -297,13 +293,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00054" summary="playing with Int,Double">
-      <created>1576047620219</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1576047620219</updated>
     </task>
     <task id="LOCAL-00055" summary="replace power with ^ operator">
       <created>1576051278282</created>
@@ -641,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578635174553</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="ex1 without case keyword">
+      <created>1578635784907</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1578635784907</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -659,7 +655,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="solution 02 ~ overriding methods" />
     <MESSAGE value="ex1: create enumeration for monthName in scala" />
     <MESSAGE value="ex2: make id of scala enum modifiable" />
     <MESSAGE value="ex3: use the import in scala enums" />
@@ -684,7 +679,8 @@
     <MESSAGE value="Applications 03 ~ running Battery.scala from cmd" />
     <MESSAGE value="output printed on console" />
     <MESSAGE value="A little reflection ~ problem 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="A little reflection ~ problem 01" />
+    <MESSAGE value="ex1 without case keyword" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex1 without case keyword" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
