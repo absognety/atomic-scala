@@ -17,10 +17,11 @@
 [0m[[0m[0minfo[0m] [0m[0mCompiling 248 Scala sources to /home/vikaschitturi/atomic-scala/target/scala-2.13/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.2.5:compile for Scala 2.13.0[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 4e43f4bd for Scala compiler version 2.13.0[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 5f22a987 for Scala compiler version 2.13.0[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/resources.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/rt.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/sunrsasign.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/jsse.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/jce.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/charsets.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/lib/jfr.jar:/home/vikaschitturi/lib/jvm/jdk1.8.0_231/jre/classes:/home/vikaschitturi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.0.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/home/vikaschitturi/atomic-scala/target/scala-2.13/classes:/home/vikaschitturi/.ivy2/cache/org.apache.commons/commons-math3/jars/commons-math3-3.4.1.jar:/home/vikaschitturi/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.13.0.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mCompilation failed (CompilerInterface)[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 16.840843594 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
