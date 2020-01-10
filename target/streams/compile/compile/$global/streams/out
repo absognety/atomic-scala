@@ -1,2 +1,4 @@
-[0m[[0m[33mwarn[0m] [0m[0mthere was one deprecation warning (since 2.13.0); re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/vikaschitturi/atomic-scala/src/main/scala/ALittleReflection/Name.scala:6:5: not found: value currentMirror[0m
+[0m[[0m[31merror[0m] [0m[0m    currentMirror.reflect(o).symbol.[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
