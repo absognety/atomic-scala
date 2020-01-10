@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="ex1 without case keyword">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ALittleReflection/Prob03.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="modify name.scala - delete replace and split" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,13 +290,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549721215429</updated>
-    </task>
-    <task id="LOCAL-00055" summary="replace power with ^ operator">
-      <created>1576051278282</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1576051278283</updated>
     </task>
     <task id="LOCAL-00056" summary="replace .func with just func and make it more readable with ease">
       <created>1576051506291</created>
@@ -637,7 +627,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578635784907</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="modify name.scala - delete replace and split">
+      <created>1578636267183</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1578636267183</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -655,7 +652,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ex1: create enumeration for monthName in scala" />
     <MESSAGE value="ex2: make id of scala enum modifiable" />
     <MESSAGE value="ex3: use the import in scala enums" />
     <MESSAGE value="ex4: use the import in scala enums" />
@@ -680,7 +676,8 @@
     <MESSAGE value="output printed on console" />
     <MESSAGE value="A little reflection ~ problem 01" />
     <MESSAGE value="ex1 without case keyword" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex1 without case keyword" />
+    <MESSAGE value="modify name.scala - delete replace and split" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify name.scala - delete replace and split" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
