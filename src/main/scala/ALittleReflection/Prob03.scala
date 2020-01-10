@@ -1,22 +1,22 @@
 package ALittleReflection
 
 import scala.reflect.runtime.currentMirror
-object Name {
+object Name1 {
   def className(o:Any) =
     currentMirror.reflect(o).symbol.toString
-  trait Name {
-    override def toString = Name.className(this)
+  trait Name1 {
+    override def toString = Name1.className(this)
   }
 }
 
-import Name._
+import Name1._
 object Prob03 {
   class anotherClass
 }
 
 object testProb03 {
   import Prob03._
-  class anotherClass2 extends Name
+  class anotherClass2 extends Name1
 
   def main(args: Array[String]): Unit = {
     val newClass2 = new anotherClass2
