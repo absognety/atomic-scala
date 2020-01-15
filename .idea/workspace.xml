@@ -2,84 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/inc_compile_2_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Polymorphism/problem02.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_13_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_13_0_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/testscalaconfig-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/testscalaconfig-build.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/testscalaconfig.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/testscalaconfig.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Polymorphism/problem03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e55ab1b9cfb249d9cf7$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e55ab1b9cfb249d9cf7.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e55ab1b9cfb249d9cf7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b8b55785e7089c3102$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b8b55785e7089c3102.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b8b55785e7089c3102.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a6f2e7887f689248cde3$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a6f2e7887f689248cde3.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a6f2e7887f689248cde3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b891e2574457a8071ea4$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b891e2574457a8071ea4.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b891e2574457a8071ea4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f14b9ca835baa7312c3b$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f14b9ca835baa7312c3b.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f14b9ca835baa7312c3b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.problem02">
+  <component name="RunManager" selected="Application.problem03">
     <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Polymorphism.problem01" />
       <module name="testscalaconfig" />
@@ -150,8 +74,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.problem03" />
+      <module name="testscalaconfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem03" />
         <item itemvalue="Application.problem02" />
         <item itemvalue="Application.problem01" />
       </list>
@@ -212,29 +150,49 @@
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
     </task>
+    <task id="LOCAL-00001" summary="polymorphism problem02.scala">
+      <created>1579074893684</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579074893685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="polymorphism problem02.scala" />
+    <option name="LAST_COMMIT_MESSAGE" value="polymorphism problem02.scala" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579075184769">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579075184769" />
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1579074893097">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1579074893097" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1245" height="97" key="GridCell.Tab.0.bottom" timestamp="1579074801172">
+    <state width="1245" height="233" key="GridCell.Tab.0.bottom" timestamp="1579075326794">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1245" height="97" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579074801172" />
-    <state width="1245" height="97" key="GridCell.Tab.0.center" timestamp="1579074801171">
+    <state width="1245" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579075326794" />
+    <state width="1245" height="233" key="GridCell.Tab.0.center" timestamp="1579075326794">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1245" height="97" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579074801171" />
-    <state width="1245" height="97" key="GridCell.Tab.0.left" timestamp="1579074801171">
+    <state width="1245" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579075326794" />
+    <state width="1245" height="233" key="GridCell.Tab.0.left" timestamp="1579075326794">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1245" height="97" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579074801171" />
-    <state width="1245" height="97" key="GridCell.Tab.0.right" timestamp="1579074801171">
+    <state width="1245" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579075326794" />
+    <state width="1245" height="233" key="GridCell.Tab.0.right" timestamp="1579075326794">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1245" height="97" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579074801171" />
+    <state width="1245" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579075326794" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -243,6 +201,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1579073578418" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1579074899115">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1579074899115" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579073114307">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
