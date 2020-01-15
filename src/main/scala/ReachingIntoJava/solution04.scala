@@ -15,5 +15,6 @@ object solution04 {
     f.addValue('M')
     println(f.getCount('C'))
     println(f.getCount('K'))
+    println(f.getCount('B'))
   }
 }
