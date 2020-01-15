@@ -1,393 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="modify name.scala - delete replace and split">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Polymorphism/problem01.scala" afterDir="false" />
+    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/inc_compile_2_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Polymorphism/problem02.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_apache_commons_commons_math3_3_4_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_13_0_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_13_0_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/testscalaconfig-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/testscalaconfig-build.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/testscalaconfig.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/testscalaconfig.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/ALittleReflection/Prob03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ALittleReflection/Prob03.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e55ab1b9cfb249d9cf7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e55ab1b9cfb249d9cf7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$1e55ab1b9cfb249d9cf7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b8b55785e7089c3102$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b8b55785e7089c3102.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$55b8b55785e7089c3102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a6f2e7887f689248cde3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a6f2e7887f689248cde3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a6f2e7887f689248cde3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b891e2574457a8071ea4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b891e2574457a8071ea4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b891e2574457a8071ea4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f14b9ca835baa7312c3b$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f14b9ca835baa7312c3b.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f14b9ca835baa7312c3b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ABitOfStyle/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ABitOfStyle/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ABitOfStyle/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ABitOfStyle/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution01$$Animal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution01$$Cow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution01$$Duck.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution02$$Animal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution02$$Chicken.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution02$$Pig.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution03$$Adder.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution03$$NumericAdder.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution04$$Adder.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution04$$NumericAdder.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution05$$Animal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution05$$Dog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AbstractClasses/solution05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_DataTypes_Exercises/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_DataTypes_Exercises/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_DataTypes_Exercises/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_DataTypes_Exercises/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_DataTypes_Exercises/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_DataTypes_Exercises/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_DataTypes_Exercises/problem06$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_DataTypes_Exercises/problem07$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_DataTypes_Exercises/problem08$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_Values_Exercises/Problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_Values_Exercises/Problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_Values_Exercises/Problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_Values_Exercises/Problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_Values_Exercises/Problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AtomicScala_Values_Exercises/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AutomaticStringConversion/Solution03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AutomaticStringConversion/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AutomaticStringConversion/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AutomaticStringConversion/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AuxiliaryConstructors/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AuxiliaryConstructors/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AuxiliaryConstructors/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AuxiliaryConstructors/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/AuxiliaryConstructors/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/BaseClassInitialization/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/BaseClassInitialization/solution01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/BaseClassInitialization/solution02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/BaseClassInitialization/solution03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/BaseClassInitialization/solution04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/BaseClassInitialization/solution05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Brevity/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Brevity/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Brevity/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Brevity/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Brevity/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CaseClasses/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CaseClasses/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CaseClasses/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CaseClasses/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CaseClasses/Solution5$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CaseClasses/Solution6$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CaseClasses/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassArguments/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassArguments/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassArguments/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassArguments/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassArguments/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassArguments/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassArguments/problem06$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassArguments/problem08$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassArguments/problem09$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassExercises/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassExercises/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassExercises/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassExercises/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassExercises/Solution5$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassExercises/Solution6$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassExercises/Solution7$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ClassExercises/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Classes_Objects/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Classes_Objects/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Classes_Objects/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Classes_Objects/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Classes_Objects/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Classes_Objects/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CompanionObjects/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CompanionObjects/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CompanionObjects/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CompanionObjects/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CompanionObjects/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Comprehensions/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Comprehensions/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Comprehensions/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Comprehensions/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Comprehensions/Solution5$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Comprehensions/Solution6$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Comprehensions/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Conditional_Expressions/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Conditional_Expressions/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Conditional_Expressions/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Conditional_Expressions/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Constructors/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Constructors/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Constructors/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Constructors/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CreatingClasses/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CreatingClasses/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CreatingClasses/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/CreatingClasses/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/DefiningOperators/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/DefiningOperators/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/DefiningOperators/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/DefiningOperators/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/DefiningOperators/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/Cell.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/Grid.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/Level$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/Solution5$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/Solution6$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/cells$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Enumerations/monthInfo$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Evaluation_Order/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Evaluation_Order/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Evaluation_Order/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Evaluation_Order/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Evaluation_Order/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Evaluation_Order/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Expressions/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Expressions/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Expressions/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Expressions/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Expressions/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Fields/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Fields/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Fields/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Fields/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Fields/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ForLoops/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ForLoops/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ForLoops/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ForLoops/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ForLoops/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ForLoops/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ForLoops/problem06$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/FunctionsAsObjects/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/FunctionsAsObjects/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/FunctionsAsObjects/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/FunctionsAsObjects/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/FunctionsAsObjects/Solution5$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/FunctionsAsObjects/Solution6$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/FunctionsAsObjects/Solution7$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/FunctionsAsObjects/Solution8$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/FunctionsAsObjects/Solution9$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/FunctionsAsObjects/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/IdiomaticScala/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/IdiomaticScala/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/IdiomaticScala/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/IdiomaticScala/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/IdiomaticScala/Solution5$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/IdiomaticScala/Solution6$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/IdiomaticScala/Solution7$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/IdiomaticScala/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ImportsPackages/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ImportsPackages/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ImportsPackages/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ImportsPackages/pythogorean$$RightTriangle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ImportsPackages/pythogorean$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Inheritance/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Inheritance/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Inheritance/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Inheritance/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Map_Reduce/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Map_Reduce/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Map_Reduce/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Map_Reduce/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Map_Reduce/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Map_Reduce/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Map_Reduce/problem06$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Methods/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Methods/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Methods/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Methods/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Methods/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Methods/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Methods/problem06$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Methods/problem07$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/MethodsInsideClasses/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/MethodsInsideClasses/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/MethodsInsideClasses/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/MethodsInsideClasses/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/MoreConditionals/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/MoreConditionals/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/MoreConditionals/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/MoreConditionals/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/MoreConditionals/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/NamedandDefaultArguments/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/NamedandDefaultArguments/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/NamedandDefaultArguments/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/NamedandDefaultArguments/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/NamedandDefaultArguments/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/NamedandDefaultArguments/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/NamedandDefaultArguments/problem06$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Overloading/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Overloading/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Overloading/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Overloading/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Overloading/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/OverridingMethods/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/OverridingMethods/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/OverridingMethods/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/OverridingMethods/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ParametrizedTypes/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ParametrizedTypes/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ParametrizedTypes/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ParametrizedTypes/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/ParametrizedTypes/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatching/forecastTemperature$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatching/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatching/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatching/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatching/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatching/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatching/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatchingWithCaseClasses/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatchingWithCaseClasses/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatchingWithCaseClasses/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatchingWithCaseClasses/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatchingWithTypes/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatchingWithTypes/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatchingWithTypes/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatchingWithTypes/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatchingWithTypes/Solution5$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/PatternMatchingWithTypes/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/StringInterpolation/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/StringInterpolation/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/StringInterpolation/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/StringInterpolation/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_I/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_I/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_I/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_I/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_I/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_I/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_I/problem06$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_I/problem07$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_I/problem08$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_I/problem0910$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_II/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_II/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_II/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_II/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_II/problem06$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_II/problem07$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Summary_II/problem08$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Testing/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Testing/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Testing/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Testing/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Testing/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Testing/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Traits/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Traits/solution01$$Battery.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Traits/solution01$$BatteryPower.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Traits/solution01$$EnergySource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Traits/solution01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Traits/solution02$$BatteryPoweredToy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Traits/solution02$$Toy.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Traits/solution02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Traits/solution03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Tuples/Solution1$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Tuples/Solution2$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Tuples/Solution3$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Tuples/Solution4$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Tuples/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/UniformAccessandSetters/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/UniformAccessandSetters/problem01$$Base.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/UniformAccessandSetters/problem01$$Derived.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/UniformAccessandSetters/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Variables_Exercises/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Variables_Exercises/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Variables_Exercises/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Variables_Exercises/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Variables_Exercises/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem05$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem06$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem07$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem08$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem09$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem10$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem11$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/Vectors/problem12$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/compound_Expressions/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/compound_Expressions/problem01$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/compound_Expressions/problem02$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/compound_Expressions/problem03$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/compound_Expressions/problem04$.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/MaterialIcons-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/MaterialIcons-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/MaterialIcons-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/abstract_type.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/annotation.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/annotation_comp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/class.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/class_comp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/class_diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/diagrams.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-100.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-100.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-100.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/lato-v11-latin-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/object.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/object_comp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/object_comp_annotation.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/object_comp_trait.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/object_diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-400i.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-400i.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-400i.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700i.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700i.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-700i.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/open-sans-v13-latin-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/ownderbg2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/ownerbg.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/ownerbg2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/package.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/ref-index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/scheduler.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-700.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-700.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/source-code-pro-v6-latin-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/template.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/template.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/tools.tooltip.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/trait.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/trait_comp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/trait_diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/api/lib/type_diagram.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/ALittleReflection/testProb03$anotherClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/ALittleReflection/testProb03$anotherClass2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/ALittleReflection/testProb03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/classes/ALittleReflection/testProb03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/META-INF/testscalaconfig.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/ivy-0.1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-compile-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-compile.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-optional.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-provided.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-runtime-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-runtime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-scala-tool.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-test-internal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig$sources-test.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-optional.xml" afterDir="false" />
@@ -399,56 +67,20 @@
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-scala-tool.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig$sources/0.1/resolved.xml.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig$sources/0.1/resolved.xml.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/makePom/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/publishLocal/$global/streams/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/scala/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/doc/$global/streams/scala/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/exportedProductJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/mainClass/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageDoc/$global/streams/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/inputs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageSrc/$global/streams/output" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/dependencyClasspathAsJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/exportedProductJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/fullClasspathAsJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/internalDependencyAsJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -465,12 +97,14 @@
   <component name="ExternalProjectsManager">
     <system id="SBT">
       <state>
-        <projects_view />
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="my_scala_programs_practice" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -478,63 +112,21 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1Tj4zuQeyQ7U6snQXts9pS82e2P" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectId" id="1WQDpgpxU4tl9DjKuRlafkcWSzL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
-    <property name="settings.editor.splitter.proportion" value="0.24844721" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.problem01">
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Prob01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ALittleReflection.Prob01" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ALittleReflection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.problem02">
     <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Polymorphism.problem01" />
       <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Polymorphism.*" />
@@ -545,13 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution03" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="ReachingIntoJava.solution03" />
+    <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.problem02" />
       <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReachingIntoJava.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -559,137 +150,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testProb01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ALittleReflection.testProb01" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ALittleReflection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testProb02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ALittleReflection.testProb02" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ALittleReflection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="testProb03" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ALittleReflection.testProb03" />
-      <module name="testscalaconfig" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ALittleReflection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="my_scala_programs_practice" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="TestNG">
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file enabled="true" id="idea.log" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.solution03" />
-      <item itemvalue="Application.Prob01" />
-      <item itemvalue="Application.testProb01" />
-      <item itemvalue="Application.testProb02" />
-      <item itemvalue="Application.testProb03" />
-      <item itemvalue="Application.problem01" />
-    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem02" />
         <item itemvalue="Application.problem01" />
-        <item itemvalue="Application.testProb03" />
-        <item itemvalue="Application.testProb02" />
-        <item itemvalue="Application.testProb01" />
-        <item itemvalue="Application.Prob01" />
       </list>
     </recent_temporary>
   </component>
@@ -706,7 +170,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="atomic-scala [file:/home/vikaschitturi/atomic-scala/]" />
+                <option name="name" value="atomic-scala [file:/home/vikas/atomic-scala/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -725,483 +189,63 @@
       </map>
     </option>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fea848aa-3848-425c-861f-173e5b6acbe6" name="Default" comment="" />
-      <created>1549721215429</created>
+      <changelist id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="" />
+      <created>1579073109785</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1549721215429</updated>
+      <updated>1579073109785</updated>
     </task>
-    <task id="LOCAL-00056" summary="replace .func with just func and make it more readable with ease">
-      <created>1576051506291</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1576051506291</updated>
-    </task>
-    <task id="LOCAL-00057" summary="use override for Bicycle.scala">
-      <created>1576656712781</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1576656712781</updated>
-    </task>
-    <task id="LOCAL-00058" summary="overriding toString with pattern matching">
-      <created>1576660166883</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1576660166883</updated>
-    </task>
-    <task id="LOCAL-00059" summary="added negative numbers condition to wheels input">
-      <created>1576660743780</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1576660743781</updated>
-    </task>
-    <task id="LOCAL-00060" summary="unpacking into a tuple">
-      <created>1576661923216</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1576661923216</updated>
-    </task>
-    <task id="LOCAL-00061" summary="unpacking into a tuple - explain with 2 more examples">
-      <created>1576662160697</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1576662160697</updated>
-    </task>
-    <task id="LOCAL-00062" summary="unpacking using indices">
-      <created>1576662375414</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1576662375414</updated>
-    </task>
-    <task id="LOCAL-00063" summary="define a method for weather with return types as tuples">
-      <created>1576664502156</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1576664502157</updated>
-    </task>
-    <task id="LOCAL-00064" summary="solution 4 with unpacking of solution 3">
-      <created>1576664984530</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1576664984530</updated>
-    </task>
-    <task id="LOCAL-00065" summary="solution 1 with companion objects">
-      <created>1577354494709</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1577354494710</updated>
-    </task>
-    <task id="LOCAL-00066" summary="solution 1 with companion objects">
-      <created>1577355433086</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1577355433086</updated>
-    </task>
-    <task id="LOCAL-00067" summary="solution 2 with variable log string">
-      <created>1577360158587</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1577360158587</updated>
-    </task>
-    <task id="LOCAL-00068" summary="solution 3 Companion Objects with MET">
-      <created>1577416790085</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1577416790085</updated>
-    </task>
-    <task id="LOCAL-00069" summary="1. with MET changed to customizable function 2. change the calories method to class from object">
-      <created>1577438258994</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1577438258998</updated>
-    </task>
-    <task id="LOCAL-00070" summary="inheritance problem 1">
-      <created>1577439523939</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1577439523939</updated>
-    </task>
-    <task id="LOCAL-00071" summary="inheritance with variable vocalize">
-      <created>1577439994186</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1577439994186</updated>
-    </task>
-    <task id="LOCAL-00072" summary="base class cycle and derived class bicycle">
-      <created>1577440294663</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1577440294663</updated>
-    </task>
-    <task id="LOCAL-00073" summary="demoing the derived class calling base class method">
-      <created>1577513861375</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1577513861376</updated>
-    </task>
-    <task id="LOCAL-00074" summary="home derived from house">
-      <created>1577535699289</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1577535699289</updated>
-    </task>
-    <task id="LOCAL-00075" summary="3 trip classes with class parameters">
-      <created>1577541658870</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1577541658870</updated>
-    </task>
-    <task id="LOCAL-00076" summary="solution 01 ~ overriding methods">
-      <created>1577784480994</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1577784480994</updated>
-    </task>
-    <task id="LOCAL-00077" summary="solution 02 ~ overriding methods">
-      <created>1577786251930</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1577786251930</updated>
-    </task>
-    <task id="LOCAL-00078" summary="ex1: create enumeration for monthName in scala">
-      <created>1578042877264</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1578042877268</updated>
-    </task>
-    <task id="LOCAL-00079" summary="ex2: make id of scala enum modifiable">
-      <created>1578043467991</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1578043467991</updated>
-    </task>
-    <task id="LOCAL-00080" summary="ex3: use the import in scala enums">
-      <created>1578045890815</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1578045890815</updated>
-    </task>
-    <task id="LOCAL-00081" summary="ex4: use the import in scala enums">
-      <created>1578047253938</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1578047253938</updated>
-    </task>
-    <task id="LOCAL-00082" summary="ex5: Transform TicTacToe.scala from Summary 2 to use scala enums">
-      <created>1578227936667</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1578227936668</updated>
-    </task>
-    <task id="LOCAL-00083" summary="ex6: added another set of conditions to scala enum">
-      <created>1578230273709</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1578230273709</updated>
-    </task>
-    <task id="LOCAL-00084" summary="ex2: test with other derived classes added">
-      <created>1578328860002</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1578328860003</updated>
-    </task>
-    <task id="LOCAL-00085" summary="ex3: addition with abstract class">
-      <created>1578329480013</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1578329480013</updated>
-    </task>
-    <task id="LOCAL-00086" summary="ex5: playing around with abstract classes">
-      <created>1578367285018</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1578367285019</updated>
-    </task>
-    <task id="LOCAL-00087" summary="ex5: playing around with abstract classes">
-      <created>1578381270240</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1578381270241</updated>
-    </task>
-    <task id="LOCAL-00088" summary="ex1: scala trait for battery power">
-      <created>1578382477959</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1578382477959</updated>
-    </task>
-    <task id="LOCAL-00089" summary="ex2: scala traits 02">
-      <created>1578382804528</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1578382804528</updated>
-    </task>
-    <task id="LOCAL-00090" summary="ex2 and ex3 scala traits problems">
-      <created>1578383850511</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1578383850511</updated>
-    </task>
-    <task id="LOCAL-00091" summary="ex1: inheritance works for abstract class in place of trait">
-      <created>1578395269832</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1578395269832</updated>
-    </task>
-    <task id="LOCAL-00092" summary="example: Simple Linear Regression in scala">
-      <created>1578548908541</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1578548908542</updated>
-    </task>
-    <task id="LOCAL-00093" summary="ex1: java.util.Calendar for date parsing">
-      <created>1578550238612</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1578550238612</updated>
-    </task>
-    <task id="LOCAL-00094" summary="ex2: Testing mm in place of MM leading to 0">
-      <created>1578550646254</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1578550646254</updated>
-    </task>
-    <task id="LOCAL-00095" summary="ex2: playing around with timezones">
-      <created>1578552688793</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1578552688793</updated>
-    </task>
-    <task id="LOCAL-00096" summary="ex4: force implement Frequency from commons.math3.stat to Strings">
-      <created>1578553667342</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1578553667342</updated>
-    </task>
-    <task id="LOCAL-00097" summary="ex5: mean, std and percentiles with math3 library dependency">
-      <created>1578554857014</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1578554857014</updated>
-    </task>
-    <task id="LOCAL-00098" summary="Applications 01 ~ WhenAmI.scala">
-      <created>1578556549246</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1578556549246</updated>
-    </task>
-    <task id="LOCAL-00099" summary="Applications 02 ~ reworking Battery.scala from traits as an App with Companion Objects">
-      <created>1578557679349</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1578557679349</updated>
-    </task>
-    <task id="LOCAL-00100" summary="Applications 03 ~ running Battery.scala from cmd">
-      <created>1578561095223</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1578561095223</updated>
-    </task>
-    <task id="LOCAL-00101" summary="output printed on console">
-      <created>1578561186727</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1578561186727</updated>
-    </task>
-    <task id="LOCAL-00102" summary="A little reflection ~ problem 01">
-      <created>1578635174552</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1578635174553</updated>
-    </task>
-    <task id="LOCAL-00103" summary="ex1 without case keyword">
-      <created>1578635784907</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1578635784907</updated>
-    </task>
-    <task id="LOCAL-00104" summary="modify name.scala - delete replace and split">
-      <created>1578636267183</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1578636267183</updated>
-    </task>
-    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ex2: make id of scala enum modifiable" />
-    <MESSAGE value="ex3: use the import in scala enums" />
-    <MESSAGE value="ex4: use the import in scala enums" />
-    <MESSAGE value="ex5: Transform TicTacToe.scala from Summary 2 to use scala enums" />
-    <MESSAGE value="ex6: added another set of conditions to scala enum" />
-    <MESSAGE value="ex2: test with other derived classes added" />
-    <MESSAGE value="ex3: addition with abstract class" />
-    <MESSAGE value="ex5: playing around with abstract classes" />
-    <MESSAGE value="ex1: scala trait for battery power" />
-    <MESSAGE value="ex2: scala traits 02" />
-    <MESSAGE value="ex2 and ex3 scala traits problems" />
-    <MESSAGE value="ex1: inheritance works for abstract class in place of trait" />
-    <MESSAGE value="example: Simple Linear Regression in scala" />
-    <MESSAGE value="ex1: java.util.Calendar for date parsing" />
-    <MESSAGE value="ex2: Testing mm in place of MM leading to 0" />
-    <MESSAGE value="ex2: playing around with timezones" />
-    <MESSAGE value="ex4: force implement Frequency from commons.math3.stat to Strings" />
-    <MESSAGE value="ex5: mean, std and percentiles with math3 library dependency" />
-    <MESSAGE value="Applications 01 ~ WhenAmI.scala" />
-    <MESSAGE value="Applications 02 ~ reworking Battery.scala from traits as an App with Companion Objects" />
-    <MESSAGE value="Applications 03 ~ running Battery.scala from cmd" />
-    <MESSAGE value="output printed on console" />
-    <MESSAGE value="A little reflection ~ problem 01" />
-    <MESSAGE value="ex1 without case keyword" />
-    <MESSAGE value="modify name.scala - delete replace and split" />
-    <option name="LAST_COMMIT_MESSAGE" value="modify name.scala - delete replace and split" />
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.12.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>my_scala_programs_practice</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>SBT: org.scala-lang:scala-library:2.11.8:jar</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
+    <state width="1245" height="97" key="GridCell.Tab.0.bottom" timestamp="1579074801172">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1245" height="97" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579074801172" />
+    <state width="1245" height="97" key="GridCell.Tab.0.center" timestamp="1579074801171">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1245" height="97" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579074801171" />
+    <state width="1245" height="97" key="GridCell.Tab.0.left" timestamp="1579074801171">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1245" height="97" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579074801171" />
+    <state width="1245" height="97" key="GridCell.Tab.0.right" timestamp="1579074801171">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1245" height="97" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579074801171" />
+    <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard/67.27.1299.741@67.27.1299.741" timestamp="1579073244101" />
+    <state x="97" y="27" width="1259" height="741" key="SettingsEditor" timestamp="1579073578418">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1579073578418" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579073114307">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1579073114307" />
   </component>
 </project>

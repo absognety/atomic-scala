@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="SBT 1" modules="my_scala_programs_practice,testscalaconfig" />
+    <profile name="sbt 1" modules="atomic-scala_2271,testscalaconfig" />
   </component>
 </project>

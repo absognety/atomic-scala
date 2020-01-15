@@ -4,7 +4,7 @@
 		module="atomic-scala-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20200109181235"
+		publication="20200114220929"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
@@ -34,12 +34,6 @@
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.12.7" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.7" conf="scala-tool->default,optional(default);provided->default(compile)"/>
 		<dependency org="org.scala-sbt" name="sbt" rev="1.2.8" conf="provided->default(compile)"/>
-		<dependency org="org.scala-sbt" name="global-plugins" rev="0.0" conf="compile->default(compile)" e:sbtVersion="1.0" e:scalaVersion="2.12">
-			<artifact name="global-plugins" type="pom" ext="pom" conf="pom"/>
-			<artifact name="global-plugins" type="jar" ext="jar" conf="compile"/>
-			<artifact name="global-plugins" type="src" ext="jar" conf="compile" e:classifier="sources"/>
-			<artifact name="global-plugins" type="doc" ext="jar" conf="compile" e:classifier="javadoc"/>
-		</dependency>
 		<override org="org.scala-sbt" module="scripted-plugin_2.12" matcher="exact" rev="1.2.8"/>
 	</dependencies>
 </ivy-module>
