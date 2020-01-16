@@ -13,8 +13,9 @@ object problem05 {
   class Zucchini extends Seed {
     override def toString: String = "Wow! Zucchini plant"
   }
-  class Garden(seeds:Any) {
-    val seedVector = Vector(seeds)
+  class Garden(seeds:Seed*) {
+    var seedVector = Vector[Seed]()
+    for (e <- seeds) {seedVector = seedVector :+ e}
     override def toString: String = seedVector.mkString(",")
   }
 
