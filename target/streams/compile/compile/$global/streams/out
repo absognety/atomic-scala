@@ -1,5 +1,9 @@
 [0m[[0m[33mwarn[0m] [0m[0m/home/vikas/atomic-scala/src/main/scala/Testing/problem04.scala:10:20: comparing values of types Int and String using `==` will always yield false[0m
 [0m[[0m[33mwarn[0m] [0m[0m    assert(myValue2==myValue5,"invalid comparison between data types")[0m
 [0m[[0m[33mwarn[0m] [0m[0m                   ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/vikas/atomic-scala/src/main/scala/UsingTraits/problem04.scala:15:9: Generated class UsingTraits.problem04$artPeriod differs only in case from UsingTraits.problem04$ArtPeriod.[0m
+[0m[[0m[33mwarn[0m] [0m[0m  Such classes will overwrite one another on case-insensitive filesystems.[0m
+[0m[[0m[33mwarn[0m] [0m[0m  class artPeriod extends ArtPeriod[0m
+[0m[[0m[33mwarn[0m] [0m[0m        ^[0m
 [0m[[0m[33mwarn[0m] [0m[0mthere were 9 deprecation warnings (since 2.13.0); re-run with -deprecation for details[0m
-[0m[[0m[33mwarn[0m] [0m[0mtwo warnings found[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
