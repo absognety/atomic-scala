@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/UsingTraits/problem04.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/UsingTraits/problem05.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.problem04">
+  <component name="RunManager" selected="Application.problem05">
     <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="UsingTraits.problem01" />
       <module name="testscalaconfig" />
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution06" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Composition.solution06" />
+    <configuration name="problem05" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="UsingTraits.problem05" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Composition.*" />
+          <option name="PATTERN" value="UsingTraits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem05" />
         <item itemvalue="Application.problem04" />
         <item itemvalue="Application.problem03" />
         <item itemvalue="Application.problem02" />
         <item itemvalue="Application.problem01" />
-        <item itemvalue="Application.solution06" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579932010084</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="ex4: ArtPeriod trait with period tagging">
+      <created>1579938549863</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1579938549863</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -311,7 +318,8 @@
     <MESSAGE value="ex1: using traits with classes" />
     <MESSAGE value="ex2: trait Connections with Object tracking the number of connections live" />
     <MESSAGE value="ex3: WIFICamera that extends properties of trait Connections" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex3: WIFICamera that extends properties of trait Connections" />
+    <MESSAGE value="ex4: ArtPeriod trait with period tagging" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex4: ArtPeriod trait with period tagging" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
@@ -326,22 +334,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1579938506438">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1579939688270">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579938506438" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1579938506436">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579939688270" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1579939688268">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579938506436" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1579938506434">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579939688268" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1579939688264">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579938506434" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1579938506436">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579939688264" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1579939688269">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579938506436" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579939688269" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
