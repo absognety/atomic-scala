@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/TaggingTraitsAndCaseObjects/solution02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/TaggingTraitsAndCaseObjects/solution03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,20 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.solution02">
-    <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="UsingTraits.problem03" />
-      <module name="testscalaconfig" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UsingTraits.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.solution03">
     <configuration name="problem04" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="UsingTraits.problem04" />
       <module name="testscalaconfig" />
@@ -113,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="solution03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TaggingTraitsAndCaseObjects.solution03" />
+      <module name="testscalaconfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TaggingTraitsAndCaseObjects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.solution03" />
         <item itemvalue="Application.solution02" />
         <item itemvalue="Application.solution01" />
         <item itemvalue="Application.problem05" />
         <item itemvalue="Application.problem04" />
-        <item itemvalue="Application.problem03" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579956225005</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="ex2: implement tagging trait Color as Enumeration EnumColor">
+      <created>1579957738780</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1579957738780</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -335,37 +342,38 @@
     <MESSAGE value="ex4: ArtPeriod trait with period tagging" />
     <MESSAGE value="ex5: Painting extends ArtPeriod trait" />
     <MESSAGE value="ex1: Adding case object purple but not into match expression" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex1: Adding case object purple but not into match expression" />
+    <MESSAGE value="ex2: implement tagging trait Color as Enumeration EnumColor" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex2: implement tagging trait Color as Enumeration EnumColor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1579956224822">
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1579957738684">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1579956224822" />
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1579957738684" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1579957697893">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1579963498948">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579957697893" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1579957697893">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579963498948" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1579963498946">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579957697893" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1579957697892">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579963498946" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1579963498945">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579957697892" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1579957697893">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579963498945" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1579963498947">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579957697893" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579963498947" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -374,10 +382,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1579073578418" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1579956227635">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1579957741131">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1579956227635" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1579957741131" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579861878558">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
