@@ -17,4 +17,6 @@ object solution03 {
 }
 /*
 As long as the enumeration name is different, can add duplicate colors
+when tried to add duplicate to existing enumeration "EnumColor", leads to
+java.lang.NoSuchMethod Error.
  */
