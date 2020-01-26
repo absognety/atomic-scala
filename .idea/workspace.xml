@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Variables_Exercises/problem01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Variables/problem01.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Variables_Exercises/problem02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Variables/problem02.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Variables_Exercises/problem03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Variables/problem03.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Variables_Exercises/problem04.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Variables/problem04.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,12 +364,31 @@
       <option name="project" value="LOCAL" />
       <updated>1580042208713</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="rename package name to DataTypes in main/scala">
+      <created>1580042508538</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1580042508538</updated>
+    </task>
+    <task id="LOCAL-00028" summary="refactor package name to Values">
+      <created>1580042672117</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1580042672117</updated>
+    </task>
+    <task id="LOCAL-00029" summary="also refactor package Variables">
+      <created>1580042751617</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1580042751617</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="polymorphism problem03.scala importing objects from 02" />
-    <MESSAGE value="one more test case passed to solution 04" />
     <MESSAGE value="ex4: tweak polymorphism.scala character class" />
     <MESSAGE value="ex5: seed org with subclasses and garden" />
     <MESSAGE value="ex6: trait shape with geometric figures in scala" />
@@ -389,17 +412,19 @@
     <MESSAGE value="ex1: modify House.scala with lower and upper type bounds" />
     <MESSAGE value="ex2: modify Constraint.scala by changing class CallF to method" />
     <MESSAGE value="rename package name to DataTypes in main/scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename package name to DataTypes in main/scala" />
+    <MESSAGE value="refactor package name to Values" />
+    <MESSAGE value="also refactor package Variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="also refactor package Variables" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580042672057">
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580042751554">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580042672057" />
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580042751554" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -428,10 +453,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580042673932">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580042753299">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580042673932" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580042753299" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1579861878558">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
