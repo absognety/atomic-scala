@@ -1,4 +1,4 @@
-package Variables_Exercises
+package Variables
 
 /**
   * Created by cvikas10 on 3/6/2019.
