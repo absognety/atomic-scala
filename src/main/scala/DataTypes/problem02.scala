@@ -1,4 +1,4 @@
-package AtomicScala_DataTypes_Exercises
+package DataTypes
 
 /**
   * Created by cvikas10 on 3/6/2019.
