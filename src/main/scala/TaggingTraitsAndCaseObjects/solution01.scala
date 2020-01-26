@@ -1,16 +1,21 @@
 package TaggingTraitsAndCaseObjects
 
-sealed trait Color
-case object Red extends Color
-case object Green extends Color
-case object Blue extends Color
-case object Purple extends Color
+object parent {
+  sealed trait Color
+  case object Red extends Color
+  case object Green extends Color
+  case object Blue extends Color
+  case object Purple extends Color
+}
+
 object Color {
-  val values = Vector(Red, Green, Blue, Purple)
+  import parent._
+  var values = Vector(Red, Green, Blue, Purple)
 }
 
 object solution01 {
   import Color._
+  import parent._
   def display(c:Color) = c match {
     case Red => s"It's $c"
     case Green => s"It's $c"
