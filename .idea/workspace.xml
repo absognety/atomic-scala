@@ -424,11 +424,17 @@
       <option name="project" value="LOCAL" />
       <updated>1580192837859</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="modify Coffee.scala with traits to satisfy tests shown">
+      <created>1580208036538</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1580208036538</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex2: build upon solution01 with converting traits into case classes" />
     <MESSAGE value="ex3: built upon ex2 with mkstring" />
     <MESSAGE value="ex4: single Vector[Ability] implementation, importing case classes from ex2" />
     <MESSAGE value="ex5: add individual methods to robot class to reproduce output for solution 03" />
@@ -453,37 +459,38 @@
     <MESSAGE value="compiled class files along with streams" />
     <MESSAGE value="ex3: Base,Derived,Most hierarchy with f1,f2,f3 methods having type bounds on these classes on parameters" />
     <MESSAGE value="ex1: rewrite Coffee.scala from constructors using traits" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex1: rewrite Coffee.scala from constructors using traits" />
+    <MESSAGE value="modify Coffee.scala with traits to satisfy tests shown" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify Coffee.scala with traits to satisfy tests shown" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580192837784">
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580208036373">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580192837784" />
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580208036373" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580207950177">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580208789479">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580207950177" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580207950176">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580208789479" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580208789478">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580207950176" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580207950176">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580208789478" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580208789478">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580207950176" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580207950177">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580208789478" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580208789479">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580207950177" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580208789479" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -492,10 +499,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580192839934">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580208038777">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580192839934" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580208038777" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580207141949">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

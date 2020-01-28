@@ -48,8 +48,18 @@ object Solution01 {
     class NoFlavor extends syrup {
       override def toString: String = "NoFlavor"
     }
-    println (Coffee(new Single,new Caf,new Here,new Skim,new Choc))
-    println (Coffee(new Double,new Caf,new Here,new NoMilk,new NoFlavor))
-    println (Coffee(new Double,new HalfCaf,new ToGo,new Skim,new Choc))
+    val Single = new Single
+    val Caf = new Caf
+    val Here = new Here
+    val Skim = new Skim
+    val Choc = new Choc
+    val Double = new Double
+    val NoMilk = new NoMilk
+    val NoFlavor = new NoFlavor
+    val HalfCaf = new HalfCaf
+    val ToGo = new ToGo
+    println (Coffee(Single,Caf,Here,Skim,Choc))
+    println (Coffee(Double,Caf,Here,NoMilk,NoFlavor))
+    println (Coffee(Double,HalfCaf,ToGo,Skim,Choc))
   }
 }
