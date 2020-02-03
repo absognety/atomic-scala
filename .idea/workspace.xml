@@ -2,8 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/BuildingSystemsWithTraits/Solution02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/BuildingSystemsWithTraits/Solution03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$75f2bfae78ae90c05adb$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$75f2bfae78ae90c05adb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$75f2bfae78ae90c05adb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ad4afa600d232d7a94c3$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ad4afa600d232d7a94c3.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ad4afa600d232d7a94c3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c9e4d70301724a92117e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c9e4d70301724a92117e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$c9e4d70301724a92117e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cb1aae6bf203fefe7e8f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cb1aae6bf203fefe7e8f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$cb1aae6bf203fefe7e8f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8c26dd0ee53620bdbc2$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8c26dd0ee53620bdbc2.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8c26dd0ee53620bdbc2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/atomic-scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-atomic-scala-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile-internal.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile.xml" afterDir="false" />
@@ -18,16 +57,12 @@
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/resolution-cache/testscalaconfig/testscalaconfig_2.13/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.13/output_dsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/inputs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.13/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +105,32 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Solution02">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Solution03">
+    <configuration name="LinearRegression" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ReachingIntoJava.LinearRegression" />
+      <module name="testscalaconfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReachingIntoJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="BuildingSystemsWithTraits.Solution01" />
       <module name="testscalaconfig" />
@@ -97,6 +157,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BuildingSystemsWithTraits.Solution03" />
+      <module name="testscalaconfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BuildingSystemsWithTraits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="problem01 (1)" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Constructors.problem01" />
       <module name="testscalaconfig" />
@@ -110,39 +183,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="TypeParameterConstraints.problem01" />
-      <module name="testscalaconfig" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TypeParameterConstraints.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="TypeParameterConstraints.problem03" />
-      <module name="testscalaconfig" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TypeParameterConstraints.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution03" />
         <item itemvalue="Application.Solution02" />
+        <item itemvalue="Application.LinearRegression" />
         <item itemvalue="Application.Solution01" />
         <item itemvalue="Application.problem01 (1)" />
-        <item itemvalue="Application.problem01" />
-        <item itemvalue="Application.problem03" />
       </list>
     </recent_temporary>
   </component>
@@ -173,22 +220,10 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3158039241428" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="627429813" />
+        <entry key="$PROJECT_DIR$" value="3155166917971" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="689000671" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
       </map>
-    </option>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -463,6 +498,17 @@
     </task>
     <option name="localTasksCounter" value="38" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ex4: single Vector[Ability] implementation, importing case classes from ex2" />
