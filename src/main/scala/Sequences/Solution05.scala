@@ -15,5 +15,6 @@ object Solution05 {
     val s1 = friends2.sortBy(r => r.firstName)
     val s2 = s1.sortBy(s => s.lastName)
     println (s2)
+    s2.foreach(println)
   }
 }

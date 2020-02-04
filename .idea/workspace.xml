@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Sequences/Solution05.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Sequences/Solution05.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Sequences/Solution05.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -487,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580799010826</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="ex5: sortBy tiebreaker (firstName) and then with primary(lastName)">
+      <created>1580800869193</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1580800869193</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -504,7 +511,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex5: Painting extends ArtPeriod trait" />
     <MESSAGE value="ex1: Adding case object purple but not into match expression" />
     <MESSAGE value="ex2: implement tagging trait Color as Enumeration EnumColor" />
     <MESSAGE value="ex3: Adding another Red to EnumColor2" />
@@ -529,37 +535,38 @@
     <MESSAGE value="Vector of person objects with size" />
     <MESSAGE value="sort a Vector by a field" />
     <MESSAGE value="move email to trait and implement a friends group with sorting info by email" />
-    <option name="LAST_COMMIT_MESSAGE" value="move email to trait and implement a friends group with sorting info by email" />
+    <MESSAGE value="ex5: sortBy tiebreaker (firstName) and then with primary(lastName)" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex5: sortBy tiebreaker (firstName) and then with primary(lastName)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580799010766">
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580800869139">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580799010766" />
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580800869139" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580800803216">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580800916066">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580800803216" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580800803216">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580800916066" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580800916066">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580800803216" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580800803215">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580800916066" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580800916065">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580800803215" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580800803216">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580800916065" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580800916066">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580800803216" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580800916066" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -568,10 +575,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580799019111">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580800871378">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580799019111" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580800871378" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580207141949">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
