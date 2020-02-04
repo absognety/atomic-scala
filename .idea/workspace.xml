@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ListsAndRecursion/Solution02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ListsAndRecursion/Solution03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Solution02">
+  <component name="RunManager" selected="Application.Solution03">
     <configuration name="LinearRegression" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ReachingIntoJava.LinearRegression" />
       <module name="testscalaconfig" />
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution05" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Sequences.Solution05" />
+    <configuration name="Solution03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ListsAndRecursion.Solution03" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sequences.*" />
+          <option name="PATTERN" value="ListsAndRecursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution03" />
         <item itemvalue="Application.Solution02" />
         <item itemvalue="Application.Solution01" />
         <item itemvalue="Application.LinearRegression" />
         <item itemvalue="Application.Solution06" />
-        <item itemvalue="Application.Solution05" />
       </list>
     </recent_temporary>
   </component>
@@ -515,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580825058572</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="println statement added in unary recursive function">
+      <created>1580825603875</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1580825603875</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -532,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="detail added on exception log" />
     <MESSAGE value="ex4: adding another Red to tagging trait Color is giving bug-free output" />
     <MESSAGE value="ex1: modify House.scala with lower and upper type bounds" />
     <MESSAGE value="ex2: modify Constraint.scala by changing class CallF to method" />
@@ -557,37 +563,38 @@
     <MESSAGE value="call foreach(println) on result vector" />
     <MESSAGE value="sortBy 1.primary key(lastName) and then 2.Tiebreaker(firstName)" />
     <MESSAGE value="max element using recursion on a List[Int]" />
-    <option name="LAST_COMMIT_MESSAGE" value="max element using recursion on a List[Int]" />
+    <MESSAGE value="println statement added in unary recursive function" />
+    <option name="LAST_COMMIT_MESSAGE" value="println statement added in unary recursive function" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580825058503">
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580825603811">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580825058503" />
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580825603811" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580825547668">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580827036276">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580825547668" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580825547668">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580827036276" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580827036275">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580825547668" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580825547668">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580827036275" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580827036275">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580825547668" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580825547668">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580827036275" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580827036276">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580825547668" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580827036276" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -596,10 +603,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580825060896">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580825605720">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580825060896" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580825605720" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580207141949">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
