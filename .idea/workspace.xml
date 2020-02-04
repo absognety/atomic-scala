@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/BuildingSystemsWithTraits/Solution04.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/BuildingSystemsWithTraits/SodaFountain.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/BuildingSystemsWithTraits/SodaFountain.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Solution03">
+  <component name="RunManager" selected="Application.Solution04">
     <configuration name="LinearRegression" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ReachingIntoJava.LinearRegression" />
       <module name="testscalaconfig" />
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem01 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Constructors.problem01" />
+    <configuration name="Solution04" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="BuildingSystemsWithTraits.Solution04" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Constructors.*" />
+          <option name="PATTERN" value="BuildingSystemsWithTraits.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution04" />
         <item itemvalue="Application.Solution03" />
         <item itemvalue="Application.Solution02" />
         <item itemvalue="Application.LinearRegression" />
         <item itemvalue="Application.Solution01" />
-        <item itemvalue="Application.problem01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580793669696</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="build a wrapper around SodaFountain.scala with an object">
+      <created>1580793857329</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1580793857329</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +469,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex5: add individual methods to robot class to reproduce output for solution 03" />
     <MESSAGE value="ex6: overloading &quot;+&quot; operators with different parameters" />
     <MESSAGE value="ex1: using traits with classes" />
     <MESSAGE value="ex2: trait Connections with Object tracking the number of connections live" />
@@ -487,37 +493,38 @@
     <MESSAGE value="modify Coffee.scala with traits to satisfy tests shown" />
     <MESSAGE value="remove new from parameter list of Coffee in main" />
     <MESSAGE value="sodafountain.scala from BuildingSystemsWithTraits in atomic scala example copied" />
-    <option name="LAST_COMMIT_MESSAGE" value="sodafountain.scala from BuildingSystemsWithTraits in atomic scala example copied" />
+    <MESSAGE value="build a wrapper around SodaFountain.scala with an object" />
+    <option name="LAST_COMMIT_MESSAGE" value="build a wrapper around SodaFountain.scala with an object" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580793669563">
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580793857214">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580793669563" />
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580793857214" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580274081024">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580794184672">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580274081024" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580274081024">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580794184672" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580794184671">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580274081024" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580274081023">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580794184671" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580794184671">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580274081023" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580274081024">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580794184671" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580794184672">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580274081024" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580794184672" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -526,10 +533,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580793672420">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580793859179">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580793672420" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580793859179" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580207141949">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
