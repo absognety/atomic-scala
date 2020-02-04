@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/BuildingSystemsWithTraits/Solution04.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Sequences/Solution01.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Solution04">
+  <component name="RunManager" selected="Application.Solution01 (1)">
     <configuration name="LinearRegression" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ReachingIntoJava.LinearRegression" />
       <module name="testscalaconfig" />
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="BuildingSystemsWithTraits.Solution01" />
+    <configuration name="Solution01 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Sequences.Solution01" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BuildingSystemsWithTraits.*" />
+          <option name="PATTERN" value="Sequences.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution01 (1)" />
         <item itemvalue="Application.Solution04" />
         <item itemvalue="Application.Solution03" />
         <item itemvalue="Application.Solution02" />
         <item itemvalue="Application.LinearRegression" />
-        <item itemvalue="Application.Solution01" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580793857329</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="solution04 using enumeration as a container ~ argument to TakeHome case class">
+      <created>1580794248459</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1580794248459</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -469,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex6: overloading &quot;+&quot; operators with different parameters" />
     <MESSAGE value="ex1: using traits with classes" />
     <MESSAGE value="ex2: trait Connections with Object tracking the number of connections live" />
     <MESSAGE value="ex3: WIFICamera that extends properties of trait Connections" />
@@ -494,37 +500,38 @@
     <MESSAGE value="remove new from parameter list of Coffee in main" />
     <MESSAGE value="sodafountain.scala from BuildingSystemsWithTraits in atomic scala example copied" />
     <MESSAGE value="build a wrapper around SodaFountain.scala with an object" />
-    <option name="LAST_COMMIT_MESSAGE" value="build a wrapper around SodaFountain.scala with an object" />
+    <MESSAGE value="solution04 using enumeration as a container ~ argument to TakeHome case class" />
+    <option name="LAST_COMMIT_MESSAGE" value="solution04 using enumeration as a container ~ argument to TakeHome case class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580793857214">
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580794248357">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580793857214" />
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580794248357" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580794184672">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580796414031">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580794184672" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580794184671">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580796414031" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580796414031">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580794184671" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580794184671">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580796414031" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580796414030">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580794184671" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580794184672">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580796414030" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580796414031">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580794184672" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580796414031" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -533,10 +540,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580793859179">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580794250086">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580793859179" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580794250086" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580207141949">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
