@@ -21,58 +21,8 @@
 [0m[[0m[0mdebug[0m] [0m[0mdependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.13.0 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.13.0 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.13.0 {scala-tool=[default, optional(default)], compile=[default(compile)]}[0m
 [0m[[0m[0mdebug[0m] [0m[0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-reflect;2.13.0 {compile=[default(compile)]} => dependency: org.scala-lang#scala-reflect;2.13.0 {compile=[default(compile)]}[0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: org.apache.commons#commons-math3;3.4.1 {compile=[default(compile)]}[0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain-delegate: Checking cache for: dependency: org.apache.commons#commons-math3;3.4.1 {compile=[default(compile)]}[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried /home/adminpc/.ivy2/local/org.apache.commons/commons-math3/3.4.1/ivys/ivy.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	local: no ivy file found for org.apache.commons#commons-math3;3.4.1[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.pom[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: found md file for org.apache.commons#commons-math3;3.4.1[0m
-[0m[[0m[0mdebug[0m] [0m[0m		=> https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.pom (3.4.1)[0m
-[0m[[0m[0mdebug[0m] [0m[0mdownloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.pom ...[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.pom[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.pom.sha1[0m
-[0m[[0m[0mdebug[0m] [0m[0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.pom[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[SUCCESSFUL ] org.apache.commons#commons-math3;3.4.1!commons-math3.pom(pom.original) (1002ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: org.apache.commons#commons-parent;34 {}[0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain-delegate: Checking cache for: dependency: org.apache.commons#commons-parent;34 {}[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried /home/adminpc/.ivy2/local/org.apache.commons/commons-parent/34/ivys/ivy.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	local: no ivy file found for org.apache.commons#commons-parent;34[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: found md file for org.apache.commons#commons-parent;34[0m
-[0m[[0m[0mdebug[0m] [0m[0m		=> https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom (34)[0m
-[0m[[0m[0mdebug[0m] [0m[0mdownloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom ...[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom.sha1[0m
-[0m[[0m[0mdebug[0m] [0m[0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[SUCCESSFUL ] org.apache.commons#commons-parent;34!commons-parent.pom(pom.original) (943ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: org.apache#apache;13 {}[0m
-[0m[[0m[0mdebug[0m] [0m[0msbt-chain-delegate: Checking cache for: dependency: org.apache#apache;13 {}[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried /home/adminpc/.ivy2/local/org.apache/apache/13/ivys/ivy.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	local: no ivy file found for org.apache#apache;13[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: found md file for org.apache#apache;13[0m
-[0m[[0m[0mdebug[0m] [0m[0m		=> https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom (13)[0m
-[0m[[0m[0mdebug[0m] [0m[0mdownloading https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom ...[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: downloading https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: downloading https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom.sha1[0m
-[0m[[0m[0mdebug[0m] [0m[0msha1 OK for https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[SUCCESSFUL ] org.apache#apache;13!apache.pom(pom.original) (761ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried /home/adminpc/.ivy2/local/org.apache/apache/13/jars/apache.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried /home/adminpc/.sbt/preloaded/org.apache/apache/13/jars/apache.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried file:////home/adminpc/.sbt/preloaded/org/apache/apache/13/apache-13.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried https://oss.sonatype.org/content/repositories/snapshots/org/apache/apache/13/apache-13.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mCLIENT ERROR: Not Found url=https://oss.sonatype.org/content/repositories/snapshots/org/apache/apache/13/apache-13.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried /home/adminpc/.ivy2/local/org.apache.commons/commons-parent/34/jars/commons-parent.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mCLIENT ERROR: Not Found url=https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried /home/adminpc/.sbt/preloaded/org.apache.commons/commons-parent/34/jars/commons-parent.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried file:////home/adminpc/.sbt/preloaded/org/apache/commons/commons-parent/34/commons-parent-34.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried https://oss.sonatype.org/content/repositories/snapshots/org/apache/commons/commons-parent/34/commons-parent-34.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mCLIENT ERROR: Not Found url=https://oss.sonatype.org/content/repositories/snapshots/org/apache/commons/commons-parent/34/commons-parent-34.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried /home/adminpc/.ivy2/local/org.apache.commons/commons-math3/3.4.1/jars/commons-math3.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	found org.apache.commons#commons-math3;3.4.1 in public[0m
+[0m[[0m[0mdebug[0m] [0m[0msbt-chain: module revision found in cache: org.apache.commons#commons-math3;3.4.1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	found org.apache.commons#commons-math3;3.4.1 in sbt-chain[0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies testscalaconfig#testscalaconfig_2.13;0.1->org.apache.commons#commons-math3;3.4.1 [compile->runtime][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies testscalaconfig#testscalaconfig_2.13;0.1->org.apache.commons#commons-math3;3.4.1 [compile->compile][0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies testscalaconfig#testscalaconfig_2.13;0.1->org.apache.commons#commons-math3;3.4.1 [compile->master][0m
@@ -536,27 +486,22 @@
 [0m[[0m[0mdebug[0m] [0m[0mignoring unhandled DependencyDescriptorMediator: class sbt.internal.librarymanagement.IvyScalaUtil$OverrideScalaMediator[0m
 [0m[[0m[0mdebug[0m] [0m[0m	resolved ivy file produced in cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m:: downloading artifacts ::[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.13.0!scala-library.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m		tried https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar[0m
-[0m[[0m[0minfo[0m] [0m[0mdownloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar ...[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.13.0!scala-reflect.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.0!scala-compiler.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.apache.commons#commons-math3;3.4.1!commons-math3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.13.0!scala-library.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.6!jline.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar.sha1[0m
-[0m[[0m[0mdebug[0m] [0m[0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-math3/3.4.1/commons-math3-3.4.1.jar[0m
-[0m[[0m[0minfo[0m] [0m[0m	[SUCCESSFUL ] org.apache.commons#commons-math3;3.4.1!commons-math3.jar (3530ms)[0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 8273ms :: artifacts dl 3532ms[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 compile produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 runtime produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 test produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 provided produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-provided.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 optional produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-optional.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 compile-internal produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile-internal.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 runtime-internal produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime-internal.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 test-internal produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test-internal.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 plugin produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-plugin.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 pom produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-pom.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 scala-tool produced in /home/adminpc/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-scala-tool.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (8273ms resolve - 3532ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.13.0!scala-compiler.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 53ms :: artifacts dl 3ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 compile produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 runtime produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 test produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 provided produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-provided.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 optional produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-optional.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 compile-internal produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-compile-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 runtime-internal produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-runtime-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 test-internal produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-test-internal.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 plugin produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-plugin.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 pom produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-pom.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	report for testscalaconfig#testscalaconfig_2.13;0.1 scala-tool produced in /home/vikas/atomic-scala/target/scala-2.13/resolution-cache/reports/testscalaconfig-testscalaconfig_2.13-scala-tool.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (53ms resolve - 3ms download)[0m
 [0m[[0m[0minfo[0m] [0m[0mDone updating.[0m
