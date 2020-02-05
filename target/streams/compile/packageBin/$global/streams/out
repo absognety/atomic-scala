@@ -70,6 +70,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Overloading/problem01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BuildingSystemsWithTraits/Solution01$toGo.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/BuildingSystemsWithTraits/Solution01$toGo.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListsAndRecursion/recursiveFreq.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ListsAndRecursion/recursiveFreq.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	TaggingTraitsAndCaseObjects/solution03.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/TaggingTraitsAndCaseObjects/solution03.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	OverridingMethods/Solution1$.class[0m
@@ -1178,6 +1180,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/TypeParameterConstraints/testMethod$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ABitOfStyle/Solution1$Exclaim$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ABitOfStyle/Solution1$Exclaim$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListsAndRecursion/driver.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ListsAndRecursion/driver.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BuildingSystemsWithTraits/SodaFountain$Sauce$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/BuildingSystemsWithTraits/SodaFountain$Sauce$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	compound_Expressions/problem04.class[0m
@@ -1982,6 +1986,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Comprehensions[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImportsPackages/problem03$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ImportsPackages/problem03$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ListsAndRecursion/driver$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ListsAndRecursion/driver$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	OverridingMethods/Solution2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/OverridingMethods/Solution2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	IdiomaticScala/Solution7$.class[0m
