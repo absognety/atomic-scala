@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CombiningSequencesWithZip/Solution01.scala" afterDir="false" />
+    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="ex1: simple demo of using zipping two vectors">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CombiningSequencesWithZip/Solution02.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/testscalaconfig_2.13-0.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/inputs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/packageBin/$global/streams/out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Solution01 (1)">
+  <component name="RunManager" selected="Application.Solution02 (1)">
     <configuration name="Solution01 (1)" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="CombiningSequencesWithZip.Solution01" />
       <module name="testscalaconfig" />
@@ -68,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ListsAndRecursion.Solution01" />
+    <configuration name="Solution02 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CombiningSequencesWithZip.Solution02" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListsAndRecursion.*" />
+          <option name="PATTERN" value="CombiningSequencesWithZip.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution02 (1)" />
         <item itemvalue="Application.Solution01 (1)" />
         <item itemvalue="Application.driver" />
         <item itemvalue="Application.Solution03" />
         <item itemvalue="Application.Solution02" />
-        <item itemvalue="Application.Solution01" />
       </list>
     </recent_temporary>
   </component>
@@ -185,13 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00003" summary="one more test case passed to solution 04">
-      <created>1579075573523</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1579075573523</updated>
     </task>
     <task id="LOCAL-00004" summary="ex4: tweak polymorphism.scala character class">
       <created>1579078904778</created>
@@ -529,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580880919445</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="ex1: simple demo of using zipping two vectors">
+      <created>1580882488903</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1580882488903</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex2: modify Constraint.scala by changing class CallF to method" />
     <MESSAGE value="rename package name to DataTypes in main/scala" />
     <MESSAGE value="refactor package name to Values" />
     <MESSAGE value="also refactor package Variables" />
@@ -571,37 +563,38 @@
     <MESSAGE value="println statement added in unary recursive function" />
     <MESSAGE value="reimplement sumIt method with List[Int] as a parameter" />
     <MESSAGE value="ex4: frequency of a word in a List using recursion in scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex4: frequency of a word in a List using recursion in scala" />
+    <MESSAGE value="ex1: simple demo of using zipping two vectors" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex1: simple demo of using zipping two vectors" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580880918959">
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580896434673">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580880918959" />
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580896434673" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580882438003">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580896840274">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580882438003" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580882438002">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580896840274" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580896840273">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580882438002" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580882438002">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580896840273" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580896840273">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580882438002" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580882438003">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580896840273" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580896840273">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580882438003" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580896840273" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -610,10 +603,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580880926107">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580882491133">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580880926107" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580882491133" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580878678353">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
