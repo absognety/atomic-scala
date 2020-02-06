@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="demo1: var for">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ReferencesAndMutability/Solution01.scala" afterDir="false" />
+    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ReferencesAndMutability/Solution02.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Solution01">
+  <component name="RunManager" selected="Application.Solution02">
     <configuration name="Solution01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ReferencesAndMutability.Solution01" />
       <module name="testscalaconfig" />
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Maps.problem03" />
+    <configuration name="Solution02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ReferencesAndMutability.Solution02" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Maps.*" />
+          <option name="PATTERN" value="ReferencesAndMutability.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem05" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Maps.problem05" />
+    <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Maps.problem03" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution02" />
         <item itemvalue="Application.Solution01" />
         <item itemvalue="Application.problem07" />
         <item itemvalue="Application.problem06" />
         <item itemvalue="Application.problem03" />
-        <item itemvalue="Application.problem05" />
       </list>
     </recent_temporary>
   </component>
@@ -178,13 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00016" summary="ex3: WIFICamera that extends properties of trait Connections">
-      <created>1579932010084</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1579932010084</updated>
     </task>
     <task id="LOCAL-00017" summary="ex4: ArtPeriod trait with period tagging">
       <created>1579938549863</created>
@@ -522,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580987962998</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="ex1: Demoing the different variations of mutable and immutable maps with operations allowed.">
+      <created>1580990437859</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1580990437859</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="solution04 using enumeration as a container ~ argument to TakeHome case class" />
     <MESSAGE value="Person in an address book using Sequences of scala" />
     <MESSAGE value="Vector of person objects with size" />
     <MESSAGE value="sort a Vector by a field" />
@@ -564,37 +563,38 @@
     <MESSAGE value="ex5: Trying to add existing language with same and different keys see the comments for the output" />
     <MESSAGE value="1. remove key-value pair from Mam by key and value 2.Add m3 as an attribute to object problem03" />
     <MESSAGE value="ex6: fixed the issue arising from changing case class to class when using maps" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex6: fixed the issue arising from changing case class to class when using maps" />
+    <MESSAGE value="ex1: Demoing the different variations of mutable and immutable maps with operations allowed." />
+    <option name="LAST_COMMIT_MESSAGE" value="ex1: Demoing the different variations of mutable and immutable maps with operations allowed." />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580990047637">
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580990437797">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580990047637" />
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580990437797" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580990376080">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580991585453">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580990376080" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580990376079">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580991585453" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580991585452">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580990376079" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580990376079">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580991585452" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580991585452">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580990376079" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580990376079">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580991585452" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580991585453">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580990376079" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580991585453" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -603,10 +603,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580987964833">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580990439647">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580987964833" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580990439647" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580958316483">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
