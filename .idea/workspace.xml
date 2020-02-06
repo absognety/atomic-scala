@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Maps/problem07.scala" afterDir="false" />
+    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="demo1: var for">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ReferencesAndMutability/Solution01.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +47,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.problem07">
-    <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Maps.problem03" />
+  <component name="RunManager" selected="Application.Solution01">
+    <configuration name="Solution01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ReferencesAndMutability.Solution01" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Maps.*" />
+          <option name="PATTERN" value="ReferencesAndMutability.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem04" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Maps.problem04" />
+    <configuration name="problem03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Maps.problem03" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution01" />
         <item itemvalue="Application.problem07" />
         <item itemvalue="Application.problem06" />
         <item itemvalue="Application.problem03" />
         <item itemvalue="Application.problem05" />
-        <item itemvalue="Application.problem04" />
       </list>
     </recent_temporary>
   </component>
@@ -178,13 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00015" summary="ex2: trait Connections with Object tracking the number of connections live">
-      <created>1579931273411</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1579931273411</updated>
     </task>
     <task id="LOCAL-00016" summary="ex3: WIFICamera that extends properties of trait Connections">
       <created>1579932010084</created>
@@ -522,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580986917504</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="ex6: fixed the issue arising from changing case class to class when using maps">
+      <created>1580987962998</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1580987962998</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="build a wrapper around SodaFountain.scala with an object" />
     <MESSAGE value="solution04 using enumeration as a container ~ argument to TakeHome case class" />
     <MESSAGE value="Person in an address book using Sequences of scala" />
     <MESSAGE value="Vector of person objects with size" />
@@ -564,37 +563,38 @@
     <MESSAGE value="ex4: Add Turkish to existing languages Map" />
     <MESSAGE value="ex5: Trying to add existing language with same and different keys see the comments for the output" />
     <MESSAGE value="1. remove key-value pair from Mam by key and value 2.Add m3 as an attribute to object problem03" />
-    <option name="LAST_COMMIT_MESSAGE" value="1. remove key-value pair from Mam by key and value 2.Add m3 as an attribute to object problem03" />
+    <MESSAGE value="ex6: fixed the issue arising from changing case class to class when using maps" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex6: fixed the issue arising from changing case class to class when using maps" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580986917421">
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580990047637">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580986917421" />
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580990047637" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580987928593">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580990376080">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580987928593" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580987928592">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580990376080" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580990376079">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580987928592" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580987928592">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580990376079" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580990376079">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580987928592" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580987928593">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580990376079" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580990376079">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580987928593" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580990376079" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -603,17 +603,17 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580986920156">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580987964833">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580986920156" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580987964833" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580958316483">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1580958316483" />
-    <state x="295" y="27" width="840" height="739" key="search.everywhere.popup" timestamp="1580983855220">
+    <state x="295" y="27" width="840" height="739" key="search.everywhere.popup" timestamp="1580990171328">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="295" y="27" width="840" height="739" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1580983855220" />
+    <state x="295" y="27" width="840" height="739" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1580990171328" />
   </component>
 </project>
