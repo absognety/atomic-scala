@@ -12,16 +12,16 @@ object Solution01 {
     "beans", "asparagus", "sweet potatoes",
     "spinach", "carrots")
   def percentMeat(gCart:Set[String]): Double = {
-    (groceryCart.intersect(meats)).size.toFloat/groceryCart.size * 100
+    (gCart.intersect(meats)).size.toFloat/gCart.size * 100
   }
   def percentFruit(gCart:Set[String]): Double = {
-    (groceryCart.intersect(fruits)).size.toFloat/groceryCart.size * 100
+    (gCart.intersect(fruits)).size.toFloat/gCart.size * 100
   }
   def percentVeggies(gCart:Set[String]): Double = {
-    (groceryCart.intersect(vegetables)).size.toFloat/groceryCart.size * 100
+    (gCart.intersect(vegetables)).size.toFloat/gCart.size * 100
   }
   def percentOther(gCart:Set[String]): Double = {
-    100 - (percentMeat(groceryCart)+percentFruit(groceryCart)+percentVeggies(groceryCart))
+    100 - (percentMeat(gCart)+percentFruit(gCart)+percentVeggies(gCart))
   }
 
   def main(args: Array[String]): Unit = {
