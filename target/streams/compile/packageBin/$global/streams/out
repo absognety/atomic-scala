@@ -12,6 +12,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/BuildingSystemsWithTraits/Solution03$Mocha.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Sequences/Solution06.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Sequences/Solution06.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip/Solution01$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip/Solution01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BuildingSystemsWithTraits/Solution04$TakeHome$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/BuildingSystemsWithTraits/Solution04$TakeHome$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Map_Reduce/problem05$.class[0m
@@ -232,6 +234,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Enumerations/Solution4.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AbstractClasses/solution04.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/AbstractClasses/solution04.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip/Solution03$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip/Solution03$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	PatternMatchingWithTypes/Solution1$Person$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/PatternMatchingWithTypes/Solution1$Person$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Summary2/problem03$.class[0m
@@ -362,6 +366,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/OverridingMethods/Solution3$Trip$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Methods/problem05.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Methods/problem05.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sets/Solution03.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Sets/Solution03.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ALittleReflection/Name1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ALittleReflection/Name1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FunctionsAsObjects/Solution8$.class[0m
@@ -452,6 +458,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/UsingTraits/problem04$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AbstractClasses/solution04$Adder.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/AbstractClasses/solution04$Adder.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sets/Solution02.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Sets/Solution02.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Variables/problem03$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Variables/problem03$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	TypeParameterConstraints/House.class[0m
@@ -472,6 +480,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/BuildingSystemsWithTraits/SodaFountain$Sprinkles$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MoreConditionals/problem01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/MoreConditionals/problem01$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip/Solution04.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip/Solution04.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Composition/solution06$Robot.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Composition/solution06$Robot.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AutomaticStringConversion/Solution03$.class[0m
@@ -490,6 +500,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Methods/problem03.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	NamedandDefaultArguments/problem03$Planet$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/NamedandDefaultArguments/problem03$Planet$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip/Solution04$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip/Solution04$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	TypeParameterConstraints/Store.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/TypeParameterConstraints/Store.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Fields/problem04$.class[0m
@@ -520,6 +532,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/OverridingMethods[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ALittleReflection/Name$Name.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ALittleReflection/Name$Name.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Sets[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImportsPackages/pythogorean.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ImportsPackages/pythogorean.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	TaggingTraitsAndCaseObjects/parent$Purple$.class[0m
@@ -556,6 +570,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Variables/problem01.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Polymorphism/problem01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Polymorphism/problem01$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ALittleReflection/Prob02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ALittleReflection/Prob02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Composition/solution04$Robot.class[0m
@@ -618,6 +634,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Classes_Objects/problem02.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Vectors/problem09$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Vectors/problem09$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip/Solution02$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip/Solution02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	DataTypes/problem07.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/DataTypes/problem07.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BuildingSystemsWithTraits/Solution01$shots.class[0m
@@ -656,6 +674,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/TypeParameterConstraints/Clean.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BuildingSystemsWithTraits/Solution01$Skim$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/BuildingSystemsWithTraits/Solution01$Skim$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip/Solution01.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip/Solution01.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ParametrizedTypes/Solution3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ParametrizedTypes/Solution3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	StringInterpolation/Solution1$Gardengnome$1.class[0m
@@ -752,6 +772,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/UniformAccessandSetters[0m
 [0m[[0m[0mdebug[0m] [0m[0m	BuildingSystemsWithTraits/Solution03$Skim$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/BuildingSystemsWithTraits/Solution03$Skim$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sets/Solution01$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Sets/Solution01$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	StringInterpolation[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/StringInterpolation[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AutomaticStringConversion/Solution03$Cycle$2$.class[0m
@@ -1164,6 +1186,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/BuildingSystemsWithTraits/SodaFountain$Cherry.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	NamedandDefaultArguments/problem06$Item$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/NamedandDefaultArguments/problem06$Item$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sets/Solution02$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Sets/Solution02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Methods[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Methods[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MoreConditionals/problem02.class[0m
@@ -1318,6 +1342,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/PatternMatchingWithCaseClasses/Solution3$Bus$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Composition/solution05$Robot.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Composition/solution05$Robot.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip/Solution03.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip/Solution03.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	TypeParameterConstraints/Utensil$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/TypeParameterConstraints/Utensil$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	TaggingTraitsAndCaseObjects/parent.class[0m
@@ -1384,6 +1410,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Polymorphism/problem04$Character.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Classes_Objects/problem02$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Classes_Objects/problem02$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip/zipUse$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip/zipUse$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	FunctionsAsObjects/Solution8.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/FunctionsAsObjects/Solution8.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ALittleReflection/Prob03.class[0m
@@ -1670,6 +1698,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/MethodsInsideClasses/problem03.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Values/Problem05.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Values/Problem05.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sets/Solution01.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Sets/Solution01.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MethodsInsideClasses/problem03$Motorboat$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/MethodsInsideClasses/problem03$Motorboat$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Summary1[0m
@@ -1916,6 +1946,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CaseClasses/Solution5.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	AbstractClasses/solution05.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/AbstractClasses/solution05.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip/zipUse.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip/zipUse.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ParametrizedTypes/Solution1$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/ParametrizedTypes/Solution1$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Enumerations/Cell.class[0m
@@ -1964,6 +1996,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Composition/solution01$Mobility.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Comprehensions/Solution1$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Comprehensions/Solution1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CombiningSequencesWithZip/Solution02.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/CombiningSequencesWithZip/Solution02.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MethodsInsideClasses/problem03$Sailboat$1$Flare$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/MethodsInsideClasses/problem03$Sailboat$1$Flare$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Enumerations/Solution3.class[0m
@@ -1982,6 +2016,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Overloading/problem03$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Vectors/problem05.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Vectors/problem05.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Sets/Solution03$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Sets/Solution03$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Comprehensions[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/vikas/atomic-scala/target/scala-2.13/classes/Comprehensions[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ImportsPackages/problem03$.class[0m
