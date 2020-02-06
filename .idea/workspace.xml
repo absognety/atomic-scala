@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Sets/Solution02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Sets/Solution03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Sets/Solution01.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Sets/Solution01.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,26 +47,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Solution01">
+  <component name="RunManager" selected="Application.Solution03">
     <configuration name="Solution01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Sets.Solution01" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Sets.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution02 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="CombiningSequencesWithZip.Solution02" />
-      <module name="testscalaconfig" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CombiningSequencesWithZip.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,6 +87,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Sets.Solution03" />
+      <module name="testscalaconfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution04" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="CombiningSequencesWithZip.Solution04" />
       <module name="testscalaconfig" />
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution03" />
         <item itemvalue="Application.Solution01" />
         <item itemvalue="Application.Solution02" />
         <item itemvalue="Application.Solution04" />
         <item itemvalue="Application.Solution03 (1)" />
-        <item itemvalue="Application.Solution02 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -179,13 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00007" summary="ex5: changed the semantics to use for loop similar to 06">
-      <created>1579171663333</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1579171663333</updated>
     </task>
     <task id="LOCAL-00008" summary="ex1: Composition problem-01">
       <created>1579240759662</created>
@@ -523,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580959776965</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="ex2: Add a union demo and fix local variable at global variable in Solution01">
+      <created>1580970911556</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1580970911556</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -540,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor summary1 and summary2 code files ~ changing package names" />
     <MESSAGE value="fix the bug ~ polymorphism of objects being called at run time" />
     <MESSAGE value="compiled class files along with streams" />
     <MESSAGE value="ex3: Base,Derived,Most hierarchy with f1,f2,f3 methods having type bounds on these classes on parameters" />
@@ -565,37 +563,38 @@
     <MESSAGE value="ex2: try with different sizes of two vectors to be zipped" />
     <MESSAGE value="ex3: Try List instead of Vector" />
     <MESSAGE value="ex1: Use setOps to calculate percentages" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex1: Use setOps to calculate percentages" />
+    <MESSAGE value="ex2: Add a union demo and fix local variable at global variable in Solution01" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex2: Add a union demo and fix local variable at global variable in Solution01" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580959776837">
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580970911299">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580959776837" />
+    <state x="161" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580970911299" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580970850179">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1580974763479">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580970850179" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580970850176">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580974763479" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1580974763479">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580970850176" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580970850175">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580974763479" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1580974763478">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580970850175" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580970850178">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580974763478" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1580974763479">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580970850178" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580974763479" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -604,10 +603,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580959779367">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580970913828">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580959779367" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580970913828" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580958316483">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
