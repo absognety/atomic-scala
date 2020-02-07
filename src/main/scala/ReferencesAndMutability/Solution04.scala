@@ -1,7 +1,7 @@
 package ReferencesAndMutability
 
 import scala.math.pow
-object Solution03 {
+object Solution04 {
   val testv = Vector(1,2,3,4,5,6)
 
   def main(args: Array[String]): Unit = {

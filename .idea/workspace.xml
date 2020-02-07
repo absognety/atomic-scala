@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ReferencesAndMutability/Solution03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ReferencesAndMutability/Solution03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ReferencesAndMutability/Solution04.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       </method>
     </configuration>
     <configuration name="Solution03" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ReferencesAndMutability.Solution03" />
+      <option name="MAIN_CLASS_NAME" value="ReferencesAndMutability.Solution04" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
@@ -178,13 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00018" summary="ex5: Painting extends ArtPeriod trait">
-      <created>1579939726186</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1579939726186</updated>
     </task>
     <task id="LOCAL-00019" summary="ex1: Adding case object purple but not into match expression">
       <created>1579956225005</created>
@@ -522,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580991639818</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="ex3: change the contents/elements of a immutable vector by using map">
+      <created>1581054741532</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1581054741532</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Vector of person objects with size" />
     <MESSAGE value="sort a Vector by a field" />
     <MESSAGE value="move email to trait and implement a friends group with sorting info by email" />
     <MESSAGE value="ex5: sortBy tiebreaker (firstName) and then with primary(lastName)" />
@@ -564,17 +563,18 @@
     <MESSAGE value="ex6: fixed the issue arising from changing case class to class when using maps" />
     <MESSAGE value="ex1: Demoing the different variations of mutable and immutable maps with operations allowed." />
     <MESSAGE value="Explanation for difference between Immutable and Mutable Sets in scala" />
-    <option name="LAST_COMMIT_MESSAGE" value="Explanation for difference between Immutable and Mutable Sets in scala" />
+    <MESSAGE value="ex3: change the contents/elements of a immutable vector by using map" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex3: change the contents/elements of a immutable vector by using map" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579241309611">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1579241309611" />
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1580991639745">
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1581054741477">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580991639745" />
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1581054741477" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -603,10 +603,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1580991642011">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1581054743562">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1580991642011" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1581054743562" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1580958316483">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
