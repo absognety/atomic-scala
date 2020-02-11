@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="ex2: try">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ErrorHandlingWithExceptions/problem02.scala" afterDir="false" />
+    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ErrorHandlingWithExceptions/problem03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.problem02 (1)">
+  <component name="RunManager" selected="Application.problem03 (1)">
     <configuration name="problem01 (1)" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="ErrorHandlingWithExceptions.problem01" />
       <module name="testscalaconfig" />
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="PatternMatchingWithTuples.problem01" />
+    <configuration name="problem02 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ErrorHandlingWithExceptions.problem02" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PatternMatchingWithTuples.*" />
+          <option name="PATTERN" value="ErrorHandlingWithExceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem02 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ErrorHandlingWithExceptions.problem02" />
+    <configuration name="problem03 (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ErrorHandlingWithExceptions.problem03" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem03 (1)" />
         <item itemvalue="Application.problem02 (1)" />
         <item itemvalue="Application.problem01 (1)" />
         <item itemvalue="Application.problem04" />
         <item itemvalue="Application.problem03" />
-        <item itemvalue="Application.problem01" />
       </list>
     </recent_temporary>
   </component>
@@ -178,13 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00029" summary="also refactor package Variables">
-      <created>1580042751617</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1580042751617</updated>
     </task>
     <task id="LOCAL-00030" summary="refactor summary1 and summary2 code files ~ changing package names">
       <created>1580042851141</created>
@@ -522,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581404143782</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="ex2: try-catch to handle NullPointerException in scala">
+      <created>1581417586763</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1581417586763</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex2: try with different sizes of two vectors to be zipped" />
     <MESSAGE value="ex3: Try List instead of Vector" />
     <MESSAGE value="ex1: Use setOps to calculate percentages" />
     <MESSAGE value="ex2: Add a union demo and fix local variable at global variable in Solution01" />
@@ -564,37 +563,38 @@
     <MESSAGE value="1. Added magenta to Color Enumeration 2. overrided blend method in solution 3 by adding magenta to pattern match clause" />
     <MESSAGE value="1. Added white also to Enumeration 2.Implemented new conditions for blend which includes inputs of white" />
     <MESSAGE value="ex1: sample first program using exceptions (try,catch blocks)" />
-    <option name="LAST_COMMIT_MESSAGE" value="ex1: sample first program using exceptions (try,catch blocks)" />
+    <MESSAGE value="ex2: try-catch to handle NullPointerException in scala" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex2: try-catch to handle NullPointerException in scala" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581316263680">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1581316263680" />
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1581417284653">
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1581417586685">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1581417284653" />
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1581417586685" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1581417512900">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1581418287986">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581417512900" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1581417512900">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581418287986" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1581418287985">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581417512900" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1581417512899">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581418287985" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1581418287985">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581417512899" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1581417512900">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581418287985" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1581418287986">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581417512900" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581418287986" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -603,10 +603,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1581404146167">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1581417588912">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1581404146167" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1581417588912" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581399226613">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
