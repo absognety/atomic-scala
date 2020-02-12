@@ -18,7 +18,7 @@ object problem05 {
       case e:feclass => "first exception!"
       case e:seclass => "second exception"
       case e:teclass => "third exception"
-      case _ => "unknown exception"
+      case _:Throwable => "unknown exception"
     }
   }
 
