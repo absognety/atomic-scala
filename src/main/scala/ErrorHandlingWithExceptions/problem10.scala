@@ -4,7 +4,8 @@ import java.lang.ArithmeticException
 object testfinally {
   def tfinal(a:Int,b:Int) = {
     try {
-      a/b
+      val div = a/b
+      s"$div"
     } catch {
       case e:ArithmeticException => "Division by 0 not possible!"
     } finally {

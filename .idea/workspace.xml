@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ErrorHandlingWithExceptions/problem10.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ErrorHandlingWithExceptions/problem10.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ErrorHandlingWithExceptions/problem10.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,13 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00037" summary="remove new from parameter list of Coffee in main">
-      <created>1580208822400</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1580208822400</updated>
     </task>
     <task id="LOCAL-00038" summary="sodafountain.scala from BuildingSystemsWithTraits in atomic scala example copied">
       <created>1580793669695</created>
@@ -522,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581498232743</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Try-Catch-Finally combination demo for divide by zero problem">
+      <created>1581499673781</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1581499673782</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex4: Add Turkish to existing languages Map" />
     <MESSAGE value="ex5: Trying to add existing language with same and different keys see the comments for the output" />
     <MESSAGE value="1. remove key-value pair from Mam by key and value 2.Add m3 as an attribute to object problem03" />
     <MESSAGE value="ex6: fixed the issue arising from changing case class to class when using maps" />
@@ -564,37 +563,38 @@
     <MESSAGE value="Demoing that derived-class cannot handle exceptions thrown by base-class" />
     <MESSAGE value="Handle constructor failure exception with IllegalStateException" />
     <MESSAGE value="Hierarchy of exceptions with hierarchy of inheritances" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hierarchy of exceptions with hierarchy of inheritances" />
+    <MESSAGE value="Try-Catch-Finally combination demo for divide by zero problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try-Catch-Finally combination demo for divide by zero problem" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581316263680">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1581316263680" />
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1581498232668">
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1581499673704">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1581498232668" />
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1581499673704" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1581499577457">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1581499934818">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581499577457" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1581499577455">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581499934818" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1581499934817">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581499577455" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1581499577454">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581499934817" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1581499934817">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581499577454" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1581499577456">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581499934817" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1581499934818">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581499577456" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581499934818" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -603,10 +603,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1581498234645">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1581499676229">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1581498234645" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1581499676229" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581485162714">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
