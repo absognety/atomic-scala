@@ -1,16 +1,16 @@
 package Sequences
 
-import Sequences.Solution04.Friend
+import Sequences.Solution04.companion
 object Solution06 {
   def main(args: Array[String]): Unit = {
     val friends3 = Vector(
-      new Friend(
+      new companion(
         "Zach", "Smith", "zach@smith.com"),
-      new Friend(
+      new companion(
         "Mary", "Add", "mary@add.com"),
-      new Friend(
+      new companion(
         "Sally","Taylor","sally@taylor.com"),
-      new Friend(
+      new companion(
         "Mary", "Smith", "mary@smith.com") )
     val s1 = friends3.sortBy(r => r.lastName)
     val s2 = s1.sortBy(s => s.firstName)
