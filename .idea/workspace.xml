@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ConstructorsandExceptions/codelisting/CodeListing.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ConstructorsandExceptions/problem01.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Sequences/Solution04.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Sequences/Solution04.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Sequences/Solution05.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Sequences/Solution05.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Sequences/Solution06.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Sequences/Solution06.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Solution06">
+  <component name="RunManager" selected="Application.problem05">
     <configuration name="Solution04" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Sequences.Solution04" />
       <module name="testscalaconfig" />
@@ -117,10 +116,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem05" />
         <item itemvalue="Application.Solution06" />
         <item itemvalue="Application.Solution05" />
         <item itemvalue="Application.Solution04" />
-        <item itemvalue="Application.problem05" />
         <item itemvalue="Application.problem10" />
       </list>
     </recent_temporary>
@@ -180,13 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00040" summary="solution04 using enumeration as a container ~ argument to TakeHome case class">
-      <created>1580794248459</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1580794248459</updated>
     </task>
     <task id="LOCAL-00041" summary="Person in an address book using Sequences of scala">
       <created>1580796452361</created>
@@ -524,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581502023779</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Fix the warning coming from case insensitive class names">
+      <created>1581502400046</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1581502400047</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -541,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex6: fixed the issue arising from changing case class to class when using maps" />
     <MESSAGE value="ex1: Demoing the different variations of mutable and immutable maps with operations allowed." />
     <MESSAGE value="Explanation for difference between Immutable and Mutable Sets in scala" />
     <MESSAGE value="ex3: change the contents/elements of a immutable vector by using map" />
@@ -566,37 +564,38 @@
     <MESSAGE value="Try-Catch-Finally combination demo for divide by zero problem" />
     <MESSAGE value="cast the return type of try block to String" />
     <MESSAGE value="Add case _:Throwable to remove warning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add case _:Throwable to remove warning" />
+    <MESSAGE value="Fix the warning coming from case insensitive class names" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix the warning coming from case insensitive class names" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581316263680">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1581316263680" />
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1581502023515">
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1581502399964">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1581502023515" />
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1581502399964" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1581502332087">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1581510639605">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581502332087" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1581502332087">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1581510639605" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1581510639604">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581502332087" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1581502332086">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1581510639604" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1581510639604">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581502332086" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1581502332087">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1581510639604" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1581510639605">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581502332087" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1581510639605" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -605,10 +604,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1581502029786">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1581502402185">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1581502029786" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1581502402185" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581485162714">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
