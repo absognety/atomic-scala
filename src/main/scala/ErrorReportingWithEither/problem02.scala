@@ -33,3 +33,10 @@ object problem02 {
     println (grid.play('O',1,3))
   }
 }
+/*
+OUTPUT should be:
+
+successful move
+Invalid move
+Invalid move
+ */

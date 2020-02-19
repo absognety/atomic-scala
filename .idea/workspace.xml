@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ErrorReportingWithEither/problem02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ErrorReportingWithEither/problem03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ErrorReportingWithEither/problem02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ErrorReportingWithEither/problem02.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,13 +179,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00047" summary="sortBy 1.primary key(lastName) and then 2.Tiebreaker(firstName)">
-      <created>1580801372030</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1580801372030</updated>
     </task>
     <task id="LOCAL-00048" summary="max element using recursion on a List[Int]">
       <created>1580825058572</created>
@@ -522,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581582630190</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="reimplement TicTacToe.scala using scala's Either">
+      <created>1582111127061</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1582111127061</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -539,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ex7: check the immutability of class with mutable and immutable argument types" />
     <MESSAGE value="Color Enumeration added for the exercises" />
     <MESSAGE value="ex1: Exception when not included backtick is included" />
     <MESSAGE value="1. Add a wrapper to blend method for enabling imports 2.Import modules from exercise 1 to override blend" />
@@ -564,37 +564,38 @@
     <MESSAGE value="problem01 version 2 by using apply" />
     <MESSAGE value="Exception handling on file that does not exist" />
     <MESSAGE value="Add explicit return type (Either[datatype1,datatype2]) to method f" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add explicit return type (Either[datatype1,datatype2]) to method f" />
+    <MESSAGE value="reimplement TicTacToe.scala using scala's Either" />
+    <option name="LAST_COMMIT_MESSAGE" value="reimplement TicTacToe.scala using scala's Either" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581316263680">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1581316263680" />
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1581582630018">
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1582111126895">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1581582630018" />
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1582111126895" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1582111085976">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1582111151366">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582111085976" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1582111085974">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582111151366" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1582111151365">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582111085974" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1582111085973">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582111151365" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1582111151365">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582111085973" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1582111085975">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582111151365" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1582111151365">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582111085975" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582111151365" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -603,10 +604,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1581582631974">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1582111128953">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1581582631974" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1582111128953" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582102739336">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
