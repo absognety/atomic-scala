@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="1. Include getClass in problem02 of Constructors&amp;Exceptions 2.Implement ShowListingTry.scala without Try">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/ConvertingExceptionsWithTry/solution03.scala" afterDir="false" />
+    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/ConstructorsandExceptions/problem02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ConstructorsandExceptions/problem02.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/ConvertingExceptionsWithTry/solution03.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/ConvertingExceptionsWithTry/solution03.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,13 +178,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00058" summary="ex1: modify maps.scala to interchange keys and values of Map">
-      <created>1580981855309</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1580981855309</updated>
     </task>
     <task id="LOCAL-00059" summary="ex2: create a map from just an email address in scala">
       <created>1580983479313</created>
@@ -523,7 +515,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582285498724</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="1. Include getClass in problem02 of Constructors&amp;Exceptions 2.Implement ShowListingTry.scala without Try">
+      <created>1582539166790</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1582539166790</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -572,10 +571,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1582284938880" />
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1582539144528">
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1582539166701">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1582539144528" />
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1582539166701" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -604,10 +603,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1582285500741">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1582539170324">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1582285500741" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1582539170324" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582276916781">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
