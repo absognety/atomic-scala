@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CustomErrorReporting/codelistingeither/CodeListingEither.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CustomErrorReporting/codelistingtester/CodeListingTester.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CustomErrorReporting/exercise01.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CustomErrorReporting/exercise02.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,9 +54,34 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.exercise01">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.exercise02">
     <configuration name="exercise01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="CustomErrorReporting.exercise01" />
+      <module name="testscalaconfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CustomErrorReporting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CustomErrorReporting.exercise02" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
@@ -76,19 +99,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ConstructorsandExceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="solution01 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ConvertingExceptionsWithTry.solution01" />
-      <module name="testscalaconfig" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ConvertingExceptionsWithTry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise02" />
         <item itemvalue="Application.exercise01" />
         <item itemvalue="Application.solution03 (1)" />
         <item itemvalue="Application.problem02" />
         <item itemvalue="Application.solution02 (1)" />
-        <item itemvalue="Application.solution01 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -163,18 +173,6 @@
         <entry key="$PROJECT_DIR$/build.sbt" value="627429813" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
       </map>
-    </option>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
