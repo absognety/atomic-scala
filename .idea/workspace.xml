@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CustomErrorReporting/exercise02.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/CustomErrorReporting/exercise03.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,19 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.exercise02">
+  <component name="RunManager" selected="Application.exercise03">
     <configuration name="exercise01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="CustomErrorReporting.exercise01" />
       <module name="testscalaconfig" />
@@ -93,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ConstructorsandExceptions.problem02" />
+    <configuration name="exercise03" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CustomErrorReporting.exercise03" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConstructorsandExceptions.*" />
+          <option name="PATTERN" value="CustomErrorReporting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="solution02 (1)" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ConvertingExceptionsWithTry.solution02" />
+    <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ConstructorsandExceptions.problem02" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConvertingExceptionsWithTry.*" />
+          <option name="PATTERN" value="ConstructorsandExceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercise03" />
         <item itemvalue="Application.exercise02" />
         <item itemvalue="Application.exercise01" />
         <item itemvalue="Application.solution03 (1)" />
         <item itemvalue="Application.problem02" />
-        <item itemvalue="Application.solution02 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -173,6 +161,18 @@
         <entry key="$PROJECT_DIR$/build.sbt" value="627429813" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
       </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -574,10 +574,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="snapshot of Output included" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582284938880">
+    <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583833792296">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1582284938880" />
+    <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1583833792296" />
     <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1582539283746">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -586,22 +586,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1582702879467">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1583834613204">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1582702879467" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1582702879466">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583834613204" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1583834613202">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1582702879466" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1582702879465">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583834613202" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1583834613201">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1582702879465" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1582702879466">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583834613201" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1583834613203">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1582702879466" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583834613203" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -614,10 +614,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1582539285424" />
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582697866904">
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583832449731">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582697866904" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583832449731" />
     <state x="295" y="27" width="840" height="739" key="search.everywhere.popup" timestamp="1580990171328">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
