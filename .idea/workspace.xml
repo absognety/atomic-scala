@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/CustomErrorReporting/exercise03.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/DesignByContract/problem01.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.exercise03">
+  <component name="RunManager" selected="Application.problem01">
     <configuration name="exercise01" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="CustomErrorReporting.exercise01" />
       <module name="testscalaconfig" />
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem02" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ConstructorsandExceptions.problem02" />
+    <configuration name="problem01" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="DesignByContract.problem01" />
       <module name="testscalaconfig" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ConstructorsandExceptions.*" />
+          <option name="PATTERN" value="DesignByContract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem01" />
         <item itemvalue="Application.exercise03" />
         <item itemvalue="Application.exercise02" />
         <item itemvalue="Application.exercise01" />
         <item itemvalue="Application.solution03 (1)" />
-        <item itemvalue="Application.problem02" />
       </list>
     </recent_temporary>
   </component>
@@ -185,13 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00060" summary="ex3: Add a Map to another Map using ++ operator.">
-      <created>1580984367087</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1580984367087</updated>
     </task>
     <task id="LOCAL-00061" summary="ex4: Add Turkish to existing languages Map">
       <created>1580985491706</created>
@@ -529,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582539283822</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Implement multiple conditional checks using Success/Failure">
+      <created>1583834662311</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1583834662313</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Handle constructor failure exception with IllegalStateException" />
     <MESSAGE value="Hierarchy of exceptions with hierarchy of inheritances" />
     <MESSAGE value="Try-Catch-Finally combination demo for divide by zero problem" />
     <MESSAGE value="cast the return type of try block to String" />
@@ -571,37 +570,38 @@
     <MESSAGE value="Testing the transform result with and without get" />
     <MESSAGE value="1. Include getClass in problem02 of Constructors&amp;Exceptions 2.Implement ShowListingTry.scala without Try" />
     <MESSAGE value="snapshot of Output included" />
-    <option name="LAST_COMMIT_MESSAGE" value="snapshot of Output included" />
+    <MESSAGE value="Implement multiple conditional checks using Success/Failure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implement multiple conditional checks using Success/Failure" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583833792296">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1583833792296" />
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1582539283746">
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1583834661726">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1582539283746" />
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1583834661726" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1579073240059" />
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1583834613204">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom" timestamp="1583841989878">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583834613204" />
-    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1583834613202">
+    <state width="1243" height="232" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583841989878" />
+    <state width="1243" height="232" key="GridCell.Tab.0.center" timestamp="1583841989877">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583834613202" />
-    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1583834613201">
+    <state width="1243" height="232" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583841989877" />
+    <state width="1243" height="232" key="GridCell.Tab.0.left" timestamp="1583841989877">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583834613201" />
-    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1583834613203">
+    <state width="1243" height="232" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583841989877" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right" timestamp="1583841989877">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583834613203" />
+    <state width="1243" height="232" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583841989877" />
     <state x="485" y="265" width="452" height="265" key="NewModule_or_Project.wizard" timestamp="1579073244101">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -610,10 +610,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1582539285424">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1583834665474">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1582539285424" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1583834665474" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583832449731">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
