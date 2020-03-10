@@ -5,7 +5,7 @@ object problem02 extends App {
   val nums = 1 to 26
   val alphanum = alphabets.zip(nums).toMap
   object myapp {
-    def cmdTask = {
+    def cmdTask:  Int= {
       var string = args(0)
       string.toLowerCase.foreach(v => require(v.isLetter,"There is " +
         "a character which is not inherently a alphabet"))

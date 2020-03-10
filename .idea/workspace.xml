@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/DesignByContract/problem02.scala" afterDir="false" />
+    <list default="true" id="27a7af83-20e4-46d8-84a9-f28398fb81fa" name="Default Changelist" comment="ex2: Create an application which sums up the numbers mapped with alphabets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/DesignByContract/problem02.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/DesignByContract/problem02.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,13 +185,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579073109785</updated>
-    </task>
-    <task id="LOCAL-00063" summary="1. remove key-value pair from Mam by key and value 2.Add m3 as an attribute to object problem03">
-      <created>1580986917503</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1580986917504</updated>
     </task>
     <task id="LOCAL-00064" summary="ex6: fixed the issue arising from changing case class to class when using maps">
       <created>1580987962998</created>
@@ -529,7 +522,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583843521743</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="ex2: Create an application which sums up the numbers mapped with alphabets">
+      <created>1583856031438</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1583856031438</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -546,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="cast the return type of try block to String" />
     <MESSAGE value="Add case _:Throwable to remove warning" />
     <MESSAGE value="Fix the warning coming from case insensitive class names" />
     <MESSAGE value="Add CodeListing.scala from Constructors &amp; Exceptions" />
@@ -571,17 +570,18 @@
     <MESSAGE value="Implement multiple conditional checks using Success/Failure" />
     <MESSAGE value="ex1: checking preconditions validity (correctness of arguments)" />
     <MESSAGE value="Added a postcondition check (A.M &gt;= G.M) for sum of numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a postcondition check (A.M &gt;= G.M) for sum of numbers" />
+    <MESSAGE value="ex2: Create an application which sums up the numbers mapped with alphabets" />
+    <option name="LAST_COMMIT_MESSAGE" value="ex2: Create an application which sums up the numbers mapped with alphabets" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1583833792296">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="149" width="524" height="494" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/67.27.1299.741@67.27.1299.741" timestamp="1583833792296" />
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1583843521674">
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2" timestamp="1583856112904">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1583843521674" />
+    <state x="211" y="27" width="1100" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1583856112904" />
     <state x="494" y="155" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579073240059">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -610,10 +610,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="97" y="27" width="1259" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580033013927" />
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1583843523615">
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1583856034113">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1583843523615" />
+    <state x="211" y="69" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1299.741@67.27.1299.741" timestamp="1583856034113" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583832449731">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
